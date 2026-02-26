@@ -3,6 +3,18 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "OSW",
   description: "Our Server's Wiki",
+
+  // FIX: This section allows your domain and server name to bypass Vite's security block
+  vite: {
+    server: {
+      allowedHosts: [
+        'ourserverswiki.duckdns.org', 
+        'localhost',
+        '192.168.1.69'
+      ]
+    }
+  },
+
   themeConfig: {
     logo: '/logo.webp',
     nav: [
@@ -76,11 +88,11 @@ export default defineConfig({
         day: 'numeric'
       }
     },
-editLink: {
-  pattern: 'https://github.com/YousefMohsen0/OurServersWiki/edit/main/docs/:path',
-  text: '📝 Edit this page'
-},
-outline: 'deep',
+    editLink: {
+      pattern: 'https://github.com/YousefMohsen0/OurServersWiki/edit/main/docs/:path',
+      text: '📝 Edit this page'
+    },
+    outline: 'deep',
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
