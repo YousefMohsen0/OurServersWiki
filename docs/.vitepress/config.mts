@@ -4,7 +4,7 @@ export default defineConfig({
   title: "OSW",
   description: "Our Server's Wiki",
 
-  // Bypasses the "Blocked host" error for NPM and your DuckDNS domain
+  // FIX: Allows NPM and your DuckDNS domain to bypass Vite's security block
   vite: {
     server: {
       allowedHosts: [
