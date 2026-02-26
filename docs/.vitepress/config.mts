@@ -8,10 +8,7 @@ export default defineConfig({
   vite: {
     server: {
       allowedHosts: [
-        'yhserver', 
-        'ourserverswiki.duckdns.org', 
-        'localhost',
-        '192.168.1.69'
+        'localhost'
       ]
     }
   },
