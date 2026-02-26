@@ -55,51 +55,42 @@ features:
     details: اسمع حمل تورنت اغاني بودكاستات و اكتر
     link: /Music-Podcasts-Radio
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="#6c73ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m2 2l8 8m12-8l-8 8"/><ellipse cx="12" cy="9" rx="10" ry="5"/><path d="M7 13.4v7.9m5-7.3v8m5-8.6v7.9M2 9v8a10 5 0 0 0 20 0V9"/></g></svg>
-
 ---
 
 <link rel="stylesheet" href="/styles/index.css">
 
 <div dir="rtl">
-</div>
+  </div>
 
----
+<style>
+  :root {
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
+    --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
+    --vp-home-hero-image-filter: blur(44px);
+    --vp-home-hero-name-text-shadow: 0 0 10px rgba(255, 255, 255, 0.7), 0 0 20px rgba(255, 255, 255, 0.7);
+  }
 
-<div dir="rtl">
-  <style>
+  @media (min-width: 640px) {
     :root {
-      --vp-home-hero-name-color: transparent;
-      --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-      --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
-      --vp-home-hero-image-filter: blur(44px);
-      --vp-home-hero-name-text-shadow: 0 0 10px rgba(255, 255, 255, 0.7), 0 0 20px rgba(255, 255, 255, 0.7);
+      --vp-home-hero-image-filter: blur(56px);
     }
+  }
 
-    @media (min-width: 640px) {
-      :root {
-        --vp-home-hero-image-filter: blur(56px);
-      }
+  @media (min-width: 960px) {
+    :root {
+      --vp-home-hero-image-filter: blur(68px);
     }
+  }
 
-    @media (min-width: 960px) {
-      :root {
-        --vp-home-hero-image-filter: blur(68px);
-      }
-    }
+  /* Target the whole body for RTL */
+  :visible {
+    direction: rtl;
+  }
 
-    body {
-      text-align: right;
-    }
-
-    .some-element {
-      margin-right: 0;
-      margin-left: auto;
-    }
-
-    .vp-home-hero-name {
-      color: var(--vp-home-hero-name-color);
-      background: var(--vp-home-hero-name-background);
-      text-shadow: var(--vp-home-hero-name-text-shadow);
-    }
-  </style>
-</div>
+  .vp-home-hero-name {
+    color: var(--vp-home-hero-name-color);
+    background: var(--vp-home-hero-name-background);
+    text-shadow: var(--vp-home-hero-name-text-shadow);
+  }
+</style>
