@@ -1,3 +1,5 @@
+<div dir="rtl">
+  
 # OSW - Our Server's Wiki
 
 [![GitHub stars](https://img.shields.io/github/stars/YousefMohsen0/OurServersWiki?style=for-the-badge&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/stargazers)
@@ -170,3 +172,5 @@ pnpm api:deploy
 ## ملاحظة عن الاسم
 
 OSW اختصار لـ Our Server Wiki، وهو تفريع/نسخة مبنية من FMHY ومتظبطة عشان تناسب احتياجنا ومحتوانا الخاص.
+
+</div>
