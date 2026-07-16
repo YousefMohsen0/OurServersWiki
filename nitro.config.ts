@@ -22,7 +22,10 @@ export default defineNitroConfig({
   preset: 'cloudflare_module',
   compatibilityDate: '2024-11-01',
   runtimeConfig: {
-    WEBHOOK_URL: process.env.WEBHOOK_URL
+    WEBHOOK_URL: process.env.WEBHOOK_URL,
+  },
+  output: {
+    dir: './.output',
   },
   srcDir: 'api/',
   routeRules: {
