@@ -26,7 +26,7 @@
 [برامج انتي فايرس تانية](https://www.reddit.com/r/antivirus/s/YBxupMyqyU) / [مترجم](https://rentry.co/ourserversmegathreadvirusscanning)
 :::
 
-## ▷ [المواقع الي مش امان](/Unsafe)
+## ▷ [المواقع الي مش امان](/unsafe)
 
 
 ### Adblocking (منع الإعلانات)
