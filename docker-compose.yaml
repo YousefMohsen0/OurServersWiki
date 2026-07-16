@@ -1,0 +1,14 @@
+services:
+  docs:
+    networks: [osw]
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: osw-docs
+    container_name: docs
+    restart: unless-stopped
+    ports:
+      - '4173:80'
+
+networks:
+  osw:
