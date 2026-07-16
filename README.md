@@ -85,7 +85,7 @@ pnpm api:build
 
 ده المكان المناسب لنشر واجهة الويكي الثابتة.
 
-- Build command: `pnpm install --frozen-lockfile && pnpm docs:build`
+- Build command: `pnpm install --frozen-lockfile --config.autoInstallPeers=false && pnpm docs:build`
 - Output directory: `docs/.vitepress/dist`
 - Path/Root: `/`
 
