@@ -15,7 +15,7 @@ import {
   sidebar,
   socialLinks
 } from './constants'
-import { generateFeed, generateImages, generateMeta } from './hooks'
+import { generateFeed, generateImages, generateMeta } from './hooks.ts'
 import { defs, emojiRender, movePlugin } from './markdown/emoji'
 import { headersPlugin } from './markdown/headers'
 import { toggleStarredPlugin } from './markdown/toggleStarred'
@@ -185,15 +185,7 @@ export default defineConfig({
         `
     ]
   ],
-  transformHead: async (context) => {
-    const headFromMeta = await generateMeta(context, meta.hostname)
-    const resolvedHead = await Promise.all(headFromMeta.map(async (tag) => {
-      const [tagName, attrs, innerHTML] = tag
-      const resolvedAttrs = { ...attrs, content: await attrs.content }
-      return [tagName, resolvedAttrs, innerHTML]
-    }))
-    return resolvedHead
-  },
+  transformHead: (context) => generateMeta(context, meta.hostname),
   buildEnd: async (context) => {
     try {
       await generateImages(context)
