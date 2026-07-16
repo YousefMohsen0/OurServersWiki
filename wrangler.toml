@@ -1,17 +1,17 @@
 name = "ourserverswiki"
 main = ".output/server/index.mjs"
 workers_dev = false
-account_id = "e287f44668f630819d5a4b98870c4748"
+account_id = "${CLOUDFLARE_ACCOUNT_ID}"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-11-01"
 
 routes = [
-  { pattern = "api.osw.pages.dev", custom_domain = true, zone_id = "b4212298934f7c1998b4d15f6d261715" },
+  { pattern = "api.osw.pages.dev", custom_domain = true, zone_id = "${CLOUDFLARE_ZONE_ID}" },
 ]
 
 [[kv_namespaces]]
 binding = "STORAGE"
-id = "6f18adea26a64d6b8858ffbdfd3f4cf2"
+id = "${CLOUDFLARE_KV_NAMESPACE_ID}"
 
 [[unsafe.bindings]]
 name = "RATE_LIMITER"
