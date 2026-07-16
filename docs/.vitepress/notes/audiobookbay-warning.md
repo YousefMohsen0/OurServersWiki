@@ -1,3 +1,3 @@
-#### AudiobookBay Warning
+#### تحذير AudiobookBay
 
-Avoid fake download links, use [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png), or paste info hash into torrent client.
+تجنب روابط التحميل المزيفة، استخدم [Torrents / Magnets](https://i.ibb.co/8sV2061/0fa8159b11bb.png)، أو الصق الـ info hash في برنامج التورنت.

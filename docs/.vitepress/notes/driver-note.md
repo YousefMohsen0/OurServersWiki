@@ -1,3 +1,3 @@
-#### Driver Note
+#### ملاحظة تعريفات
 
-Only install the drivers you actually need. Don't install new drivers all at once, as this could lead to things breaking, especially system audio.
+نزّل بس التعريفات اللي فعلاً محتاجها. متثبتش تعريفات جديدة كلها مرة واحدة، عشان ده ممكن يخرب حاجات، وخصوصًا صوت النظام.

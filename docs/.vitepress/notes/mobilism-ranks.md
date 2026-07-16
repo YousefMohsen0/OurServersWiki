@@ -1,3 +1,3 @@
-#### Mobilism Ranks
+#### رتب Mobilism
 
-See what the different Mobilism Ranks mean [here](https://i.imgur.com/WpShSFp.png).
+شوف إيه معنى رتب Mobilism المختلفة [هنا](https://i.imgur.com/WpShSFp.png).

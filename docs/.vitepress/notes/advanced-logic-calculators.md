@@ -1,7 +1,7 @@
-#### Advanced Logic Calculators
+#### حاسبات المنطق المتقدمة
 
-* Analytic tableaux generator: https://www.umsu.de/trees/
-* Natural deduction proof checker: https://proofs.openlogicproject.org/
-* Propositional logic calculator (finds models): https://www.inf.unibz.it/~franconi/teaching/propcalc/
-* A tutorial on sequent calculus: http://logitext.mit.edu/tutorial
-* Modal logic playground (for constructing models): https://rkirsling.github.io/modallogic/
+* مولد جداول التحليل: https://www.umsu.de/trees/
+* مدقق إثبات الاستنتاج الطبيعي: https://proofs.openlogicproject.org/
+* حاسبة المنطق الاقتراحي (لاقتناص النماذج): https://www.inf.unibz.it/~franconi/teaching/propcalc/
+* شرح لـ sequent calculus: http://logitext.mit.edu/tutorial
+* ملعب المنطق النمطي (لبناء النماذج): https://rkirsling.github.io/modallogic/

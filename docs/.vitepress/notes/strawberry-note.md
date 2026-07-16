@@ -1,3 +1,3 @@
-#### Strawberry Note
+#### ملاحظة Strawberry
 
-Downloads for Windows & Mac are only availabe on their [Patreon](https://www.patreon.com/jonaskvinge) (paid monthly sub required)
+تحميلات ويندوز وماك متاحة بس على [Patreon](https://www.patreon.com/jonaskvinge) (مطلوب اشتراك شهري مدفوع)

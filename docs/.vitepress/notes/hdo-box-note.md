@@ -1,3 +1,3 @@
-#### HDO Box Note
+#### ملاحظة HDO Box
 
-To use the app, HDO Box may ask you to install a third-party video player which contains ads. To block the ads, use the tools linked in [DNS Adblocking](https://fmhy.net/privacy#dns-adblocking).
+عشان تستخدم التطبيق، HDO Box ممكن يطلب منك تنصب مشغل فيديو تابع لجهة تانية فيه إعلانات. عشان تمنع الإعلانات، استخدم الأدوات اللي في [DNS Adblocking](https://fmhy.net/privacy#dns-adblocking).

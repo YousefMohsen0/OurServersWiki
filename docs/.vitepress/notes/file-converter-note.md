@@ -1,3 +1,3 @@
-#### File Converter
+#### محول الملفات
 
-Do NOT install version 2.2. It is currently broken. If you haven't installed File Converter before, install version 2.1 from [here](https://github.com/Tichau/FileConverter/releases/tag/v2.1). If you've already installed version 2.2, follow the downgrade guide [here](https://github.com/Tichau/FileConverter/issues/728#issuecomment-4077979230).
+متثبتش الإصدار 2.2. هو حالياً مكسور. لو لسه مثبتش File Converter قبل كده، ثبت الإصدار 2.1 من [هنا](https://github.com/Tichau/FileConverter/releases/tag/v2.1). لو كنت ثبّت الإصدار 2.2، اتبع دليل الرجوع لإصدار أقدم من [هنا](https://github.com/Tichau/FileConverter/issues/728#issuecomment-4077979230).

@@ -1,3 +1,3 @@
-#### Neocities Note
+#### ملاحظة Neocities
 
- Note that free tier has limited file types and can't fetch to external sites.
+لاحظ إن الخطة المجانية فيها أنواع ملفات محدودة ومش قادرة تجيب بيانات من مواقع خارجية.

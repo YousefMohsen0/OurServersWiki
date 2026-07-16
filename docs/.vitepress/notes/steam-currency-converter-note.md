@@ -1,5 +1,5 @@
-#### Steam Currency Converter Note
+#### ملاحظة محول عملات Steam
 
-For instant currency conversion:
+للتحويل الفوري للعملات:
 
-Go to Firefox's add-on settings (or the link `about:addons`) -> click on the add-on -> go to the `Permissions and data` section -> enable the optional sites.
+روح لإعدادات إضافات فايرفوكس (أو الرابط `about:addons`) -> اضغط على الإضافة -> روح لقسم `Permissions and data` -> فعل المواقع الاختيارية.

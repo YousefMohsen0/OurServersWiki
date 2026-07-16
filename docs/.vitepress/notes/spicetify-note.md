@@ -1,5 +1,5 @@
-#### Spicetify Note
+#### ملاحظة Spicetify
 
-Join their [Discord](https://discord.gg/VnevqPp2Rr) for version compatibility.
+انضم لـ [ديسكورد](https://discord.gg/VnevqPp2Rr) بتاعهم عشان توافق الإصدارات.
 
-Note that you can use the store built in to get a full list of addons and themes.
+لاحظ إنك تقدر تستخدم المتجر المدمج عشان تجيب قائمة كاملة بالإضافات والثيمات.

@@ -1,3 +1,3 @@
-#### WeLib Note
+#### ملاحظة WeLib
 
-WeLib is *not* connected to Anna's Archive, they simply mirror Anna's content onto their own site that has a different UI. It is not updated as often, and they don't share their codebase improvements publicly, so they aren't endorsed by Anna's themselves.
+WeLib مش متصلة بـ Anna's Archive، هما بس بيعكسوا محتوى Anna على موقعهم اللي عنده واجهة مختلفة. مش بيتحدث بنفس السرعة، وهما مش بيشاركوا تحسينات الكود بتاعتهم علنياً،所以他们 مش مدعومين من Anna's نفسها.

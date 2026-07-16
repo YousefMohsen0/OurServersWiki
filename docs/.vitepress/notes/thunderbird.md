@@ -1,5 +1,5 @@
-#### Thunderbird Notifications
+#### إشعارات Thunderbird
 
-To get real-time notifications:
+عشان تجيب إشعارات فورية:
 
-Press the three lines in the top left corner -> select the account you want to configure -> select `Manage Folders` -> select the folder you want from below. You can then select inbox and enable push. (Notifications must be enabled).
+اضغط على الخطوط التلاتة في الزاوية الشمال فوق -> اختار الحساب اللي عايز تضبطه -> اختار `Manage Folders` -> اختار الفولدر اللي عايزه من تحت. بعدين تقدر تختار inbox وتفعل push. (الإشعارات لازم تكون مفعلة).

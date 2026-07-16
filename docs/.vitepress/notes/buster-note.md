@@ -1,7 +1,7 @@
-#### Buster Note
+#### ملاحظة Buster
 
-The client app simulates user interactions which greatly improves the success rate of buster. You can download the app through the extensions option page, or from the link below: 
+تطبيق الكلاينت بيحاكي تفاعلات المستخدم وده بيساعد大大提高 نسبة نجاح Buster. تقدر تحمل التطبيق من صفحة خيارات الإضافة، أو من الرابط تحت:
 
 https://github.com/dessant/buster-client
 
-The app is available for Windows, Linux, and macOS.
+التطبيق متاح لويندوز ولينكس وماك.

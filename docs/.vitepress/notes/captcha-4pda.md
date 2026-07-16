@@ -1,3 +1,3 @@
-#### Captcha 4PDA 
+#### كابتشا 4PDA
 
-Use Google Gemini to translate the captcha.
+استخدم Google Gemini عشان تترجم الكابتشا.

@@ -1,3 +1,3 @@
-#### Yet Another Call Blocker Note
+#### ملاحظة Yet Another Call Blocker
 
-The app itself isn't updated, but the blocklists are. It has a main local blocklist by default, and if you have "Auto-update database" enabled the app receives daily blocklist updates directly from third-party services. More info in their [GitLab repository](https://gitlab.com/xynngh/YetAnotherCallBlocker#yet-another-call-blocker).
+التطبيق نفسه مش بيتحدث، لكن قوائم الحظر بتتحدث. عنده قائمة حظر محلية أساسية افتراضياً، ولو فعّلت "Auto-update database" التطبيق بيجيله تحديثات يومية لقوائم الحظر مباشرة من خدمات تالتة. معلومات أكتر في [مستودع GitLab](https://gitlab.com/xynngh/YetAnotherCallBlocker#yet-another-call-blocker).

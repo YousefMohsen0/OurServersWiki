@@ -1,4 +1,4 @@
-#### ScrollAnywhere Addons
+#### إضافات ScrollAnywhere
 
 * https://addons.mozilla.org/en-US/firefox/addon/scroll_anywhere/
 * https://chrome.google.com/webstore/detail/scrollanywhere/jehmdpemhgfgjblpkilmeoafmkhbckhi

@@ -1,12 +1,12 @@
-#### ISH Note
+#### ملاحظة ISH
 
-500K tokens/day
+500K توكن/يوم
 
-Ad refill:
-Each ad will now give 100K tokens.
-You can watch up to 5 ads per day, giving you up to 500K extra tokens/day.
+إعادة تعبئة بالإعلانات:
+كل إعلان هيديك 100K توكن.
+تقدر تشوف 5 إعلانات في اليوم كحد أقصى، وده يديّك لحد 500K توكن إضافي/يوم.
 
-Model token multipliers:
+مضاعفات التوكن حسب الموديل:
 Sonnet 4.5 - 6x
 Sonnet 4.6 - 6x
 Haiku 4.5 - 3x

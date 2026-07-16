@@ -1,3 +1,3 @@
-#### Filebin Warning
+#### تحذير Filebin
 
- Anyone with a link to a "bin" has full access to it. They can add new files, delete existing files, etc.
+أي حد عنده لينك "bin" عنده وصول كامل له. يقدر يضيف ملفات جديدة، يمسح ملفات موجودة، إلخ.

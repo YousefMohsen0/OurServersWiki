@@ -1,3 +1,3 @@
-#### TeamSpeak Warning
+#### تحذير TeamSpeak
 
-Note that TeamSpeak server admins can view user IP addresses, so only join servers you trust.
+لاحظ إن مدراء سيرفر TeamSpeak يقدرون يشوفوا عناوين IP بتاعة المستخدمين، فانضم بس لسيرفرات بتثق فيها.

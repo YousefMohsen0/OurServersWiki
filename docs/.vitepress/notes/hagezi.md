@@ -1,1 +1,3 @@
-Note that Hagezi does have a Anti-Piracy Blocklist, but it is totally optional, and is [disabled by default](https://i.ibb.co/mrpsX6KK/image.png) / [2](https://i.imgur.com/EXTbohV.png) in all of their blocklist versions.
+#### ملاحظة Hagezi
+
+لاحظ إن Hagezi عنده قائمة حظر لمكافحة القرصنة، لكنها اختيارية تماماً، و[مفعلة بشكل افتراضي](https://i.ibb.co/mrpsX6KK/image.png) / [2](https://i.imgur.com/EXTbohV.png) في كل إصدارات قوائم الحظر بتاعته.

@@ -1,3 +1,3 @@
-### ModelScope Note
+### ملاحظة ModelScope
 
-This site uses credits (called *magicubes*) to generate images and videos, you get 100 daily. It costs 2 magicubes per image for Qwen, 1 for Z-Image, and 28 for Wan 2.2 14b I2V. You can link an Alibaba Cloud account for free if you ignore the final part of account setup where it asks for payment info and link the account anyways, which gets you 50 extra magicubes daily.
+الموقع ده بيستخدم رصيد (اسمه *magicubes*) عشان يولد صور وفيديوهات، بتاخد 100 كل يوم. بيكلف 2 magicubes لكل صورة لـ Qwen، و 1 لـ Z-Image، و 28 لـ Wan 2.2 14b I2V. تقدر تربط حساب Alibaba Cloud مجاناً لو تجاهلت الجزء الأخير من إعداد الحساب اللي بيطلب معلومات الدفع وربط الحساب على أي حال، وده يديّك 50 magicubes إضافية يومياً.

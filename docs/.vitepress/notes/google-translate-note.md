@@ -1,3 +1,3 @@
-#### Google Translate Note
+#### ملاحظة Google Translate
 
-Google Translate can be used as a web proxy. Simply paste your URL into the translate field and then click on the result and view the page in the original language. This way you can navigate any web-page via google.com. Google is almost never blocked so this trick works on most occasions.
+Google Translate ممكن يستخدم كـ proxy ويب. ببساطة الصق الـ URL بتاعك في خانة الترجمة وبعدين اضغط على النتيجة واعرض الصفحة بلغتها الأصلية. كده تقدر تتصفح أي صفحة ويب عن طريق google.com. Google تقريباً مش محظور أبداً، فالخدعة دي بتشتغل في معظم الأوقات.

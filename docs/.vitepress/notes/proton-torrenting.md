@@ -1,5 +1,5 @@
 #### Proton Torrenting
 
-Torrenting on Proton VPN's free plan is only possible when using an OpenVPN configuration / [Guide](https://protonvpn.com/support/vpn-config-download). Note that they do expire, so you'll have to make new ones occasionally.
+التورنت على خطة Proton VPN المجانية ممكنة بس باستخدام إعداد OpenVPN / [دليل](https://protonvpn.com/support/vpn-config-download). لاحظ إنها بتنتهي صلاحيتها، فهتحتاج تعمل واحدة جديدة من وقت للتاني.
 
-OpenVPN login credentials are located [here](https://account.protonvpn.com/account-password).
+بيانات تسجيل الدخول لـ OpenVPN موجودة [هنا](https://account.protonvpn.com/account-password).

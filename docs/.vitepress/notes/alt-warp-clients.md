@@ -1,6 +1,6 @@
-#### Alternative Warp Clients
+#### عملاء Warp البديلين
 
-If you can't connect, try `Scanner Settings` -> `Endpoint` -> `Suggested` -> then try different IP's to find one that works
+لو مش قادر تتصل، جرب `Scanner Settings` -> `Endpoint` -> `Suggested` -> بعدين جرب IPs مختلفة عشان تلاقي واحدة تشتغل
 
 * https://github.com/bepass-org/oblivion-desktop
 * https://github.com/bepass-org/oblivion

@@ -1,3 +1,3 @@
-#### AFFiNE Note
+#### ملاحظة AFFiNE
 
-Downloads for Windows, Mac, Linux are available on their [GitHub](https://github.com/toeverything/AFFiNE)
+تحميلات ويندوز وماك ولينكس متاحة على [GitHub](https://github.com/toeverything/AFFiNE)

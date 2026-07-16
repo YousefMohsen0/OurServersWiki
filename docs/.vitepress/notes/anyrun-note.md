@@ -1,3 +1,3 @@
-#### ANY.RUN Note
+#### ملاحظة ANY.RUN
 
-You can use the throwaway .edu sites to sign up + select "other" as profession.
+تقدر تستخدم مواقع .edu اللي بتت throwaway عشان تعمل sign-up + اختار "other" كـ مهنة.

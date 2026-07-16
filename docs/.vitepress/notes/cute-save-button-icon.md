@@ -1,3 +1,3 @@
-#### Changing the Cute Save Button Icon
+#### تغيير أيقونة زر الحفظ اللطيف
 
-You can change the icon of the save button in the extension's settings. The setting is labeled "Your custom cute icon:" You can find standard image download icons to use instead here: https://rentry.co/image-download-icons.
+تقدر تغير أيقونة زر الحفظ من إعدادات الإضافة. الإعداد اسمه "Your custom cute icon:" تقدر تلاقي أيقونات تحميل صور عادية تستخدمها بدل كده من هنا: https://rentry.co/image-download-icons.

@@ -1,3 +1,3 @@
-#### Steam Controller Support
+#### دعم يد التحكم Steam
 
-Steam has built in support for most controller types, just add your games to Steam, right click the game, and turn on your controller.
+ستيم عنده دعم مدمج لمعظم أنواع اليد، بس أضف ألعابك لـ Steam، كليك يمين على اللعبة، وشغل يدك.

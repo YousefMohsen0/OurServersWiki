@@ -1,5 +1,5 @@
-#### MovieParadise Code
+#### كود MovieParadise
 
-In order to unlock the better host (1fichier) you need a signup code. This is important as without it the site will be only Rapidgator links, which are very slow. You can get a code from the link below, or from the pinned messages in our `#free-stuff` [Discord channel](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
+عشان تفتح المضيف الأحسن (1fichier) محتاج كود تسجيل. ده مهم عشان من غيره الموقع هيبقى فيه لينكات Rapidgator بس، واللي بطيئة جداً. تقدر تجيب كود من الرابط تحت، أو من الرسائل المثبتة في قناة `#free-stuff` بتاعتنا على [ديسكورد](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).
 
-**[Click Here To Get Code](https://rentry.org/he8fhzku)**
+**[اضغط هنا عشان تجيب الكود](https://rentry.org/he8fhzku)**

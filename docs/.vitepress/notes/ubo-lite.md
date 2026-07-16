@@ -1,3 +1,3 @@
-#### uBlock Origin Lite
+#### ملاحظة uBlock Origin Lite
 
-Note that uBO Lite version does NOT work nearly as well as the full version of uBO. We highly recommend using a browser like Firefox or Brave that allows the full version.
+لاحظ إن نسخة uBO Lite مش شغالة كويس زي النسخة الكاملة من uBO. بننصح بشدة تستخدم متصفح زي Firefox أو Brave اللي بيسمح بالنسخة الكاملة.

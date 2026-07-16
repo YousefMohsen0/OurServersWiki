@@ -1,3 +1,3 @@
 #### Bookmarkeddit
 
-This also extends the amount of saved posts you can view (Reddit caps at 1000 by default).
+كمان ده بيزيد عدد المنشورات اللي تقدر تشوفها (Reddit بيحدد بـ 1000 بشكل افتراضي).

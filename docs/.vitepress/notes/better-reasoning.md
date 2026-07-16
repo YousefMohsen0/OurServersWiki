@@ -1,3 +1,3 @@
-#### Better Reasoning
+#### تفكير أفضل
 
-To get better reasoning, switch to "Think Deeper" mode.
+عشان تحصل على تفكير أفضل، حول لوضع "Think Deeper".

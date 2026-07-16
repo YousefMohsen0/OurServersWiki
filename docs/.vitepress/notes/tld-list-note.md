@@ -1,3 +1,3 @@
-#### tld-list Note
+#### ملاحظة tld-list
 
-Keep in mind that tld-list.com is owned and operated by Spaceship (Namecheap Company).
+خلي بالك إن tld-list.com مملوك ومدار من Spaceship (شركة Namecheap).

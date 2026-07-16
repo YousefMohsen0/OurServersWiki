@@ -1,8 +1,8 @@
-#### Sanet Warning
+#### تحذير Sanet
 
-Note that Sanet has been known to host unsafe things like KMS Matrix, so it's best to avoid it for software and games.
+لاحظ إن Sanet معروف إنه بيستضيف حاجات مش آمنة زي KMS Matrix، فالأفضل تتجنبه للبرامج والألعاب.
 
-SoftArchive Mirrors
+مرايات SoftArchive
 
 - https://sanet.download/
 - https://softarchive.is/

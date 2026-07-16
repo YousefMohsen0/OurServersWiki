@@ -1,3 +1,3 @@
-#### Cofi Note
+#### ملاحظة Cofi
 
-Useful if you're a coffee enthusiast. The methods are created by James Hoffmann, he's a world champion barista and popular YouTuber.
+مفيد لو انت من عشاق القهوة. الطرق من إعداد James Hoffmann، هو بطل عالمي باريستا ويوتيوبر مشهور.

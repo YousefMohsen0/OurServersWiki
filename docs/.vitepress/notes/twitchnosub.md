@@ -1,3 +1,3 @@
-#### TwitchNoSub Note
+#### ملاحظة TwitchNoSub
 
-Note this is not compatible with Adguard Extra userscript.
+لاحظ إن ده مش متوافق مع Adguard Extra userscript.

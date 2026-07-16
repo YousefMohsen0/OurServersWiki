@@ -1,3 +1,3 @@
-#### Nekoweb Note
+#### ملاحظة Nekoweb
 
-Bandwidth is generally unlimited, but you might be asked to upgrade to a higher tier if your site consumes a huge amount.
+ال bandwidth عموماً غير محدود، لكن ممكن يطلب منك الترقية لمستوى أعلى لو موقعك بيستهلك كمية كبيرة.

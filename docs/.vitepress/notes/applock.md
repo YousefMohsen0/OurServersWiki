@@ -1,3 +1,3 @@
-#### AppLock Note
+#### ملاحظة AppLock
 
-Note this is a privacy utility meant to prevent common snooping, its not claiming to be a security tool, and will not stop forensic analysis.
+لاحظ إن الأداة دي للخصوصية عشان تمنع التطفل العادي، مش بتدّعي إنها أداة أمان، وهتوقفش التحليل الجنائي.

@@ -1,3 +1,3 @@
-#### FileZilla Warning
+#### تحذير FileZilla
 
-The version of FileZilla on FileZilla's front page has adware, but the non-adware version is the only link on FMHY. You can also find the non-adware version by pressing download on the FileZilla front page, then clicking "Show additional download options" under "More download options" at the download page.
+النسخة اللي على الصفحة الرئيسية لـ FileZilla فيها adware، لكن النسخة الخالية من الإعلانات هي الرابط الوحيد على FMHY. تقدر كمان تلاقي النسخة الخالية من الإعلانات بالضغط على download في الصفحة الرئيسية لـ FileZilla، بعدين اضغط "Show additional download options" تحت "More download options" في صفحة التحميل.

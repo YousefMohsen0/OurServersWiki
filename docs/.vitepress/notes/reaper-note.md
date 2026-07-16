@@ -1,3 +1,3 @@
-#### Reaper Note
+#### ملاحظة Reaper
 
-Reaper asks you to buy it after 60 days, but you can just close the popup and keep using it for free.
+Reaper بيطلب منك تشتريه بعد 60 يوم، لكنك تقدر تقفل الـ popup وتفضل تستخدمه مجاناً.

@@ -1,5 +1,5 @@
-### OpenSubtitles with MPC-HC
+### OpenSubtitles مع MPC-HC
 
-You can create an OpenSubtitles account and link it in MPC-HC to bypass quota limits.
+تقدر تعمل حساب OpenSubtitles وتربطه في MPC-HC عشان تتجاوز حدود الحصة.
 
-You can do this via a panel in MPC-HC located at: `Options` -> `Subtitles` -> `Misc.` > Right-click on `OpenSubtitles.com` -> `Setup` -> Fill in username and password.
+تقدر تعمل كده عن طريق لوحة في MPC-HC في: `Options` -> `Subtitles` -> `Misc.` > كليك يمين على `OpenSubtitles.com` -> `Setup` -> اكتب اسم المستخدم وكلمة السر.

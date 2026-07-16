@@ -1,3 +1,3 @@
 #### Video DownloadHelper
 
-Note that some versions of this extension give a watermark on sites that need conversion. It seems to happen on the Windows + Firefox version.
+لاحظ إن بعض إصدارات الإضافة دي بتدي علامة مائية على المواقع اللي محتاجة تحويل. ده بيحصل غالباً على نسخة ويندوز + فايرفوكس.

@@ -1,3 +1,3 @@
-#### Aurora Note
+#### ملاحظة Aurora
 
-Keep in mind that some apps will not work unless you installed them from the Google Play Store. This is usually true for things like banking, and other institutional apps.
+خلي بالك إن بعض التطبيقات مش هتشتغل إلا لو نزّلتها من Google Play Store. الكلام ده بينطبق على تطبيقات البنوك والحاجات المؤسسية كده.

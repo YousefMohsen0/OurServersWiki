@@ -1,3 +1,3 @@
-#### Google Song Identification
+#### تحديد الأغاني من Google
 
-Google and YouTube Music mobile apps have song identification button next to the search box.
+تطبيقات Google ويوتيوب ميوزك على الموبايل عندهم زر تحديد الأغاني جنب مربع البحث.

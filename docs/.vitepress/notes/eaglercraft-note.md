@@ -1,3 +1,3 @@
-#### Eaglercraft Note
+#### ملاحظة Eaglercraft
 
-Play on Chromium-based browsers for the best performance.
+العب على متصفحات Chromium عشان أحسن أداء.

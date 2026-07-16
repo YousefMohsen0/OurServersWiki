@@ -1,1 +1,1 @@
-Spacewar! is a [1962 multiplayer game](https://wikipedia.org/wiki/Spacewar!) made for the DEC PDP-1 minicomputer. It was later ported to other systems, making it the first ever multi-computer game.
+Spacewar! هي [لعبة متعددة اللاعبين من 1962](https://wikipedia.org/wiki/Spacewar!) معمولة لـ DEC PDP-1 minicomputer. بعد كده اتنقلت لأنظمة تانية، وخلتها أول لعبة متعددة الكمبيوترات في التاريخ.

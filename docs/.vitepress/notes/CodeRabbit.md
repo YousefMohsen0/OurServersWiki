@@ -1,1 +1,3 @@
-Note you can get free pro by installing code rabbit on a public github/gitlab repo, as they offer a free open source plan with no popularity requirements or approval/forms.
+#### ملاحظة CodeRabbit
+
+لاحظ إنك تقدر تجيب الـ pro مجانًا عن طريق تثبيت CodeRabbit على repo عام على GitHub/GitLab، لأنهم بيدّوا خطة مفتوحة المصدر مجانية من غير متطلبات شهرة أو موافقات/نماذج.

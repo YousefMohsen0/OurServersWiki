@@ -1,3 +1,3 @@
-#### ChatGPT Limits
+#### حدود ChatGPT
 
- GPT Instant (no reasoning; 16K context) / 10 messages every 5 hours, then GPT-5-mini.
+GPT Instant (بدون تفكير؛ 16K سياق) / 10 رسايل كل 5 ساعات، بعدين GPT-5-mini.

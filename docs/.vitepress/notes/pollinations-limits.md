@@ -1,17 +1,17 @@
-#### Pollinations Limits
+#### حدود Pollinations
 
-For chat.pollinations.ai (and the underlying API), the rate limits depend on how you're using it:
+لـ chat.pollinations.ai (والـ API الأساسي)، حدود الاستخدام بتعتمد على طريقة استخدامك:
 
-**Anonymous / Free Tier (No Login)**
-- **Text/Chat**: ~1 request every **3 seconds** (per IP).
-- **Images**: ~1 request every **5 seconds** (per IP).
+**مجهول / مجاني (من غير تسجيل دخول)**
+- **نص/شات**: ~1 طلب كل **3 ثواني** (لكل IP).
+- **صور**: ~1 طلب كل **5 ثواني** (لكل IP).
 
-**Logged In (Pollen System)**
-- Users get a **daily free Pollen allowance** based on their tier.
-- **Publishable Keys (`pk_`)**: Rate limited to prevent abuse (e.g., ~1 pollen/hour per IP).
-- **Secret Keys (`sk_`)**: **No rate limits** (requests run as fast as you can pay for them with Pollen).
+**مسجل دخول (نظام Pollen)**
+- المستخدمين بيدخلوا **بدل يومي مجاني من Pollen** حسب مستواهم.
+- **مفاتيح Publishable (`pk_`)**: محدودة بمعدل لمنع إساءة الاستخدام (مثلاً ~1 pollen/ساعة لكل IP).
+- **مفاتيح Secret (`sk_`)**: **مفيش حدود** (الطلبات بتشتغل بسرعتك ما دام معاك Pollen تدفع بيه).
 
-If you're hitting limits on the chat site:
-1. Slow down slightly (wait 3-5s between messages).
-2. **Log in** at [enter.pollinations.ai](https://enter.pollinations.ai) to use your daily free credits.
-3. If you need massive throughput, use an API key (`sk_`) with purchased credits.
+لو بتواجه حدود في موقع الشات:
+1. قلل سرعة شوية (استنى 3-5 ثواني بين الرسايل).
+2. **سجل دخول** على [enter.pollinations.ai](https://enter.pollinations.ai) عشان تستخدم رصيدك اليومي المجاني.
+3. لو محتاج throughput كبير، استخدم API key (`sk_`) برصيد مشترك.

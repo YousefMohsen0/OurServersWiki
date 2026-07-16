@@ -1,3 +1,3 @@
-#### MVSEP Note
+#### ملاحظة MVSEP
 
-Register to get .wav and .flac output, and lower queue times.
+سجل عشان تاخد خرج .wav و .flac، وتقليل وقت الانتظار.

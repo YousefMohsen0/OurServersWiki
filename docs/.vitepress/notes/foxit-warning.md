@@ -1,3 +1,3 @@
-#### Foxit Warning
+#### تحذير Foxit
 
-The installer tries to install McAfee WebAdvisor + PhantomPDF Business. They can be skipped by clicking "decline" both times.
+المثبت بيحاول ينصب McAfee WebAdvisor + PhantomPDF Business. تقدر تتخطاهم بالضغط على "decline" المرتين.

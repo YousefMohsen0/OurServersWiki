@@ -1,3 +1,3 @@
-#### OpenAsar Note
+#### ملاحظة OpenAsar
 
-The Vencord installer has an option to install OpenAsar, but you may need to click the install button twice (only once more after clicking "Accept").
+مثبت Vencord عنده خيار تثبيت OpenAsar، لكنك ممكن تحتاج تضغط زر التثبيت مرتين (مرة واحدة بس بعد الضغط على "Accept").

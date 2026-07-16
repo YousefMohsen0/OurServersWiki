@@ -1,3 +1,3 @@
-#### General Tweak Warning
+#### تحذير عام للتعديلات
 
-Make sure you know what you're doing before you apply these tweaks. Always research first, never just "Apply All" without knowing what what will happen.
+تأكد إنك عارف إنت بتعمل إيه قبل ما تطبق التعديلات دي. دايماً ابحث الأول، ومتضغطش "Apply All" من غير ما تعرف إيه اللي هيحصل.

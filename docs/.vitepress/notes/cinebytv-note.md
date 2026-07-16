@@ -1,3 +1,3 @@
-#### CinebyTV Note
+#### ملاحظة CinebyTV
 
-Note that CinebyTV is not affiliated with the main Cineby site.
+لاحظ إن CinebyTV مش تابعة للموقع الرئيسي Cineby.

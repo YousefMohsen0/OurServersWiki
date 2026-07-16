@@ -1,3 +1,3 @@
-#### Nano Banana Pro Note
+#### ملاحظة Nano Banana Pro
 
-Nano Banana Pro is a bit glitchy as of now, but it is being worked on according to their Discord staff.
+Nano Banana Pro تقيل شوية دلوقتي، لكنه شغال عليه حسب ما قال فريق الديسكورد بتاعهم.

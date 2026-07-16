@@ -1,3 +1,3 @@
-#### Buzzheavier Warning
+#### تحذير Buzzheavier
 
- Many popular file hosts have download buttons that redirect to fake malicious download pages. Using the full version of [uBlock Origin](/privacy#adblocking) can prevent this but it doesn't always work. Read this [guide](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) to learn what fake malicious download pages look like and how to avoid them. A general rule is to avoid download pages that open in a new tab or redirected page, real downloads happen within the same page as the file host.
+كتير من مواقع استضافة الملفات المشهورة عندها أزرار تحميل بتودي على صفحات تحميل مزيفة ضارة. استخدام النسخة الكاملة من [uBlock Origin](/privacy#adblocking) ممكن يمنع ده لكنه مش دايمًا بيشتغل. اقرأ [الدليل](https://cs.rin.ru/forum/viewtopic.php?f=14&t=159345) ده عشان تعرف شكل صفحات التحميل المزيفة والضارة وإزاي تتجنبها. القاعدة العامة إنك تتجنب صفحات التحميل اللي بتتفتح في تبويب جديد أو صفحة متحولة، التحميل الحقيقي بيحصل في نفس صفحة الموقع.

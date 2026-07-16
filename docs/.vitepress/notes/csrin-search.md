@@ -1,5 +1,5 @@
-#### CS.RIN Search
+#### بحث CS.RIN
 
-If your initial search doesn't work, trying searching the same term again within the "search these results" engine on the results screen. 
+لو البحث الأولاني مش شغال، جرب تدور على نفس الكلمة تاني في خانة "search these results" اللي على شاشة النتائج.
 
-<img width="1307" height="97" alt="image" src="https://github.com/user-attachments/assets/b2f149b9-8a9a-4250-8754-e63f50b82c59" />
+<img width="1307" height="97" alt="صورة" src="https://github.com/user-attachments/assets/b2f149b9-8a9a-4250-8754-e63f50b82c59" />

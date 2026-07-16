@@ -1,3 +1,3 @@
-#### Android Spotify Note
+#### ملاحظة Spotify للأندرويد
 
-None of Spotify apks (for rooted and non-rooted users) works for now due to server side restriction.
+مفيش أي Spotify apks (للمستخدمين الـ Rooted والـ Non-rooted) شغالة دلوقتي بسبب قيود من السيرفر.

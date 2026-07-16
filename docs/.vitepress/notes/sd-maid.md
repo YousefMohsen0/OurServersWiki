@@ -1,3 +1,3 @@
-#### SD Maid Note
+#### ملاحظة SD Maid
 
-The Google Play Store version is paid only. On the F-Droid and GitHub versions, however, you can use paid features for free by pressing `Support the development` and not donating.
+نسخة Google Play Store مدفوعة بس. على نسخ F-Droid و GitHub، تقدر تستخدم الميزات المدفوعة مجاناً بالضغط على `Support the development` ومن غير ما تتبرع.

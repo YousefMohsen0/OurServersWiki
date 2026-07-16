@@ -1,3 +1,3 @@
-#### Dolby Access / Atmos Note
+#### ملاحظة Dolby Access / Atmos
 
-Many headsets come with Dolby Access for free without letting users know. You can check if you're licensed by opening Dolby Access, going to settings, and looking in the [bottom right corner](https://i.imgur.com/9vJA6CL.png). It's much better than things like iCue or similar apps.
+كتير من السماعات بتجيلك معاها Dolby Access مجانًا من غير ما يعرفوك. تقدر تتأكد لو عندك ترخيص بفتح Dolby Access، والذهاب للإعدادات، والنظر في [الزاوية اليمين السفلى](https://i.imgur.com/9vJA6CL.png). ده أحسن بكتير من حاجات زي iCue أو التطبيقات المشابهة.

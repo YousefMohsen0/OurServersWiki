@@ -1,10 +1,10 @@
-#### OneClick Note
+#### ملاحظة OneClick
 
-Main features include:
-- Download links straight to Google Drive.
-- Torrent to Google Drive.
-- Google Drive Download Manager (similar to pyLoad).
-- Spotify Downloader.
-- Jellyfin Support.
+الميزات الرئيسية بتشمل:
+- روابط تحميل مباشرة لـ Google Drive.
+- Torrent لـ Google Drive.
+- مدير تحميل Google Drive (زي pyLoad).
+- تحميل Spotify.
+- دعم Jellyfin.
 - RClone + WebUI.
-- And much more.
+- وكمان كتير.

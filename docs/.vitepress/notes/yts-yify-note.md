@@ -1,3 +1,3 @@
-#### YTS / Yify Note
+#### ملاحظة YTS / Yify
 
-YTS / Yify has many fake copycat sites out there, make sure you're on one of the official domains before downloading anything. To be extra protected from fake sites, check out [FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard) and the [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist).
+YTS / Yify عنده مواقع تقليد كتير بره، تأكد إنك على واحد من النطاقات الرسمية قبل ما تحمل أي حاجة. عشان تكون محمي زيادة من المواقع المزيفة، شوف [FMHY SafeGuard](https://github.com/fmhy/FMHY-SafeGuard) و [FMHY Filterlist](https://github.com/fmhy/FMHYFilterlist).

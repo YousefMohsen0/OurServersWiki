@@ -1,3 +1,3 @@
 #### Remote Desktop Client
 
-Note that you can connect using apple, windows, android and ios. 
+لاحظ إنك تقدر تتصل باستخدام أبل، ويندوز، أندرويد وآي أو إس.

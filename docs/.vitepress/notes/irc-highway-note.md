@@ -1,5 +1,5 @@
-#### IRC Highway Note
+#### ملاحظة IRC Highway
 
-To request a book run: @request [author] [title] - Requests without both [author] and [title] are deleted.
- 
-To view request status and rules run: @request-list
+عشان تطلب كتاب اكتب: @request [الكاتب] [العنوان] - الطلبات من غير [الكاتب] و [العنوان] معاً بتتمسح.
+
+عشان تشوف حالة الطلب والقواعد اكتب: @request-list

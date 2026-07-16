@@ -1,3 +1,3 @@
-#### InstaEclipse Note
+#### ملاحظة InstaEclipse
 
-Use [this guide](https://wispydocs.pages.dev/morphe-piko-obtainium/) to build clean APKs, or use AntiSplit M with ReVanced manager.
+استخدم [الدليل](https://wispydocs.pages.dev/morphe-piko-obtainium/) ده عشان تبني APKs نظيفة، أو استخدم AntiSplit M مع ReVanced manager.
