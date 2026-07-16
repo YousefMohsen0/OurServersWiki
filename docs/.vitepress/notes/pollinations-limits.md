@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 #### حدود Pollinations
 
 لـ chat.pollinations.ai (والـ API الأساسي)، حدود الاستخدام بتعتمد على طريقة استخدامك:
@@ -15,3 +17,4 @@
 1. قلل سرعة شوية (استنى 3-5 ثواني بين الرسايل).
 2. **سجل دخول** على [enter.pollinations.ai](https://enter.pollinations.ai) عشان تستخدم رصيدك اليومي المجاني.
 3. لو محتاج throughput كبير، استخدم API key (`sk_`) برصيد مشترك.
+</div>

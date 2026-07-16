@@ -1,3 +1,6 @@
+<div dir="rtl">
+
 #### تحميل أيقونة الموقع
 
 تقدر كمان تروح لـ `https://www.google.com/s2/favicons?domain=URL&sz=64` حيث `URL` هو رابط الموقع اللي عايز أيقونته و `sz` هو الحجم بالبكسل.
+</div>

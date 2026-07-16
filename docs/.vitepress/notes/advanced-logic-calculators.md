@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 #### حاسبات المنطق المتقدمة
 
 * مولد جداول التحليل: https://www.umsu.de/trees/
@@ -5,3 +7,4 @@
 * حاسبة المنطق الاقتراحي (لاقتناص النماذج): https://www.inf.unibz.it/~franconi/teaching/propcalc/
 * شرح لـ sequent calculus: http://logitext.mit.edu/tutorial
 * ملعب المنطق النمطي (لبناء النماذج): https://rkirsling.github.io/modallogic/
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 #### ملاحظة OneClick
 
 الميزات الرئيسية بتشمل:
@@ -8,3 +10,4 @@
 - دعم Jellyfin.
 - RClone + WebUI.
 - وكمان كتير.
+</div>

@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 #### تحذير Sanet
 
 لاحظ إن Sanet معروف إنه بيستضيف حاجات مش آمنة زي KMS Matrix، فالأفضل تتجنبه للبرامج والألعاب.
@@ -11,3 +13,4 @@
 - https://sanet.st/
 - https://sanet.sb/
 - https://soft.ac/
+</div>

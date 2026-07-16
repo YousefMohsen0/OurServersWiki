@@ -1,3 +1,6 @@
+<div dir="rtl">
+
 #### ملاحظة تجاوز الحد
 
 أبل بتسمحلك بس بتنزيل 3 تطبيقات (بما فيهم SideStore) باستخدام حساب أبل مجاني. عشان تتجاوز الحد ده على SideStore، تقدر تستخدم [SparseBox](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) / [دليل](https://docs.sidestore.io/docs/advanced/alternative#sidestore-exploits) (iOS 17.0 - 18.1 Beta 4، مش شامل 17.7.1، 17.7.2) أو [LiveContainer](https://github.com/LiveContainer/LiveContainer) (iOS 16+).
+</div>
