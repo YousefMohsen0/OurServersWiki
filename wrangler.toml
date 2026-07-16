@@ -1,7 +1,7 @@
-name = "api"
+name = "ourserverswiki"
 main = ".output/server/index.mjs"
 workers_dev = false
-account_id = "02f3b11d8d1017a20f95de4ba88fb5d6"
+account_id = "e287f44668f630819d5a4b98870c4748"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-11-01"
 
