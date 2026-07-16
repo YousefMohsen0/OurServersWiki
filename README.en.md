@@ -81,7 +81,8 @@ pnpm api:build
 
 Use this for the static docs site.
 
-- Build command: `pnpm install --frozen-lockfile --config.autoInstallPeers=false && pnpm docs:build`
+- Build command: `pnpm docs:build`
+- Pages env vars: do not set `PNPM_CONFIG_AUTO_INSTALL_PEERS=false`; leave pnpm's default `autoInstallPeers=true` in place.
 - Output directory: `docs/.vitepress/dist`
 - Root path: `/`
 

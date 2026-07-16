@@ -32,7 +32,7 @@ GitHub / CI
 Cloudflare Pages
 
 - In the Pages project settings, add an environment variable named `WEBHOOK_URL` for the production and preview environments.
-- If the Pages build ignores the repo `.npmrc`, set `PNPM_CONFIG_AUTO_INSTALL_PEERS=false` in the project environment or use `pnpm install --frozen-lockfile --config.autoInstallPeers=false` as the build install step.
+- Do not set `PNPM_CONFIG_AUTO_INSTALL_PEERS=false`. The lockfile now expects pnpm's default `autoInstallPeers=true`, so remove that override or set it to `true`.
 
 Wrangler / Workers
 
