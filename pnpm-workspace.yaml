@@ -1,17 +1,10 @@
 allowBuilds:
-  '@parcel/watcher': set this to true or false
-  esbuild: set this to true or false
-  sharp: set this to true or false
-  simple-git-hooks: set this to true or false
-  vue-demi: set this to true or false
-  workerd: set this to true or false
-onlyBuiltDependencies:
-  - '@parcel/watcher'
-  - esbuild
-  - sharp
-  - simple-git-hooks
-  - vue-demi
-  - workerd
+  '@parcel/watcher': true
+  esbuild: true
+  sharp: true
+  simple-git-hooks: true
+  vue-demi: true
+  workerd: true
 peerDependencyRules:
   ignoreMissing:
     - '@algolia/client-search'
