@@ -185,7 +185,14 @@ export default defineConfig({
         `
     ]
   ],
-  transformHead: async (context) => generateMeta(context, meta.hostname),
+  transformHead: async (context) => {
+    const head = await generateMeta(context, meta.hostname)
+    // Ensure description is not undefined
+    const descriptionTag = head.find(tag => tag[1]?.name === 'description')
+    if (descriptionTag && descriptionTag[1].content === undefined)
+      descriptionTag[1].content = ''
+    return head
+  },
   buildEnd: async (context) => {
     try {
       await generateImages(context)
