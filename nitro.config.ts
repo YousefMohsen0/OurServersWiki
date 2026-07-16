@@ -27,6 +27,7 @@ export default defineNitroConfig({
   cloudflare: {
     wrangler: {
       name: 'ourserverswiki',
+      account_id: process.env.CLOUDFLARE_ACCOUNT_ID,
       compatibility_date: '2024-11-01',
       compatibility_flags: ['nodejs_compat'],
       kv_namespaces: [
