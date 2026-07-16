@@ -20,7 +20,7 @@ hero:
       link: /beginners-guide
     - theme: alt
       text: تحديثات
-      link: /updates     
+      link: /posts
     - theme: alt
       text: ساعدنا
       link: /other/contributing
