@@ -59,7 +59,7 @@ export default defineConfig({
       'link',
       { rel: 'alternate icon', href: '/pwa_icon.png', type: 'image/png' }
     ],
-    ['meta', { name: 'keywords', content: meta.keywords.join(' ') }],
+    ['meta', { name: 'keywords', content: meta.keywords.join(' ') || '' }],
     [
       'link',
       { rel: 'apple-touch-icon', href: '/pwa_icon.png', sizes: '192x192' }
