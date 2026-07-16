@@ -25,4 +25,5 @@ for (const env of requiredEnvs) {
   }
 }
 
+execSync('pnpm api:build', { stdio: 'inherit' })
 execSync('pnpm exec wrangler deploy', { stdio: 'inherit' })
