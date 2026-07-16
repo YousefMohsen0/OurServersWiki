@@ -5,10 +5,6 @@ account_id = "${CLOUDFLARE_ACCOUNT_ID}"
 compatibility_flags = ["nodejs_compat"]
 compatibility_date = "2024-11-01"
 
-routes = [
-  { pattern = "api.osw.pages.dev", custom_domain = true, zone_id = "${CLOUDFLARE_ZONE_ID}" },
-]
-
 [[kv_namespaces]]
 binding = "STORAGE"
 id = "${CLOUDFLARE_KV_NAMESPACE_ID}"
