@@ -24,6 +24,19 @@ export default defineNitroConfig({
   runtimeConfig: {
     WEBHOOK_URL: process.env.WEBHOOK_URL,
   },
+  cloudflare: {
+    wrangler: {
+      name: 'ourserverswiki',
+      compatibility_date: '2024-11-01',
+      compatibility_flags: ['nodejs_compat'],
+      kv_namespaces: [
+        {
+          binding: 'STORAGE',
+          id: process.env.CLOUDFLARE_KV_NAMESPACE_ID,
+        },
+      ],
+    },
+  },
   output: {
     dir: './.output',
   },
