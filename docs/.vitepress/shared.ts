@@ -177,7 +177,7 @@ export const sidebar: DefaultTheme.Sidebar | DefaultTheme.NavItemWithLink[] = [
         link: '/educational'
       },
       {
-        text: '<span class="i-twemoji:mobile-phone"></span> اندرويد',
+        text: '<span class="i-twemoji:mobile-phone"></span> تلفون',
         link: '/mobile'
       },
       {

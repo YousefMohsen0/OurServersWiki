@@ -12,6 +12,7 @@ const IGNORED_FILES = [
   'docs/feedback.md',
   'docs/index.md',
   'docs/startpage.md',
+  'docs/updates.md',
   OUTPUT_FILE
 ]
 
@@ -79,7 +80,7 @@ function generateRemovedSites() {
       'No .git directory found. Attempting to fetch temporary history for generation...'
     )
     try {
-      const REPO_URL = 'https://github.com/fmhy/edit.git'
+      const REPO_URL = 'https://github.com/YousefMohsen0/OurServersWiki.git'
       const TEMP_GIT_DIR = '.git-temp'
 
       // Clean up any old temp dir
@@ -260,15 +261,14 @@ function generateRemovedSites() {
   const sortedRemoved = Array.from(uniqueRemoved.values())
 
   // Generate Markdown
-  let markdown = `# ► Recently Removed Sites\n\n`
+  let markdown = `# ► اخر مواقع اتشالت\n\n`
   markdown += `<!-- search-exclude -->\n`
-  markdown += `This page lists sites that were removed from the wiki in the last ${DAYS} days. This helps you find sites that may have gone down or were moved.\n\n`
+  markdown += `الصفحة دي فيها كل المواقع الي اتشال في اخر ${DAYS} يوم. دة بيساعدك تعرف اخر مواقع اتشالت او اتنقلت.\n\n`
   markdown += `> [!TIP]\n`
-  markdown += `> For more information about why a site was removed, feel free to join our [Discord](https://github.com/fmhy/FMHY/wiki/FMHY-Discord).\n`
   markdown += `<!-- /search-exclude -->\n\n`
 
   if (sortedRemoved.length === 0) {
-    markdown += `No sites were removed in the last ${DAYS} days.\n`
+    markdown += `مفيش مواقع اتشالت في اخر ${DAYS} يوم.\n`
   } else {
     for (const site of sortedRemoved) {
       const fileHash = crypto
@@ -276,9 +276,9 @@ function generateRemovedSites() {
         .update(site.file)
         .digest('hex')
       const lineAnchor = site.lineNum ? `L${site.lineNum}` : ''
-      const commitLink = `https://github.com/fmhy/edit/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
+      const commitLink = `https://github.com/YousefMohsen0/OurServersWiki/commit/${site.hash}#diff-${fileHash}${lineAnchor}`
       const prLink = site.pr
-        ? `, [PR #${site.pr}](https://github.com/fmhy/edit/pull/${site.pr})`
+        ? `, [PR #${site.pr}](https://github.com/YousefMohsen0/OurServersWiki/pull/${site.pr})`
         : ''
 
       // Separate the link part from the description
@@ -312,7 +312,7 @@ function generateRemovedSites() {
 
       const cleanMsg = site.msg ? `: ${stripLinks(site.msg).trim()}` : ''
 
-      markdown += `- ${cleanSearchable} <!-- search-exclude -->${cleanHidden} (Removed in [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${cleanMsg})<!-- /search-exclude -->\n`
+      markdown += `- ${cleanSearchable} <!-- search-exclude -->${cleanHidden} (اتشال في [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${cleanMsg})<!-- /search-exclude -->\n`
     }
   }
 
