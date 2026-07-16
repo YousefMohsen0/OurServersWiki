@@ -9,8 +9,8 @@ hero:
   text: "Our Server's Wiki"
   tagline: موسوعة قرصنة
   announcement:
-   title: تحديثات فبراير 💗
-   link: /posts/feb-2025
+   title: 🫨 بداية جديدة
+   link: /posts/jul-2026
   image:
     src: test.png
     alt: Our Server's wiki Icon
