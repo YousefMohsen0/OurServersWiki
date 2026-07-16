@@ -96,10 +96,11 @@ export const onRequest = async ({
     })
   }
 
-  const webhookUrl =
-    env.WEBHOOK_URL ??
-    'https://discord.com/api/webhooks/1526481469076275301/n-jRUnphXisecgA5o2Cz39m87KVOjQNU-_Pq6mXLhz6DhLxntAa97cG4Dmawhchlp_rq'
-
+  const webhookUrl = env.WEBHOOK_URL
+  if (!webhookUrl) {
+    console.error('WEBHOOK_URL is not configured')
+    return jsonResponse({ error: 'Webhook not configured' }, 500)
+  }
   const response = await fetch(webhookUrl, {
     method: 'POST',
     headers: {
