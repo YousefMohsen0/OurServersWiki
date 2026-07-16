@@ -186,12 +186,13 @@ export default defineConfig({
     ]
   ],
   transformHead: async (context) => {
-    const head = await generateMeta(context, meta.hostname)
-    // Ensure description is not undefined
-    const descriptionTag = head.find(tag => tag[1]?.name === 'description')
-    if (descriptionTag && descriptionTag[1].content === undefined)
-      descriptionTag[1].content = ''
-    return head
+    const headFromMeta = await generateMeta(context, meta.hostname)
+    const resolvedHead = await Promise.all(headFromMeta.map(async (tag) => {
+      const [tagName, attrs, innerHTML] = tag
+      const resolvedAttrs = { ...attrs, content: await attrs.content }
+      return [tagName, resolvedAttrs, innerHTML]
+    }))
+    return resolvedHead
   },
   buildEnd: async (context) => {
     try {
