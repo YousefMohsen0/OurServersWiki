@@ -12,8 +12,9 @@
     "api:prepare": "nitropack prepare",
     "api:preview": "node .output/server/index.mjs",
     "api:typegen": "wrangler types api/worker-configuration.d.ts",
-    "build": "pnpm docs:build && pnpm api:build",
-    "docs:build": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress build docs/",
+    "build": "pnpm build:docs && pnpm build:api",
+    "build:api": "nitropack build",
+    "build:docs": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress build docs/",
     "docs:dev": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress dev docs/",
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache .",
@@ -21,8 +22,8 @@
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
     "lint": "eslint --cache .",
     "lint:md": "node scripts/lint-markdown.js || true",
-    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",
-    "prepare": "simple-git-hooks"
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev",    "prepare": "simple-git-hooks",
+    "deploy": "tsx scripts/deploy.ts"
   },
   "simple-git-hooks": {
     "pre-commit": "sh scripts/pre-commit.sh"
