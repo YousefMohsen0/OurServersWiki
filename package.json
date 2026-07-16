@@ -13,7 +13,7 @@
     "api:preview": "node .output/server/index.mjs",
     "api:typegen": "wrangler types api/worker-configuration.d.ts",
     "build": "pnpm docs:build && pnpm api:build",
-    "docs:build": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress build docs/",
+    "docs:build": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress build docs/ && pnpm api:build",
     "docs:dev": "node scripts/generate-removed.js && node scripts/generate-single-page.js && vitepress dev docs/",
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache .",
