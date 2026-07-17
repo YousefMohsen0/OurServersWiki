@@ -261,14 +261,17 @@ function generateRemovedSites() {
   const sortedRemoved = Array.from(uniqueRemoved.values())
 
   // Generate Markdown
-  let markdown = `# ► اخر مواقع اتشالت\n\n`
+  let markdown = `<div dir="rtl">\n\n`
+  markdown += `# ► اخر مواقع اتشالت\n\n`
   markdown += `<!-- search-exclude -->\n`
   markdown += `الصفحة دي فيها كل المواقع الي اتشال في اخر ${DAYS} يوم. دة بيساعدك تعرف اخر مواقع اتشالت او اتنقلت.\n\n`
-  markdown += `> [!TIP]\n`
   markdown += `<!-- /search-exclude -->\n\n`
+  markdown += `</div>\n\n`
 
   if (sortedRemoved.length === 0) {
+    markdown += `<div dir="rtl">\n\n`
     markdown += `مفيش مواقع اتشالت في اخر ${DAYS} يوم.\n`
+    markdown += `</div>\n`
   } else {
     for (const site of sortedRemoved) {
       const fileHash = crypto
