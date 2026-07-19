@@ -266,7 +266,7 @@ footer: true
     }
 
     if (modAdditions.length > 0 || modRemovals.length > 0) {
-      markdown += `### روابط اتعدلت (${Math.max(modAdditions.length, modRemovals.length)})
+      markdown += `### ▷ روابط اتعدلت (${Math.max(modAdditions.length, modRemovals.length)})
 
 `
       const seen = new Set()

@@ -18,7 +18,7 @@ footer: true
 
 **Updated video.md & fixed typos**
 
-### روابط اتعدلت (1)
+### ▷ روابط اتعدلت (1)
 
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيديو المباشرة
 
