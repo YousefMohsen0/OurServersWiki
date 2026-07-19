@@ -103,7 +103,6 @@ function generateChangelog() {
     } catch (e) { /* ignore */ }
   }
 
-  // Get just the commit messages first, no diffs, sorted newest to oldest
   const logMsgs = execFileSync(
     'git',
     [
@@ -118,7 +117,6 @@ function generateChangelog() {
 
   const commits = logMsgs.split('---COMMIT---').filter(Boolean)
 
-  // Skip mass-import / initial scaffold commits
   const SKIP_MSG_PATTERNS = [
     /initial\s+(?:osw|vitepress|import|scaffold|setup)/i,
     /import\s+(?:all|existing|initial)/i,
@@ -126,9 +124,7 @@ function generateChangelog() {
     /initial\s+commit/i
   ]
 
-  // Find the latest commit that actually changed site links (not just typos/metadata)
   let latestSiteChangeCommit = null
-  let latestSiteChangeMsg = ''
 
   for (const commit of commits) {
     const lines = commit.split('\n')
@@ -140,7 +136,6 @@ function generateChangelog() {
       continue
     }
 
-    // Get full diff for this single commit
     const diffOutput = execFileSync(
       'git',
       [
@@ -199,7 +194,6 @@ function generateChangelog() {
       }
     }
 
-    // Check if this commit has actual site link changes (additions or removals with URLs)
     const hasAdditions = additions.some(add => add.includes(']('))
     const hasRemovals = deletions.some(del => del.text.includes(']('))
 
@@ -209,11 +203,6 @@ function generateChangelog() {
     }
   }
 
-  const allCurrentDocs = getAllDocFiles('docs')
-    .map((file) => fs.readFileSync(file, 'utf-8'))
-    .join('\n')
-
-  // Generate Markdown
   const frontmatter = `---
 title: تحديثات المواقع
 description: شوف آخر التحديثات والروابط المتغيرة هنا
@@ -242,21 +231,73 @@ footer: true
     const prMatch = msg.match(/\(#(\d+)\)/) || msg.match(/Merge pull request #(\d+)/)
     const pr = prMatch ? prMatch[1] : null
     const shortHash = hash.slice(0, 7)
-    const commitLink = `[\`${shortHash}\`](https://github.com/YousefMohsen0/OurServersWiki/commit/${hash})`
-    const prLink = pr ? ` ([PR #${pr}](https://github.com/YousefMohsen0/OurServersWiki/pull/${pr}))` : ''
-    const cleanMsg = msg.replace(/:?\s*updated \d+ pages/i, '').trim()
+    const commitLink = `https://github.com/YousefMohsen0/OurServersWiki/commit/${hash}`
 
-    markdown += `## آخر تحديث (${shortHash})${prLink ? ` - [PR #${pr}](${prLink.match(/#\d+/)?.[0] || '#' + pr})` : ''}
+    markdown += `## آخر تحديث ([\`${shortHash}\`](${commitLink}))${pr ? ` - [PR #${pr}](https://github.com/YousefMohsen0/OurServersWiki/pull/${pr})` : ''}
 
 `
-    markdown += `**${cleanMsg || 'تحديث للمواقع'}**
+    markdown += `**${msg || 'تحديث للمواقع'}**
 
 `
 
-    // Process additions
-    const realAdditions = additions.filter(a => a.includes(']('))
+    // Separate modifications from pure additions/removals
+    const modAdditions = []
+    const pureAdditions = []
+    for (const add of additions) {
+      const addUrls = [...add.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+      const isMod = deletions.some((del) => {
+        const delUrls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+        return delUrls.some((url) => addUrls.includes(url))
+      })
+      if (isMod) modAdditions.push(add)
+      else pureAdditions.push(add)
+    }
+
+    const modRemovals = []
+    const pureRemovals = []
+    for (const del of deletions) {
+      const delUrls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+      const isMod = additions.some((add) => {
+        const addUrls = [...add.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+        return addUrls.some((url) => delUrls.includes(url))
+      })
+      if (isMod) modRemovals.push(del)
+      else pureRemovals.push(del)
+    }
+
+    if (modAdditions.length > 0 || modRemovals.length > 0) {
+      markdown += `### روابط اتعدلت (${Math.max(modAdditions.length, modRemovals.length)})
+
+`
+      const seen = new Set()
+      for (const add of modAdditions) {
+        const urls = [...add.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+        const key = urls[0] || add.slice(0, 40)
+        if (seen.has(key)) continue
+        seen.add(key)
+        let cleanText = add.trim().replace(/^\*+\s*/, '').replace(/^⭐\s*/, '')
+        markdown += `* ${cleanText}
+
+`
+      }
+      for (const del of modRemovals) {
+        const urls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+        const key = urls[0] || del.text.slice(0, 40)
+        if (seen.has(key)) continue
+        seen.add(key)
+        const fileHash = crypto.createHash('sha256').update(del.file).digest('hex')
+        const lineAnchor = del.lineNum ? `L${del.lineNum}` : ''
+        const commitLinkForDel = `https://github.com/YousefMohsen0/OurServersWiki/commit/${hash}#diff-${fileHash}${lineAnchor}`
+        let cleanText = del.text.trim().replace(/^\*+\s*/, '').replace(/^⭐\s*/, '')
+        markdown += `- ${cleanText}<!-- search-exclude --> (اتشال في [\`${shortHash}\`](${commitLinkForDel}))<!-- /search-exclude -->
+
+`
+      }
+    }
+
+    const realAdditions = pureAdditions.filter(a => a.includes(']('))
     if (realAdditions.length > 0) {
-      markdown += `### روابط اتضافت (${realAdditions.length})
+      markdown += `### ▷ روابط اتضافت (${realAdditions.length})
 
 `
       for (const add of realAdditions) {
@@ -270,10 +311,9 @@ footer: true
 `
     }
 
-    // Process removals
-    const realRemovals = deletions.filter(d => d.text.includes(']('))
+    const realRemovals = pureRemovals.filter(d => d.text.includes(']('))
     if (realRemovals.length > 0) {
-      markdown += `### روابط اتشالت (${realRemovals.length})
+      markdown += `### ▷ روابط اتشالت (${realRemovals.length})
 
 `
       for (const del of realRemovals) {

@@ -14,11 +14,15 @@ footer: true
 **هيظهرلك هنا آخر روابط اتضافت او اتبدلت او اتشالت في آخر 30 يوم.**
 
 ***
-## آخر تحديث (01fe10f)
+## آخر تحديث ([`01fe10f`](https://github.com/YousefMohsen0/OurServersWiki/commit/01fe10f71466ce4e0f8b6047a9f41b4b4d6a54f4))
 
 **Updated video.md & fixed typos**
 
-### روابط اتضافت (52)
+### روابط اتعدلت (1)
+
+* [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيديو المباشرة
+
+### ▷ روابط اتضافت (51)
 
 * [Freek](https://freek.to/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي / [ديسكورد](https://discord.com/invite/q8Y9FmYFPR)
 * [Broflix](https://broflix.ci/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي
@@ -50,7 +54,6 @@ footer: true
 * [FilmeX](https://filmex.to/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.gg/6r5KTZgqXV)
 * [WatchHQ](https://watchhq.site/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.com/invite/YgSBsPAG)
 * [YoYoMovies](https://yoyomovies.net/), [2](https://fmovies-hd.to/) - أفلام / مسلسلات / أنمي
-* [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيديو المباشرة
 * **[OOMoye](https://www.oomoye.life/)** - أفلام / مسلسلات / أنمي / بعض المحتوى غير لائق
 * **[RgShows](https://www.rgshows.me/)** - أفلام / مسلسلات / أنمي / [دليل](https://www.rgshows.me/guide.html) / [ديسكورد](https://discord.com/invite/rgshows)
 * [piracy.vip](https://piracy.vip/) - أفلام / مسلسلات / أنمي / محتاج حساب / [ديسكورد](https://discord.com/invite/FKT2rMCfUW) / [تليجرام](https://t.me/+QV1PldJrE3gzYjk1)
@@ -72,9 +75,5 @@ footer: true
 * [PrivateMovieZ](https://privatemoviez.cam/) - أفلام / مسلسلات
 * [FilmDuty](https://filmduty.com/) - أفلام / مسلسلات / أنمي
 * Google Drive [افلام](https://databasegdriveplayer.co/movie.php)، [مسلسلات](https://databasegdriveplayer.co/series.php)، [أنمي](https://databasegdriveplayer.co/anime.php)، [دراما كورية](https://databasegdriveplayer.co/drama.php) - أفلام / مسلسلات / أنمي / 720p
-
-### روابط اتشالت (1)
-
-- Video Download CSE / CSE 2 / CSE 3 <!-- search-exclude --> - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيدوهات المباشرة (اتشال في [`01fe10f`](https://github.com/YousefMohsen0/OurServersWiki/commit/01fe10f71466ce4e0f8b6047a9f41b4b4d6a54f4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL852))<!-- /search-exclude -->
 
 </div>
