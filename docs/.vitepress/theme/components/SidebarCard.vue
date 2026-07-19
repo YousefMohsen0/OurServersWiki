@@ -12,13 +12,11 @@ import ToggleStarred from './ToggleStarred.vue'
     class="bg-$vp-c-bg hover:bg-$vp-c-bg/40 border-$vp-c-default-soft hover:border-primary transition-border relative z-0 rounded-lg border-2 border-solid p-5 duration-500"
   >
     <div class="align-center mb-4 flex justify-between">
-      <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">
-        ايموجيز
-      </div>
+      <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">ايموجيز</div>
     </div>
-    <Field icon="i-twemoji-globe-with-meridians">فهارس </Field>
-    <Field icon="i-twemoji-repeat-button">روابط الأقسام </Field>
-    <Field icon="i-twemoji-star">أقتراحات </Field>
+    <Field icon="i-twemoji-globe-with-meridians">فهارس</Field>
+    <Field icon="i-twemoji-repeat-button">روابط الأقسام</Field>
+    <Field icon="i-twemoji-star">أقتراحات</Field>
     <div class="align-center mb-4 mt-4 flex justify-between">
       <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">اختيارات</div>
     </div>

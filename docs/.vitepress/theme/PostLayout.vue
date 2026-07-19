@@ -21,7 +21,9 @@ const authors = computed(() => props.authors.split(','))
 <template>
   <div dir="rtl">
     <h1>{{ frontmatter.title }}</h1>
-    <div>{{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}</div>
+    <div>
+      {{ frontmatter.description }} • {{ formatDate(frontmatter.date) }}
+    </div>
     <Authors :authors="authors" />
   </div>
 </template>

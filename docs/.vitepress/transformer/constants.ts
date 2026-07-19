@@ -29,7 +29,7 @@ export const headers: Header = {
     description: 'شات , كتابة, صور, ادوات شات'
   },
   'mobile.md': {
-    title: 'اندرويد',
+    title: 'تلفون',
     description: 'برامج, تهكير, محاكي'
   },
   'audio.md': {

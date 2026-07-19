@@ -15,8 +15,8 @@
  */
 
 import type { SiteConfig } from 'vitepress'
-import { createContentLoader } from 'vitepress'
 import { Feed } from 'feed'
+import { createContentLoader } from 'vitepress'
 import { meta } from './constants'
 
 export async function generateMeta(context: SiteConfig, hostname: string) {

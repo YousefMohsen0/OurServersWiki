@@ -44,7 +44,9 @@ function generateChangelog() {
   console.log(`Checking for latest site updates in the last ${DAYS} days...`)
 
   if (!fs.existsSync('docs')) {
-    console.error('Error: "docs" directory not found in the current working directory.')
+    console.error(
+      'Error: "docs" directory not found in the current working directory.'
+    )
     return
   }
 
@@ -53,7 +55,9 @@ function generateChangelog() {
     fs.existsSync('.git/shallow') || fs.existsSync('.git-temp/shallow')
 
   if (isShallow) {
-    console.log(`Shallow clone detected. Fetching history for the last ${DAYS} days...`)
+    console.log(
+      `Shallow clone detected. Fetching history for the last ${DAYS} days...`
+    )
     try {
       execFileSync('git', [
         'fetch',
@@ -61,12 +65,16 @@ function generateChangelog() {
         '--tags'
       ])
     } catch (e) {
-      console.warn('Warning: Failed to unshallow repository. Results may be incomplete.')
+      console.warn(
+        'Warning: Failed to unshallow repository. Results may be incomplete.'
+      )
     }
   }
 
   if (!fs.existsSync('.git')) {
-    console.log('No .git directory found. Attempting to fetch temporary history...')
+    console.log(
+      'No .git directory found. Attempting to fetch temporary history...'
+    )
     try {
       const REPO_URL = 'https://github.com/YousefMohsen0/OurServersWiki.git'
       const TEMP_GIT_DIR = '.git-temp'
@@ -85,7 +93,9 @@ function generateChangelog() {
       gitDirArgs = [`--git-dir=${TEMP_GIT_DIR}`]
       console.log('Temporary history fetched successfully.')
     } catch (e) {
-      console.warn('Warning: Failed to fetch temporary Git history. Skipping generation.')
+      console.warn(
+        'Warning: Failed to fetch temporary Git history. Skipping generation.'
+      )
       return
     }
   }
@@ -100,7 +110,9 @@ function generateChangelog() {
         'safe.directory',
         '/app'
       ])
-    } catch (e) { /* ignore */ }
+    } catch (e) {
+      /* ignore */
+    }
   }
 
   const logMsgs = execFileSync(
@@ -194,8 +206,8 @@ function generateChangelog() {
       }
     }
 
-    const hasAdditions = additions.some(add => add.includes(']('))
-    const hasRemovals = deletions.some(del => del.text.includes(']('))
+    const hasAdditions = additions.some((add) => add.includes(']('))
+    const hasRemovals = deletions.some((del) => del.text.includes(']('))
 
     if (hasAdditions || hasRemovals) {
       latestSiteChangeCommit = { hash: hash.trim(), msg, additions, deletions }
@@ -228,7 +240,8 @@ footer: true
 </div>`
   } else {
     const { hash, msg, additions, deletions } = latestSiteChangeCommit
-    const prMatch = msg.match(/\(#(\d+)\)/) || msg.match(/Merge pull request #(\d+)/)
+    const prMatch =
+      msg.match(/\(#(\d+)\)/) || msg.match(/Merge pull request #(\d+)/)
     const pr = prMatch ? prMatch[1] : null
     const shortHash = hash.slice(0, 7)
     const commitLink = `https://github.com/YousefMohsen0/OurServersWiki/commit/${hash}`
@@ -246,7 +259,9 @@ footer: true
     for (const add of additions) {
       const addUrls = [...add.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
       const isMod = deletions.some((del) => {
-        const delUrls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+        const delUrls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map(
+          (m) => m[1]
+        )
         return delUrls.some((url) => addUrls.includes(url))
       })
       if (isMod) modAdditions.push(add)
@@ -256,7 +271,9 @@ footer: true
     const modRemovals = []
     const pureRemovals = []
     for (const del of deletions) {
-      const delUrls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+      const delUrls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map(
+        (m) => m[1]
+      )
       const isMod = additions.some((add) => {
         const addUrls = [...add.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
         return addUrls.some((url) => delUrls.includes(url))
@@ -275,27 +292,38 @@ footer: true
         const key = urls[0] || add.slice(0, 40)
         if (seen.has(key)) continue
         seen.add(key)
-        let cleanText = add.trim().replace(/^\*+\s*/, '').replace(/^⭐\s*/, '')
+        let cleanText = add
+          .trim()
+          .replace(/^\*+\s*/, '')
+          .replace(/^⭐\s*/, '')
         markdown += `* ${cleanText}
 
 `
       }
       for (const del of modRemovals) {
-        const urls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map((m) => m[1])
+        const urls = [...del.text.matchAll(/\[.*?\]\((.*?)\)/g)].map(
+          (m) => m[1]
+        )
         const key = urls[0] || del.text.slice(0, 40)
         if (seen.has(key)) continue
         seen.add(key)
-        const fileHash = crypto.createHash('sha256').update(del.file).digest('hex')
+        const fileHash = crypto
+          .createHash('sha256')
+          .update(del.file)
+          .digest('hex')
         const lineAnchor = del.lineNum ? `L${del.lineNum}` : ''
         const commitLinkForDel = `https://github.com/YousefMohsen0/OurServersWiki/commit/${hash}#diff-${fileHash}${lineAnchor}`
-        let cleanText = del.text.trim().replace(/^\*+\s*/, '').replace(/^⭐\s*/, '')
+        let cleanText = del.text
+          .trim()
+          .replace(/^\*+\s*/, '')
+          .replace(/^⭐\s*/, '')
         markdown += `- ${cleanText}<!-- search-exclude --> (اتشال في [\`${shortHash}\`](${commitLinkForDel}))<!-- /search-exclude -->
 
 `
       }
     }
 
-    const realAdditions = pureAdditions.filter(a => a.includes(']('))
+    const realAdditions = pureAdditions.filter((a) => a.includes(']('))
     if (realAdditions.length > 0) {
       markdown += `### روابط اتضافت (${realAdditions.length})
 
@@ -311,13 +339,16 @@ footer: true
 `
     }
 
-    const realRemovals = pureRemovals.filter(d => d.text.includes(']('))
+    const realRemovals = pureRemovals.filter((d) => d.text.includes(']('))
     if (realRemovals.length > 0) {
       markdown += `### روابط اتشالت (${realRemovals.length})
 
 `
       for (const del of realRemovals) {
-        const fileHash = crypto.createHash('sha256').update(del.file).digest('hex')
+        const fileHash = crypto
+          .createHash('sha256')
+          .update(del.file)
+          .digest('hex')
         const lineAnchor = del.lineNum ? `L${del.lineNum}` : ''
         const commitLinkForDel = `https://github.com/YousefMohsen0/OurServersWiki/commit/${hash}#diff-${fileHash}${lineAnchor}`
 
@@ -336,7 +367,9 @@ footer: true
             .replace(/https?:\/\/[^\s)]+/g, '')
             .replace(/\s+/g, ' ')
 
-        const cleanSearchable = stripLinks(searchablePart).replace(/^\*+\s*/, '').trim()
+        const cleanSearchable = stripLinks(searchablePart)
+          .replace(/^\*+\s*/, '')
+          .trim()
         let cleanHidden = stripLinks(hiddenPart)
 
         if (
@@ -356,13 +389,17 @@ footer: true
   }
 
   fs.writeFileSync(OUTPUT_FILE, markdown)
-  console.log(`Successfully generated ${OUTPUT_FILE}. Latest update: ${latestSiteChangeCommit ? 'found' : 'none'}`)
+  console.log(
+    `Successfully generated ${OUTPUT_FILE}. Latest update: ${latestSiteChangeCommit ? 'found' : 'none'}`
+  )
 
   if (gitDirArgs.length > 0) {
     try {
       const tempDir = gitDirArgs[0].split('=')[1]
       fs.rmSync(tempDir, { recursive: true, force: true })
-    } catch (e) { /* ignore */ }
+    } catch (e) {
+      /* ignore */
+    }
   }
 }
 

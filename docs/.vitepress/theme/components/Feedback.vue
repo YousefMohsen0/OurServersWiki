@@ -18,10 +18,10 @@ const prompts = [
   'ساعدنا نخلي OSW احسن 🤝',
   'محتاجين مساعدتك👋',
   'رأيك هيفيدنا جدا 💯',
-  "اظن انك مش محتاج تقول حاجة 😉",
+  'اظن انك مش محتاج تقول حاجة 😉',
   'عندك 10 ثواني عشان تقول رأيك 1...2...3 💣',
   'رأيك مهم ويساعدنا نخلي OWS احسن.',
-  'الفضائيين بيراقبوك 👽',
+  'الفضائيين بيراقبوك 👽'
 ]
 
 function getPrompt() {
@@ -30,18 +30,18 @@ function getPrompt() {
 
 const messages = {
   suggestion: [
-    "اكيد عندك فكرة حلوة!",
+    'اكيد عندك فكرة حلوة!',
     '1000 IQ!',
-    "هيعجبني جدا اني اشوف رأيك و احطو في الwiki",
-    "اهلا! متحمس جدا اسمع رأيك!"
+    'هيعجبني جدا اني اشوف رأيك و احطو في الwiki',
+    'اهلا! متحمس جدا اسمع رأيك!'
   ],
   appreciation: [
     'نحن نقدر مساعدتك!',
-    "ديما بدور علي طرقة اتحسين بيها الموقع!",
+    'ديما بدور علي طرقة اتحسين بيها الموقع!',
     'تعليقك مهم ويساعدنا نخلي OSW احسن.'
   ],
   other: [
-    "نحن دائماً نبحث عن طرق لتحسين!",
+    'نحن دائماً نبحث عن طرق لتحسين!',
     'تعليقك مهم ويساعدنا نخلي OSW احسن.'
   ]
 }
@@ -213,101 +213,101 @@ const resetFeedback = () => {
       </div>
     </template>
 
-  <Transition name="fade" mode="out-in">
-    <div
-      v-if="isCardShown"
-      dir="rtl"
-      class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
-    >
-      <Transition name="fade" mode="out-in">
-        <div v-if="!feedback.type">
-          <p class="heading">
-            {{ helpfulText }}
-          </p>
-          <div class="flex flex-wrap gap-2">
-            <button
-              v-for="item in feedbackOptions"
-              :key="item.value"
-              class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
-              @click="selectType(item.value)"
-            >
-              <span>{{ item.label }}</span>
-            </button>
-          </div>
-        </div>
-        <div v-else-if="feedback.type && !success">
-          <div>
-            <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
-            <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
-          </div>
-          <p class="heading" v-text="message"></p>
-          <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
-            <p>
-              اقراء
-              <a href="/other/contributing">طريقة المساهمة</a>
-              قبل ارسال تعليقك
+    <Transition name="fade" mode="out-in">
+      <div
+        v-if="isCardShown"
+        dir="rtl"
+        class="border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 m-[2rem 0] mt-4 border-2 border-solid p-6"
+      >
+        <Transition name="fade" mode="out-in">
+          <div v-if="!feedback.type">
+            <p class="heading">
+              {{ helpfulText }}
             </p>
+            <div class="flex flex-wrap gap-2">
+              <button
+                v-for="item in feedbackOptions"
+                :key="item.value"
+                class="bg-[#25262B] border-$vp-c-default-soft hover:border-primary mt-2 select-none rounded border-2 border-solid font-bold transition-all duration-250 rounded-lg text-[14px] text-white font-500 leading-normal m-0 px-3 py-1.5 text-center align-middle whitespace-nowrap"
+                @click="selectType(item.value)"
+              >
+                <span>{{ item.label }}</span>
+              </button>
+            </div>
           </div>
-          <div
-            v-if="error"
-            class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs"
-          >
-            <span class="font-bold">Error:</span>
-            {{
-              typeof error === 'string'
-                ? error
-                : (error as any).message ||
-                  'حصل خطأ جرب تاني.'
-            }}
+          <div v-else-if="feedback.type && !success">
+            <div>
+              <p class="desc">{{ helpfulDescription }} - {{ prompt }}</p>
+              <span>{{ getFeedbackOption(feedback.type)?.label }}</span>
+            </div>
+            <p class="heading" v-text="message"></p>
+            <div v-if="feedback.type === 'suggestion'" class="mb-2 text-sm">
+              <p>
+                اقراء
+                <a href="/other/contributing">طريقة المساهمة</a>
+                قبل ارسال تعليقك
+              </p>
+            </div>
+            <div
+              v-if="error"
+              class="error-msg mb-4 p-3 rounded-lg bg-red-900/20 border border-red-500/50 text-red-300 text-xs"
+            >
+              <span class="font-bold">Error:</span>
+              {{
+                typeof error === 'string'
+                  ? error
+                  : (error as any).message || 'حصل خطأ جرب تاني.'
+              }}
+            </div>
+            <textarea
+              v-model="feedback.message"
+              autofocus
+              class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
+              placeholder="اي الwiki الحلوة فشخ دي!"
+              @input="error = null"
+            />
+            <p class="desc mb-2">
+              ضيف الdiscord بتاعنك لو عايز تتكلم معانا مباشرةً و تشارك رأيك في
+              الwiki
+              <a
+                class="text-primary text-underline font-semibold"
+                href="https://discord.gg/"
+              >
+                .
+              </a>
+            </p>
+            <div class="flex flex-row gap-2">
+              <button
+                class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
+                @click="resetFeedback()"
+              >
+                <span class="i-lucide:panel-left-close">close</span>
+              </button>
+              <button
+                type="submit"
+                class="btn btn-primary"
+                :disabled="isDisabled || loading"
+                :style="
+                  isDisabled || loading
+                    ? {}
+                    : {
+                        'background-color': 'var(--vp-button-brand-bg)',
+                        'border-color': 'var(--vp-button-brand-border)',
+                        color: 'var(--vp-button-brand-text)'
+                      }
+                "
+                @click="handleSubmit()"
+              >
+                {{ loading ? 'ارسال...' : 'ابعت رأيك 📩' }}
+              </button>
+            </div>
           </div>
-          <textarea
-            v-model="feedback.message"
-            autofocus
-            class="bg-$vp-c-bg-alt text-$vp-c-text-2 w-full h-[100px] border border-$vp-c-divider rounded px-3 py-1.5 border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid"
-            placeholder="اي الwiki الحلوة فشخ دي!"
-            @input="error = null"
-          />
-          <p class="desc mb-2">
-            ضيف الdiscord بتاعنك لو عايز تتكلم معانا مباشرةً و تشارك رأيك في الwiki
-            <a
-              class="text-primary text-underline font-semibold"
-              href="https://discord.gg/"
-            >
-            .
-            </a>
-          </p>
-          <div class="flex flex-row gap-2">
-            <button
-              class="bg-$vp-c-default-soft text-primary border-$vp-c-default-soft inline-flex h-7 items-center justify-center whitespace-nowrap rounded-md border-2 border-solid px-1.5 py-3.5 text-sm font-medium transition-all duration-300 sm:h-6"
-              @click="resetFeedback()"
-            >
-              <span class="i-lucide:panel-left-close">close</span>
-            </button>
-            <button
-              type="submit"
-              class="btn btn-primary"
-              :disabled="isDisabled || loading"
-              :style="
-                isDisabled || loading
-                  ? {}
-                  : {
-                      'background-color': 'var(--vp-button-brand-bg)',
-                      'border-color': 'var(--vp-button-brand-border)',
-                      color: 'var(--vp-button-brand-text)'
-                    }
-              "
-              @click="handleSubmit()"
-            >
-              {{ loading ? 'ارسال...' : 'ابعت رأيك 📩' }}
-            </button>
+          <div v-else>
+            <p class="heading">شكرا علي تعليقك!</p>
           </div>
-        </div>
-        <div v-else>
-          <p class="heading">شكرا علي تعليقك!</p>
-        </div>
-      </Transition>
-    </div>
-  </Transition>
+        </Transition>
+      </div>
+    </Transition>
   </div>
 </template>
 
@@ -373,38 +373,38 @@ const resetFeedback = () => {
 }
 
 /* RTL styles */
-[dir="rtl"] {
+[dir='rtl'] {
   text-align: right;
   direction: rtl;
 }
 
-[dir="rtl"] .flex {
+[dir='rtl'] .flex {
   flex-direction: row-reverse;
 }
 
-[dir="rtl"] .flex-row {
+[dir='rtl'] .flex-row {
   flex-direction: row-reverse;
 }
 
-[dir="rtl"] [class*="i-lucide:"] {
+[dir='rtl'] [class*='i-lucide:'] {
   transform: scaleX(-1);
 }
 
-[dir="rtl"] button {
+[dir='rtl'] button {
   text-align: right;
 }
 
-[dir="rtl"] .ml-3 {
+[dir='rtl'] .ml-3 {
   margin-left: 0;
   margin-right: 0.75rem;
 }
 
 /* Ensure icon div appears on the right */
-[dir="rtl"] .flex.items-start > div:first-child {
+[dir='rtl'] .flex.items-start > div:first-child {
   order: 2;
 }
 
-[dir="rtl"] .flex.items-start > div:nth-child(2) {
+[dir='rtl'] .flex.items-start > div:nth-child(2) {
   order: 1;
 }
 </style>

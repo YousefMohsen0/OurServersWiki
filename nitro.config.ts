@@ -22,7 +22,7 @@ export default defineNitroConfig({
   preset: 'cloudflare_module',
   compatibilityDate: '2024-11-01',
   runtimeConfig: {
-    WEBHOOK_URL: process.env.WEBHOOK_URL,
+    WEBHOOK_URL: process.env.WEBHOOK_URL
   },
   cloudflare: {
     wrangler: {
@@ -33,13 +33,13 @@ export default defineNitroConfig({
       kv_namespaces: [
         {
           binding: 'STORAGE',
-          id: process.env.CLOUDFLARE_KV_NAMESPACE_ID,
-        },
-      ],
-    },
+          id: process.env.CLOUDFLARE_KV_NAMESPACE_ID
+        }
+      ]
+    }
   },
   output: {
-    dir: './.output',
+    dir: './.output'
   },
   srcDir: 'api/',
   routeRules: {

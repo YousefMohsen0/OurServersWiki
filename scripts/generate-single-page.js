@@ -35,8 +35,7 @@ const OUTPUT_FILE = 'docs/public/single-page.md'
 function generateSinglePage() {
   console.log('Generating single-page markdown...')
 
-  let body =
-    '\ufeff<!-- الصفحة دي يتتعمل اوتوماتك مينفعش تتعدل يدوي. -->\n'
+  let body = '\ufeff<!-- الصفحة دي يتتعمل اوتوماتك مينفعش تتعدل يدوي. -->\n'
 
   const contents = files.map((file) => {
     const filePath = path.join('docs', file)

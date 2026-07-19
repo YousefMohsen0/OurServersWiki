@@ -200,18 +200,18 @@ const formatDate = (timestamp: string | number): string => {
 }
 
 /* RTL overrides */
-[dir="rtl"] .posts-timeline {
+[dir='rtl'] .posts-timeline {
   direction: rtl;
 }
 
-[dir="rtl"] .posts-list {
+[dir='rtl'] .posts-list {
   border-left: none;
   border-right: 2px solid var(--vp-c-divider);
   margin-right: 0.25rem;
   margin-left: 0;
 }
 
-[dir="rtl"] .post-item {
+[dir='rtl'] .post-item {
   padding: 0.5rem 1.25rem 0.5rem 1rem;
   margin-right: -2px;
   margin-left: 0;
@@ -220,20 +220,20 @@ const formatDate = (timestamp: string | number): string => {
   border-radius: 8px 0 0 8px;
 }
 
-[dir="rtl"] .post-item:hover {
+[dir='rtl'] .post-item:hover {
   border-left-color: transparent;
   border-right-color: var(--vp-c-brand-1);
 }
 
-[dir="rtl"] .post-meta {
+[dir='rtl'] .post-meta {
   flex-direction: row-reverse;
 }
 
-[dir="rtl"] .post-arrow {
+[dir='rtl'] .post-arrow {
   transform: translateX(4px);
 }
 
-[dir="rtl"] .post-item:hover .post-arrow {
+[dir='rtl'] .post-item:hover .post-arrow {
   transform: translateX(-4px);
 }
 
