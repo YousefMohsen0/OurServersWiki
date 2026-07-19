@@ -266,7 +266,7 @@ footer: true
     }
 
     if (modAdditions.length > 0 || modRemovals.length > 0) {
-      markdown += `### ▷ روابط اتعدلت (${Math.max(modAdditions.length, modRemovals.length)})
+      markdown += `### روابط اتعدلت (${Math.max(modAdditions.length, modRemovals.length)})
 
 `
       const seen = new Set()
@@ -297,7 +297,7 @@ footer: true
 
     const realAdditions = pureAdditions.filter(a => a.includes(']('))
     if (realAdditions.length > 0) {
-      markdown += `### ▷ روابط اتضافت (${realAdditions.length})
+      markdown += `### روابط اتضافت (${realAdditions.length})
 
 `
       for (const add of realAdditions) {
@@ -313,7 +313,7 @@ footer: true
 
     const realRemovals = pureRemovals.filter(d => d.text.includes(']('))
     if (realRemovals.length > 0) {
-      markdown += `### ▷ روابط اتشالت (${realRemovals.length})
+      markdown += `### روابط اتشالت (${realRemovals.length})
 
 `
       for (const del of realRemovals) {

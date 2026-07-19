@@ -2,9 +2,9 @@
   
 # OSW - Our Server's Wiki
 
-[![GitHub stars](https://img.shields.io/github/stars/YousefMohsen0/OurServersWiki?style=for-the-badge&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YousefMohsen0/OurServersWiki?style=for-the-badge&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/network/members)
-[![Cloudflare](https://img.shields.io/badge/hosted%20on-Cloudflare-F38020?style=for-the-badge&logo=cloudflare)](https://pages.cloudflare.com/)
+[![GitHub stars](https://img.shields.io/github/stars/YousefMohsen0/OurServersWiki?style=social&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YousefMohsen0/OurServersWiki?style=social&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/network/members)
+[![Cloudflare](https://img.shields.io/badge/hosted%20on-Cloudflare-F38020?style=social&logo=cloudflare)](https://pages.cloudflare.com/)
 [![English README](https://img.shields.io/badge/README-English-111827?style=for-the-badge)](README.en.md)
 
 OSW هو نسخة/تفريع من FMHY معمولة عشان تبقى ويكي خاص بسيرفرنا، وركزنا فيها على تنظيم المصادر، سهولة التصفح، وإمكانية أي حد يساهم.
@@ -157,9 +157,9 @@ pnpm api:deploy
 لو عايز نفس شكل الشارات أو الأزرار الصغيرة اللي فوق في الـ README، ده مثال بسيط:
 
 ```md
-[![Stars](https://img.shields.io/github/stars/YOUR-OWNER/YOUR-REPO?style=for-the-badge)](https://github.com/YOUR-OWNER/YOUR-REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR-OWNER/YOUR-REPO?style=for-the-badge)](https://github.com/YOUR-OWNER/YOUR-REPO/network/members)
-[![Issues](https://img.shields.io/github/issues/YOUR-OWNER/YOUR-REPO?style=for-the-badge)](https://github.com/YOUR-OWNER/YOUR-REPO/issues)
+[![Stars](https://img.shields.io/github/stars/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/stargazers)
+[![Forks](https://img.shields.io/github/forks/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/network/members)
+[![Issues](https://img.shields.io/github/issues/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/issues)
 ```
 
 لو عايز شارة لعدد النجوم أو الفorks، بس غيّر `YOUR-OWNER/YOUR-REPO` لاسم الريبو الحقيقي بتاعك.
@@ -173,5 +173,9 @@ pnpm api:deploy
 ## ملاحظة عن الاسم
 
 OSW اختصار لـ Our Server Wiki، وهو تفريع/نسخة مبنية من FMHY ومتظبطة عشان تناسب احتياجنا ومحتوانا الخاص.
+
+## Star History
+
+![Star History Chart](https://api.github-star-history.rh.cloud.net/YousefMohsen0/OurServersWiki)
 
 </div>
