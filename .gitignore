@@ -12,6 +12,7 @@ dist
 docs/.vitepress/.temp
 result
 docs/recently-removed.md
+docs/posts/changelog-sites.md
 docs/public/single-page.md
 dev-dist
 package-lock.json
