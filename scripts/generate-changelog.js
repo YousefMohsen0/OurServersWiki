@@ -256,7 +256,7 @@ footer: true
     // Process additions
     const realAdditions = additions.filter(a => a.includes(']('))
     if (realAdditions.length > 0) {
-      markdown += `### ▷ روابط اتضافت (${realAdditions.length})
+      markdown += `### روابط اتضافت (${realAdditions.length})
 
 `
       for (const add of realAdditions) {
@@ -273,7 +273,7 @@ footer: true
     // Process removals
     const realRemovals = deletions.filter(d => d.text.includes(']('))
     if (realRemovals.length > 0) {
-      markdown += `### ▷ روابط اتشالت (${realRemovals.length})
+      markdown += `### روابط اتشالت (${realRemovals.length})
 
 `
       for (const del of realRemovals) {
@@ -296,7 +296,7 @@ footer: true
             .replace(/https?:\/\/[^\s)]+/g, '')
             .replace(/\s+/g, ' ')
 
-        const cleanSearchable = stripLinks(searchablePart).trim()
+        const cleanSearchable = stripLinks(searchablePart).replace(/^\*+\s*/, '').trim()
         let cleanHidden = stripLinks(hiddenPart)
 
         if (

@@ -18,7 +18,7 @@ footer: true
 
 **Updated video.md & fixed typos**
 
-### ▷ روابط اتضافت (52)
+### روابط اتضافت (52)
 
 * [Freek](https://freek.to/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي / [ديسكورد](https://discord.com/invite/q8Y9FmYFPR)
 * [Broflix](https://broflix.ci/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي
@@ -73,8 +73,8 @@ footer: true
 * [FilmDuty](https://filmduty.com/) - أفلام / مسلسلات / أنمي
 * Google Drive [افلام](https://databasegdriveplayer.co/movie.php)، [مسلسلات](https://databasegdriveplayer.co/series.php)، [أنمي](https://databasegdriveplayer.co/anime.php)، [دراما كورية](https://databasegdriveplayer.co/drama.php) - أفلام / مسلسلات / أنمي / 720p
 
-### ▷ روابط اتشالت (1)
+### روابط اتشالت (1)
 
-- * Video Download CSE / CSE 2 / CSE 3 <!-- search-exclude --> - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيدوهات المباشرة (اتشال في [`01fe10f`](https://github.com/YousefMohsen0/OurServersWiki/commit/01fe10f71466ce4e0f8b6047a9f41b4b4d6a54f4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL852))<!-- /search-exclude -->
+- Video Download CSE / CSE 2 / CSE 3 <!-- search-exclude --> - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيدوهات المباشرة (اتشال في [`01fe10f`](https://github.com/YousefMohsen0/OurServersWiki/commit/01fe10f71466ce4e0f8b6047a9f41b4b4d6a54f4#diff-54ab4b0a8f79b196f629689f4865b9c7621f4f55fc54d5d6af3f0a6cc017810eL852))<!-- /search-exclude -->
 
 </div>
