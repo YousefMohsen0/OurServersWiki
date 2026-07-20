@@ -264,14 +264,11 @@ function generateRemovedSites() {
   let markdown = `<div dir="rtl">\n\n`
   markdown += `# ► اخر مواقع اتشالت\n\n`
   markdown += `<!-- search-exclude -->\n`
-  markdown += `الصفحة دي فيها كل المواقع الي اتشال في اخر ${DAYS} يوم. دة بيساعدك تعرف اخر مواقع اتشالت او اتنقلت.\n\n`
+  markdown += `الصفحة دي فيها كل المواقع الي اتشالت في اخر ${DAYS} يوم. دة بيساعدك تعرف اخر مواقع اتشالت او اتنقلت.\n\n`
   markdown += `<!-- /search-exclude -->\n\n`
-  markdown += `</div>\n\n`
 
   if (sortedRemoved.length === 0) {
-    markdown += `<div dir="rtl">\n\n`
-    markdown += `مفيش مواقع اتشالت في اخر ${DAYS} يوم.\n`
-    markdown += `</div>\n`
+    markdown += `مفيش مواقع اتشالت في اخر ${DAYS} يوم.\n\n`
   } else {
     for (const site of sortedRemoved) {
       const fileHash = crypto
@@ -317,7 +314,10 @@ function generateRemovedSites() {
 
       markdown += `- ${cleanSearchable} <!-- search-exclude -->${cleanHidden} (اتشال في [\`${site.hash.slice(0, 7)}\`](${commitLink})${prLink}${cleanMsg})<!-- /search-exclude -->\n`
     }
+    markdown += `\n`
   }
+
+  markdown += `</div>\n`
 
   fs.writeFileSync(OUTPUT_FILE, markdown)
   console.log(
