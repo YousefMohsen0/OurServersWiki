@@ -152,18 +152,6 @@ pnpm api:deploy
 4. حدّث إعدادات النشر بتاعتك على GitHub وCloudflare.
 5. امسح أو غيّر أي أسرار أو إعدادات مش بتاعتك.
 
-## شكل الشارات والروابط الصغيرة
-
-لو عايز نفس شكل الشارات أو الأزرار الصغيرة اللي فوق في الـ README، ده مثال بسيط:
-
-```md
-[![Stars](https://img.shields.io/github/stars/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/network/members)
-[![Issues](https://img.shields.io/github/issues/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/issues)
-```
-
-لو عايز شارة لعدد النجوم أو الفorks، بس غيّر `YOUR-OWNER/YOUR-REPO` لاسم الريبو الحقيقي بتاعك.
-
 ## لينكات مفيدة
 
 - النسخة الإنجليزية: [README.en.md](README.en.md)
