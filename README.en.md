@@ -147,18 +147,6 @@ If you want your own fork or branded version:
 4. Update your GitHub and Cloudflare deployment settings.
 5. Remove any secrets or settings that are specific to this repo.
 
-## Badge / "stared stocks" style block
-
-If you meant the small badges at the top of the README, those are usually Shields.io badges. Example:
-
-```md
-[![Stars](https://img.shields.io/github/stars/YOUR-OWNER/YOUR-REPO?style=for-the-badge)](https://github.com/YOUR-OWNER/YOUR-REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR-OWNER/YOUR-REPO?style=for-the-badge)](https://github.com/YOUR-OWNER/YOUR-REPO/network/members)
-[![Issues](https://img.shields.io/github/issues/YOUR-OWNER/YOUR-REPO?style=for-the-badge)](https://github.com/YOUR-OWNER/YOUR-REPO/issues)
-```
-
-Replace `YOUR-OWNER/YOUR-REPO` with your actual GitHub repository path.
-
 ## Useful links
 
 - Arabic README: [README.md](README.md)
