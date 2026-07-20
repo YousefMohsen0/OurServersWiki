@@ -2,9 +2,9 @@
   
 # OSW - Our Server's Wiki
 
-[![GitHub stars](https://img.shields.io/github/stars/YousefMohsen0/OurServersWiki?style=social&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/YousefMohsen0/OurServersWiki?style=social&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/network/members)
-[![Cloudflare](https://img.shields.io/badge/hosted%20on-Cloudflare-F38020?style=social&logo=cloudflare)](https://pages.cloudflare.com/)
+[![GitHub stars](https://img.shields.io/github/stars/YousefMohsen0/OurServersWiki?style=for-the-badge&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/YousefMohsen0/OurServersWiki?style=for-the-badge&logo=github)](https://github.com/YousefMohsen0/OurServersWiki/network/members)
+[![Cloudflare](https://img.shields.io/badge/hosted%20on-Cloudflare-F38020?style=for-the-badge&logo=cloudflare)](https://pages.cloudflare.com/)
 [![English README](https://img.shields.io/badge/README-English-111827?style=for-the-badge)](README.en.md)
 
 OSW هو نسخة/تفريع من FMHY معمولة عشان تبقى ويكي خاص بسيرفرنا، وركزنا فيها على تنظيم المصادر، سهولة التصفح، وإمكانية أي حد يساهم.

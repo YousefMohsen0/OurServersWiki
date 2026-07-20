@@ -165,6 +165,10 @@ Replace `YOUR-OWNER/YOUR-REPO` with your actual GitHub repository path.
 - Contribution guide: [.github/CONTRIBUTING.md](.github/CONTRIBUTING.md)
 - Deployment notes: [DEPLOYMENT.md](DEPLOYMENT.md)
 
+## Star History
+
+![Star History Chart](https://api.github-star-history.rh.cloud.net/YousefMohsen0/OurServersWiki)
+
 ## Name note
 
 OSW stands for Our Server Wiki. It is a fork/copy of FMHY adapted for our own use and content.
