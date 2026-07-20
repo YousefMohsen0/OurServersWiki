@@ -82,4 +82,9 @@ const emit = defineEmits<{
 .switch.enabled .thumb {
   transform: translateX(18px);
 }
+
+html[dir='rtl'] .switch.enabled .thumb,
+:where([dir='rtl']) .switch.enabled .thumb {
+  transform: translateX(-18px);
+}
 </style>

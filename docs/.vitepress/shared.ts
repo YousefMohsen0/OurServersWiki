@@ -117,8 +117,8 @@ export const nav: DefaultTheme.NavItem[] = [
       { text: '🌐 بحث', link: '/posts/search' },
       { text: '❓ اسئلة شائعة', link: '/other/FAQ' },
       { text: '🚀 الصفحة الرئيسية', link: '/startpage' },
-      { text: '🏞 Wallpapers', link: '/other/wallpapers' },
-      { text: '💙 Feedback', link: '/feedback' }
+      { text: '🏞 خلفيات', link: '/other/wallpapers' },
+      { text: '💙 رأي الناس', link: '/feedback' }
     ]
   }
 ]
