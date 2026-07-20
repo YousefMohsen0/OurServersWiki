@@ -162,8 +162,16 @@ pnpm api:deploy
 
 OSW اختصار لـ Our Server Wiki، وهو تفريع/نسخة مبنية من FMHY ومتظبطة عشان تناسب احتياجنا ومحتوانا الخاص.
 
+</div>
+
 ## Star History
 
-![Star History Chart](https://api.github-star-history.rh.cloud.net/YousefMohsen0/OurServersWiki)
+<a href="https://www.star-history.com/?repos=YousefMohsen0%2FOurServersWiki&type=date&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=YousefMohsen0/OurServersWiki&type=date&theme=dark&logscale&legend=top-left&sealed_token=FIG0g-o-gc7_1IsTNsgLty8tXfwL25nbtC02lg6iBiLYHSqiwl5IR5A6hXBrUsjGR-7GG_zuU7dTSetMWIJqwrs5gXFPL56WasnCjDl4LRzLLVgBKbvMtxNu693HKscJ5xEy2sWdhrLrrhp1mkOrDE9KQtauB8cNtgjA5t05Lf-WFzmdRsFmoOVejNFI" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=YousefMohsen0/OurServersWiki&type=date&logscale&legend=top-left&sealed_token=FIG0g-o-gc7_1IsTNsgLty8tXfwL25nbtC02lg6iBiLYHSqiwl5IR5A6hXBrUsjGR-7GG_zuU7dTSetMWIJqwrs5gXFPL56WasnCjDl4LRzLLVgBKbvMtxNu693HKscJ5xEy2sWdhrLrrhp1mkOrDE9KQtauB8cNtgjA5t05Lf-WFzmdRsFmoOVejNFI" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=YousefMohsen0/OurServersWiki&type=date&logscale&legend=top-left&sealed_token=FIG0g-o-gc7_1IsTNsgLty8tXfwL25nbtC02lg6iBiLYHSqiwl5IR5A6hXBrUsjGR-7GG_zuU7dTSetMWIJqwrs5gXFPL56WasnCjDl4LRzLLVgBKbvMtxNu693HKscJ5xEy2sWdhrLrrhp1mkOrDE9KQtauB8cNtgjA5t05Lf-WFzmdRsFmoOVejNFI" />
+ </picture>
+</a>
 
-</div>
+
