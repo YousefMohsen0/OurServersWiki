@@ -28,6 +28,7 @@
 * ⭐ **[Monochrome](https://monochrome.tf/)**، [2](https://monochrome.samidy.com/)، [3](https://lossless.wtf)، [4](https://if-it-runs-ship-it.lol/)، [5](https://monochromemusic.pages.dev/) - لتشغيل الموسيقى من المتصفح بجودة عالية خالية من الفقد (Lossless) / [Discord](https://monochrome.samidy.com/discord) / [GitHub](https://github.com/monochrome-music/monochrome)
 * ⭐ **[SoundCloud](https://soundcloud.com/)** - منصة لمشاركة الأغاني والتراكات من صنع ورفع المستخدمين
 * ⭐ **[ArtistGrid](https://artistgrid.cx/)** - لتشغيل الأغاني غير الرسمية وغير المصدرة (Unreleased) / [Render](https://dev.artistgrid.cx/) / [Discord](https://discord.gg/tns89b3w7R) / [GitHub](https://github.com/ArtistGrid/)
+* [nghmat](https://songs.nghmat.com/) - اغاني / MP3 / استخدم [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
 * [Spotify](https://open.spotify.com/) - مشغل الويب لسبوتيفاي / [أداة لعرض الكلمات](https://github.com/mantou132/Spotify-Lyrics) / [سكربت كلمات الأغاني](https://greasyfork.org/en/scripts/377439)
 * [Deezer](https://www.deezer.com/) - مشغل الويب لديزر / بيحتاج تسجيل دخول
 * [Audiomack](https://audiomack.com/) - موقع لبث وتشغيل الموسيقى من المتصفح

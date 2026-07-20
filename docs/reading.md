@@ -9,6 +9,14 @@
 * ⭐ **[Bookracy](https://bookracy.com/)** - كتب / كوميكس / مانجا / [زرار التحميل](https://greasyfork.org/en/scripts/536768)
 * ⭐ **[MyAnonaMouse](https://www.myanonamouse.net/)** - كتب / كتب صوتية / كوميكس / نوتات موسيقية / [بيحتاج دعوة للتسجيل](https://www.myanonamouse.net/inviteapp.php)
 * ⭐ **[Library Genesis](https://libgen.li/)**, [2](https://libgen.gl/), [3](https://libgen.bz/), [4](https://libgen.vg/) - كتب / كوميكس / مانجا / [أدوات](/storage#libgen-tools) / [روابط بديلة](/storage#libgen-mirrors) / [مجتمع ريديت](https://reddit.com/r/libgen)
+* [Noor Book](https://www.noor-book.com/) - كتب (موقع عربي)
+* [Shamela](https://shamela.ws/) - كتب (موقع عربي)
+* [FoulaBook](https://foulabook.com/) - كتب (موقع عربي)
+* [books-library](https://books-library.website/) - كتب (موقع عربي)
+* [AlarabiMag](https://www.alarabimag.com/) - كتب (موقع عربي)
+* [Abjjad](https://www.abjjad.com/) - كتب (موقع عربي)
+* [GedoLibrary_bot](https://telegram.me/GedoLibrary_bot) - بوت كتب تليجرام (موقع عربي)
+* [hindawi](https://www.hindawi.org/) - تعليمية كتب (موقع عربي)
 * [Rave](https://ravebooksearch.com/), [Reading CSE](https://cse.google.com/cse?cx=006516753008110874046:s9ddesylrm8) / [2](https://cse.google.com/cse?cx=006516753008110874046:rc855wetniu) / [3](https://cse.google.com/cse?cx=e9657e69c76480cb8) / [4](https://cse.google.com/cse?cx=c46414ccb6a943e39) أو [Recherche](https://recherche-ebook.fr/en/) - بحث في كذا موقع للكتب في نفس الوقت
 * [Internet Archive](https://archive.org/details/texts) - كتب / كتب صوتية / مجلات / جرايد / [أدوات](/storage#internet-archive-tools)
 * [WeLib](https://welib.org/) / [2](https://welib.st/) - رابط بديل لأرشيف آنا (Anna's Archive) / لازم تعمل حساب علشان تحمل / [غير رسمي](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/welib-note.md)
@@ -437,6 +445,11 @@
 * ⭐ **[MangaDex](https://mangadex.org/)** / [برنامج تحميل](https://mangadex-dl.mansuf.link/) / [سكريبت تحميل](https://github.com/frozenpandaman/mangadex-dl) / [مجتمع ريديت](https://www.reddit.com/r/mangadex/) / [سيرفر ديسكورد](https://discord.gg/mangadex)
 * ⭐ **[MangaNato](https://www.manganato.gg/)**, [2](https://www.nelomanga.net/), [3](https://www.mangakakalot.gg), [4](https://www.natomanga.com/) / [سيرفر ديسكورد](https://discord.gg/Qhz84GGvE9)
 * ⭐ **[Nyaa Manga / LNs](https://nyaa.si/?f=0&c=3_0&q=)** - تحميل تورنت للمانجا والروايات الخفيفة
+* [Azoramoon](https://azoramoon.com/) - مانجا (موقع عربي)
+* [KenManga](https://ar.kenmanga.com/) - مانجا (موقع عربي)
+* [⁠Eshadow](https://www.eshadow.net/) - مانجا (موقع عربي)
+* [hijala](https://www.hijala.com/) - مانجا / [Discord](https://discord.com/invite/sGTBCDeE2J) (موقع عربي)
+* [Stellar Saber](https://stellarsaber.pro/) - مانجا (موقع عربي)
 * [⁠Tobari](https://tobari.moe/) - محرك ومجمع مانجا من كذا موقع في مكان واحد
 * [Nyora](https://web.nyora.xyz/) - محرك ومجمع للمانجا
 * [MangaKatana](https://mangakatana.com/)
@@ -635,6 +648,11 @@
 
 * ⭐ **[Wikiquote](https://wikiquote.org)** - ويكي الاقتباسات
 * ⭐ **[Poetry Foundation](https://www.poetryfoundation.org/)** - مؤسسة الشعر العالمية
+* [Aldiwan](https://www.aldiwan.net/) - قصائد / [Telegram](https://t.me/AldiwanNet) (موقع عربي)
+* [Almaany](https://www.almaany.com/) - قاموس متعدد اللغات (موقع عربي)
+* [⁠Archive Alsharekh](https://archive.alsharekh.org/) - مجلات / دوريات (موقع عربي)
+* [dohadictionary](https://www.dohadictionary.org/) - قاموس تاريخي (موقع عربي)
+* [Mo3jam](https://ar.mo3jam.com) - قاموس عامي / لغة شاردة (موقع عربي)
 * [⁠Eudaimonia](https://www.eudaimonia.wiki/) - كتاب حكمة جماعي تشاركي / اقتباسات مفيدة
 * [Brainy Quote](https://www.brainyquote.com/) - اقتباسات مشهورة ومأثورة
 * [AZquote](https://www.azquotes.com/) - محرك بحث للاقتباسات مرتبة أبجدياً

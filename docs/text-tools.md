@@ -544,6 +544,7 @@
 * ⭐ **[Font Piracy 101](https://gist.github.com/Overimagine1/9f32e11b4c770fcd33374ad936a57d90)** - الدليل والشرح الذهبي لكيفية تلاقي وتحميل الخطوط المدفوعة مجاناً
 * ⭐ **[wFonts](https://wfonts.com/)** - مكتبة خطوط ضخمة وسريعة للتحميل المباشر
 * ⭐ **[BeFonts](https://befonts.com/)** - موقع متميز يضم خطوطاً عصرية واحترافية جداً للمصممين
+* [ArabicFonts](https://arabicfonts.net/) or [ARFonts](https://www.arfonts.net/) - Fonts (موقع عربي)
 * [Free Fonts Family](https://freefontsfamily.org/) - تحميل حزم وعائلات الخطوط الكاملة مجاناً
 * [Cufon Fonts](https://www.cufonfonts.com/) - بنك خطوط عملاق يضم آلاف الخطوط المشهورة والمستخدمة في الويب
 * [FontsFree](https://fontsfree.net) - موقع بسيط ومباشر لتحميل الخطوط مجاناً

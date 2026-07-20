@@ -79,6 +79,14 @@
 
 ***
 
+### مواقع عربية
+* 🌐 **[⁠Faharys](https://t.me/faharys)** - قناة تليجرام فيها مواقع عربية ل الافلام و مسلسلات و الخ (موقع عربي)
+* [AdslGate](https://www.adslgate.com/) - فورم ل الالكترونيات للعرب
+* [ZeroTaxJobs](https://zerotaxjobs.com/) - شغل سوفت واري اينجنير (Software Engineer) (موقع عربي)
+* [arabic-reddit-extension](https://github.com/andronasef/arabic-reddit-extension) - تصليح العربي علي رديت (موقع عربي)
+
+***
+
 ### Movies / Shows (الأفلام والمسلسلات)
 
 * **مشاهدة مباشرة (Streaming): [Cineby](https://cineby.at/) / [Aether](https://aether.bar/) / [Lordflix](https://lordflix.su/) / [NEPU](https://nepu.to/)**

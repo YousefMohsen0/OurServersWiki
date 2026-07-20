@@ -15,6 +15,7 @@
 * ⭐ **[Valve Archive](https://valvearchive.com/)** - أرشيف بيانات Valve النادرة
 * ⭐ **[Sunshine](https://app.lizardbyte.dev/Sunshine/)** أو [Apollo](https://github.com/ClassicOldSong/Apollo) - خادم عن بعد لـ Moonlight / [للموبايل](https://github.com/ClassicOldSong/moonlight-android) / [Discord](https://discord.com/invite/d6MpcrbYQs) / [GitHub](https://github.com/LizardByte/Sunshine)
 * ⭐ **[Moonlight](https://moonlight-stream.org/)** - عميل سطح مكتب عن بعد للألعاب / [Discord](https://discord.com/invite/CGg5JxN) / [GitHub](https://github.com/moonlight-stream)
+* [Eternal Dream Arabization](https://www.etrdream.com/) - حديث / رسمي / ترجمة الألعاب ل العربي (موقع عربي)
 * [⁠Greenlight](https://github.com/unknownskl/greenlight) - عميل xCloud محسن / ألعاب Xbox السحابية
 * [⁠Better xCloud](https://better-xcloud.github.io/) - إضافة ميزات لـ xCloud / [X](https://x.com/redphx) / [Telegram](https://t.me/betterxcloud) / [GitHub](https://github.com/redphx/better-xcloud)
 * [Ghost Hunter Pro](https://github.com/MarchTheDev/GhostHunterPro) - إزالة ملفات الألعاب المتبقية
@@ -934,7 +935,7 @@
 
 * 🌐 **[Awesome TTRPGs](https://github.com/Zireael07/awesome-tabletop-rpgs)** - موارد وألعاب تعاقب أدوار لوحية عبر الإنترنت (TTRPGs)
 * ↪️ **[D&D Resources](/educational#dungeons-ɪmp-dragons)** - أدلة وأدوات للعبة Dungeons & Dragons
-* ⭐ محاكيات لرمي النرد (Dice Simulators) - **[dice.run](https://dice.run/)**، [DiceSimulator.com](http://www.dicesimulator.com/)، [Let's Roll](https://www.linepup.com/dice/) أو [Desktop Dice](https://girkovarpa.itch.io/desktopdice)
+* ⭐ **[dice.run](https://dice.run/)**، [DiceSimulator.com](http://www.dicesimulator.com/)، [Let's Roll](https://www.linepup.com/dice/) أو [Desktop Dice](https://girkovarpa.itch.io/desktopdice) - **محاكيات لرمي النرد (Dice Simulators)**
 * تطبيقات بطاقات أو ألعاب طاولة لوحية (Virtual Multiplayer Card Game / Tabletop) - [OCTGN](https://www.octgn.net/) / [Discord](https://discord.gg/Yn3Jrpj) / [GitHub](https://github.com/octgn/OCTGN) أو [⁠Pixelborn](https://pixelborn.app/) / [Discord](https://discord.gg/pixelborn)
 * [Scorecard.gg](https://scorecard.gg/) - إنشاء بطاقات وبطاقات تسجيل نقاط (Scorecards) لمباريات الألعاب اللوحية
 * أدوات وموارد لتعلم ألعاب تقمص الأدوار (RPG / TTRPG) - [RPGBOT](https://rpgbot.net/)، [Wargamer](https://www.wargamer.com/)، [Roll for Fantasy](https://rollforfantasy.com/)، [Kassoon](https://www.kassoon.com/) أو [DragonsFoot](https://www.dragonsfoot.org/)
@@ -954,9 +955,9 @@
 ## ▷ بناء عوالم ألعاب تقمص الأدوار (RPG Worldbuilding)
 
 * ↪️ **[Writing Tools](/text-tools#writing-tools)** - أدوات للكتابة وإدارة السرد والقصص
-* ⭐ أدوات لإدارة حملات RPG وبناء العوالم القصصية (RPG Campaign Managers / Worldbuilding) - **[Kanka](https://kanka.io/)**، [World Anvil](https://www.worldanvil.com/)، [RPTools](https://www.rptools.net/)، [Scabard](https://www.scabard.com/)، [Adventurer's Codex](https://adventurerscodex.com) أو [Fantasia Archive](https://fantasiaarchive.com/)
-* ⭐ أدوات لكتابة قصص الخيال وتوليد الأسماء (RPG / Fantasy Story Writing) - **[Chaotic Shiny](http://chaoticshiny.com/)**، [Chartopia](https://chartopia.d12dev.com/)، [Seventh Sanctum](https://www.seventhsanctum.com/)، [Notebook.ai](https://www.notebook.ai/)، [Fantasy Name Generators](https://www.fantasynamegenerators.com/) أو [Eigengrau's Generator](https://eigengrausgenerator.com/)
-* ⭐ مولدات إجرائية لإنشاء خرائط الخيال وألعاب RPG (Procedural RPG / Fantasy Map Generators) - **[donjon](https://donjon.bin.sh/)** أو [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/)
+* ⭐ **[Kanka](https://kanka.io/)**، [World Anvil](https://www.worldanvil.com/)، [RPTools](https://www.rptools.net/)، [Scabard](https://www.scabard.com/)، [Adventurer's Codex](https://adventurerscodex.com) أو [Fantasia Archive](https://fantasiaarchive.com/) - **أدوات لإدارة حملات RPG وبناء العوالم القصصية (RPG Campaign Managers / Worldbuilding)**
+* ⭐ **[Chaotic Shiny](http://chaoticshiny.com/)**، [Chartopia](https://chartopia.d12dev.com/)، [Seventh Sanctum](https://www.seventhsanctum.com/)، [Notebook.ai](https://www.notebook.ai/)، [Fantasy Name Generators](https://www.fantasynamegenerators.com/) أو [Eigengrau's Generator](https://eigengrausgenerator.com/) - **أدوات لكتابة قصص الخيال وتوليد الأسماء (RPG / Fantasy Story Writing)**
+* ⭐ **[donjon](https://donjon.bin.sh/)** أو [Azgaar](https://azgaar.github.io/Fantasy-Map-Generator/) - **مولدات إجرائية لإنشاء خرائط الخيال وألعاب RPG (Procedural RPG / Fantasy Map Generators)**
 * [watabou](https://watabou.itch.io/)، [2](https://watabou.github.io/) - مولدات لخرائط العوالم الخيالية والأبراج المحصنة (Dungeons) والمزيد
 * [Inkwell Ideas](https://inkwellideas.com/) - برامج وأدوات مساعدة وملحقات لألعاب الـ RPG
 * محررات خرائط لألعاب TTRPG / ويندوز - [Map Generator](https://emptybuttons.itch.io/map-generator) أو [RPG Map II](https://deepnight.itch.io/tabletop-rpg-map-editor)
@@ -1000,7 +1001,7 @@
 * 🌐 **[ACNH.Directory](https://acnh.directory/)** أو **[⁠NookNet](https://nooknet.net/)** / [Discord](https://discord.com/invite/RwNrqmH) - أدلة وموارد للعبة Animal Crossing: New Horizons
 * 🌐 موارد ومودات للعبة !Osu - **[osu! Game Resources](https://resources.osucord.moe/)** / [GitHub](https://github.com/osucord/resources) أو **[Useful Osu](https://github.com/CarbonUwU/Useful-osu)**
 * 🌐 **[FM Scout](https://www.fmscout.com/)** - موارد ومجتمع للعبة Football Manager
-* ⭐ إحصائيات وأدوات وتكتيكات للعبة Team Fight Tactic - **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) أو [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy)
+* ⭐ **[Tactics.tools](https://tactics.tools/)** / [Discord](https://discord.com/invite/K4Z6shucH8) أو [MetaTFT](https://www.metatft.com/) / [Discord](https://discord.com/invite/RqN3qPy) - إحصائيات وأدوات وتكتيكات للعبة Team Fight Tactic
 * [Factorio Wiki](https://wiki.factorio.com/) - الويكي الرسمي وقاعدة بيانات لمعلومات لعبة Factorio
 * [Rust Clash](https://wiki.rustclash.com/) - الويكي والمعلومات الخاصة بلعبة Rust
 * [⁠UltraRumble](https://ultrarumble.com/) - ويكي وقاعدة بيانات لعبة My Hero Ultra Rumble
@@ -1031,7 +1032,7 @@
 * 🌐 **[r/PTCGP Resource Guide](https://redd.it/1gf94ey)** - موارد للعبة Pokémon TCG Pocket
 * ↪️ **[ألعاب بوكيمون عبر المتصفح (Pokémon Browser Games)](/gaming#pokemon)**
 * ⭐ **[Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Main_Page)** - الويكي الخاص بالبوكيمون
-* ⭐ قواعد بيانات وموسوعات بوكيمون - **[Serebii.net](https://www.serebii.net/)**، [Pokémon Awesome](https://pokemon-awesome.vercel.app/)، [PocketMonsters.net](https://pocketmonsters.net/) أو [Pokémon Database](https://pokemondb.net/)
+* ⭐ **[Serebii.net](https://www.serebii.net/)**، [Pokémon Awesome](https://pokemon-awesome.vercel.app/)، [PocketMonsters.net](https://pocketmonsters.net/) أو [Pokémon Database](https://pokemondb.net/) - قواعد بيانات وموسوعات بوكيمون
 * ⭐ **[PokeList](https://pokemonlist.netlify.app/)** أو [PokeAPI](https://pokeapi.co/) - فهارس شخصيات البوكيمون (Pokédexes)
 * ⭐ **[Pokémon Typechart](https://pokemondb.net/type)** أو [Type Calculator](https://www.pkmn.help/) - جداول نقاط ضعف وقوة أنواع البوكيمون (Type Charts)
 * [PokeCommunity](https://www.pokecommunity.com/) - مجتمع عشاق بوكيمون
@@ -1073,7 +1074,7 @@
 * 🌐 **[MixMods](https://www.mixmods.com.br/)** - تعديلات للعبة GTA: San Andreas
 * 🌐 **[cheeseburger's GTA Mods](https://cheeseburgersmod.blogspot.com/)** - تعديلات لألعاب GTA المخصصة للموبايل
 * ⭐ **[⁠GTA Wiki](https://gta.wiki/)** - ⁠الويكي الخاص بالسلسلة / [Discord](https://discord.gg/wG7MdySY8X)
-* ⭐ محاكيات اللعب الجماعي لألعاب GTA الكلاسيكية - **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) أو [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue)
+* ⭐ **[San Andreas: Multiplayer](https://www.sa-mp.mp/)** / [Discord](https://discord.com/invite/samp) أو [Multi Theft Auto](https://multitheftauto.com/) / [GitHub](https://github.com/multitheftauto/mtasa-blue) - محاكيات اللعب الجماعي لألعاب GTA الكلاسيكية
 * ⭐ **[Gillian's GTA](https://gillian-guide.github.io/)** - دليل لتعديل وتحسين لعبة GTA IV
 * ⭐ **[CLEO](https://cleo.li/)** - مكتبة سكربتات لتفعيل التعديلات وتسهيلها لألعاب GTA III و VC و SA / [Discord](https://discord.com/invite/d5dZSfgBZr)
 * ⭐ **[SilentPatch](https://cookieplmonster.github.io/mods/gta/)** - سلسلة من التعديلات (Patches) لإصلاح عيوب نسخ أجهزة الحاسب لألعاب GTA III، VC & SA
@@ -1093,7 +1094,7 @@
 
 * ⭐ **[Doom Wiki](https://doomwiki.org/wiki/Entryway)** - ويكي مخصص للعبة Doom
 * ⭐ **[ZDoom](https://www.zdoom.org/downloads)** - مشغل محرك (Source Port) مطور للعبة
-* ⭐ مشغلات ومحركات للعب أونلاين - **[ZDaemon](https://www.zdaemon.org/)**، **[Doomseeker](https://doomseeker.drdteam.org/)**، [oDamex](https://odamex.net/)، [DoomUtils](https://doomutils.ucoz.com/) أو [Zandronum](https://zandronum.com/) / [الاستضافة ومحفوظات WADs](https://allfearthesentinel.com/)
+* ⭐ **[ZDaemon](https://www.zdaemon.org/)**، **[Doomseeker](https://doomseeker.drdteam.org/)**، [oDamex](https://odamex.net/)، [DoomUtils](https://doomutils.ucoz.com/) أو [Zandronum](https://zandronum.com/) / [الاستضافة ومحفوظات WADs](https://allfearthesentinel.com/) - مشغلات ومحركات للعب أونلاين
 * [Classic DOOM](https://classicdoom.com/) - موسوعة عن نُسخ أجهزة الكونسول المختلفة لـ Doom / وثائق
 * [DoomWorld](https://www.doomworld.com/) - مجتمع لتنزيل خرائط وإضافات اللعبة
 * [Freedoom](https://freedoom.github.io/) - مشروع لصنع موارد ومجسمات للعبة مفتوحة المصدر
@@ -1157,7 +1158,7 @@
 
 ## ▷ أدوات Roblox
 
-* ⭐ إضافات تُعزز من تجربة موقع روبلوكس (Extensions) - **[RoSeal](https://www.roseal.live/)** / [Discord](https://discord.gg/YemzCFaQPC) / [GitHub](https://github.com/RoSeal-Extension/RoSeal)، [RoValra](https://rovalra.com/) / [Discord](https://discord.gg/aw6rEnFSjV) / [GitHub](https://github.com/NotValra/RoValra)، [⁠RoPlus](https://roplus.dev/)، [RoLocate](https://oqarshi.github.io/Invite/rolocate/) / [GitHub](https://github.com/Oqarshi/RoLocate)، [BTRoblox](https://github.com/AntiBoomz/BTRoblox)، [RoGold](https://rogold.live/free) / [Discord](https://discord.com/invite/XMHn9zV3UA) أو [RoPro](https://ropro.io/) / [Discord](https://discord.com/invite/8JXKupGY89)
+* ⭐ **[RoSeal](https://www.roseal.live/)** / [Discord](https://discord.gg/YemzCFaQPC) / [GitHub](https://github.com/RoSeal-Extension/RoSeal)، [RoValra](https://rovalra.com/) / [Discord](https://discord.gg/aw6rEnFSjV) / [GitHub](https://github.com/NotValra/RoValra)، [⁠RoPlus](https://roplus.dev/)، [RoLocate](https://oqarshi.github.io/Invite/rolocate/) / [GitHub](https://github.com/Oqarshi/RoLocate)، [BTRoblox](https://github.com/AntiBoomz/BTRoblox)، [RoGold](https://rogold.live/free) / [Discord](https://discord.com/invite/XMHn9zV3UA) أو [RoPro](https://ropro.io/) / [Discord](https://discord.com/invite/8JXKupGY89) - **إضافات تُعزز من تجربة موقع روبلوكس (Extensions)**
 * ⭐ **[Bloxstrap](https://bloxstraplabs.com/)** أو [Fishstrap](https://fishstrap.app) - أدوات إقلاع (Bootstrapper) لتشغيل اللعبة وRoblox Studio بخيارات أوسع / [Discord](https://discord.com/invite/nKjV3mGq6R) / [GitHub](https://github.com/bloxstraplabs/bloxstrap)
 * ⭐ **[⁠Rotrends](https://rotrends.com/)**، [Rolimon's](https://www.rolimons.com/games) أو [RoMonitor Stats](https://romonitorstats.com/) - إحصائيات وأدوات تحليلية (Analytics) لألعاب ومحتوى روبلوكس
 * [Roblox Studio Mod Manager](https://github.com/MaximumADHD/Roblox-Studio-Mod-Manager) - أداة إقلاع لـ Roblox Studio لتخصيصه بشكل أفضل
@@ -1199,7 +1200,7 @@
 ## ▷ أدوات Undertale / Deltarune
 
 * 🌐 فهارس للألعاب المصنوعة من قِبل المعجبين والألعاب المستقلة المستوحاة من السلسلة - **[GameJolt Undertale](https://gamejolt.com/games/best/tag-undertale)** أو **[itch.io Undertale](https://itch.io/games/tag-undertale)**
-* ⭐ ويكيات ضخمة للقصة وطريقة اللعب (Lore) - **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** / [Discord](https://discord.com/invite/zp2q7UFuWh)
+* ⭐ **[Undertale Wiki](https://undertale.wiki/)** / **[Deltarune Wiki](https://deltarune.wiki/)** / [Discord](https://discord.com/invite/zp2q7UFuWh) - ويكيات ضخمة للقصة وطريقة اللعب (Lore)
 * ⭐ **[UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool)** - أداة للتنقيب في البيانات (Datamining) وتعديل محتوى اللعبة
 * [Fangamer Newsletters](https://toby.fangamer.com/newsletters/) - أحدث أخبار وتحديثات المطور (Toby Fox)
 * استخراج كامل لحوارات ونصوص اللعبة (Dialogue Dump) - [UTDR Dialogue Compendium](https://inactivesnail.neocities.org/utdr-dialogue)، [Undertale Dialogue Dump](https://hushbugger.github.io/dialogue/)

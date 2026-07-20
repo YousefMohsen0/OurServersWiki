@@ -10,6 +10,8 @@
 
 ***
 
+* ⭐ **[FaselHD](https://web52518x.faselhdx.bid/)** - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
+* ⭐ **[Anime3rb](https://anime3rb.com/)** - Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * ⭐ **[Cineby](https://cineby.at/)**, [Cineplay](https://www.cineplay.to/) أو [Fmovies+](https://www.fmovies.gd/) - أفلام / مسلسلات / أنمي / ميزة التشغيل التلقائي للحلقة الجاية (Auto-Next) / [سيرفر ديسكورد](https://discord.gg/C2zGTdUbHE)
 * ⭐ **[نسخ ومشاريع الـ P-Stream البديلة](/video#p-stream-forks)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي
 * ⭐ **[LordFlix](https://lordflix.su/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/jUSTtedkpY)
@@ -23,6 +25,23 @@
 * ⭐ **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[TouStream](https://toustream.xyz/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/us5-and-toustream-1157125685178007672)
 * ⭐ **[Vyla](https://vyla.cc/)**, [2](https://vyla.qzz.io/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.com/invite/5eqRhKeywG)
+* [egydead](https://egydead.skin/) - Movies / TV / Anime / Sub / 1080p / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
+* [FajerShow](https://fajer.show) - Movies / TV / Cartoons / Sub / 720p (موقع عربي)
+* [egybest](https://egybest.la/) - Movies / TV / Anime (موقع عربي)
+* [TopCinema](https://web6.topcinema.cam/) - Movies / TV / Anime / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
+* [kirmalk](https://ta.kirmalk.com/) - Movies / TV (موقع عربي)
+* [⁠My Cima](https://my-cima.video/) - Movies / TV (موقع عربي)
+* [Laroza TV](https://tv.laroza.now/) - Movies / TV (موقع عربي)
+* [witanime](https://witanime.you/) - Anime / Sub / 1080p (موقع عربي)
+* [ristoanime](https://ristoanime.com/) - Anime (موقع عربي)
+* [Kawaii Anime](https://kawaii-anime.com/) - Anime (موقع عربي)
+* [animeslayer](https://animeslayer.to/) - Anime / 1080p / Avoid Their App (Outdated)
+* [animezid](https://animezid.net/) - Anime / Cartoons (موقع عربي)
+* [shahiid](https://shahiid-anime.net/) - Anime / Sub / 720p (موقع عربي)
+* [⁠ani-cli-arabic](https://ani-cli-arabic.dev/) - Anime CLI / [GitHub](https://github.com/np4abdou1/ani-cli-arabic) (موقع عربي)
+* [arabic-toons](https://www.arabic-toons.com/) - Cartoons (موقع عربي)
+* [al-fann](https://www.al-fann.net/) - Music (موقع عربي)
+* [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2) (موقع عربي)
 * [ArrowTV](https://arrowtv.net/), [Cinezo](https://www.cinezo.net/) أو [Flikhub](https://www.flikhub.net/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/yWWKfMbtm3)
 * [GOATED](https://goated.cx/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / جودة 4K / [ديسكورد](https://discord.gg/goatedcx)
 * [dulo.tv](https://dulo.tv/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/2dZK8xGU3q)
@@ -202,35 +221,11 @@
 * [Heartive](https://heartivetv.pages.dev/) - أفلام / مسلسلات / أنمي
 * [CineGo](https://cinego.co/) - أفلام ومسلسلات
 * [Moviepire](https://moviepire.org/) - أفلام / مسلسلات / أنمي / [قناة تليجرام الملحقة](https://t.me/hdoboxapk2)
-* [Freek](https://freek.to/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي / [ديسكورد](https://discord.com/invite/q8Y9FmYFPR)
-* [Broflix](https://broflix.ci/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي
-* [XPrime](https://xprime.tv/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي / [ديسكورد](https://discord.gg/DKACCNZC)
-* [Watch2Day](https://watch2day.site/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي / [تليجرام](https://t.me/watch2dayonline)
-* [7Xtream](https://movies.7xtream.com/), [2](https://cinema.7xtream.com/) - أفلام / مسلسلات / أنمي / 4K / [ديسكورد](https://discord.gg/TXqWTKeAAu)
-* [Nunflix](https://nunflix.org/), [2](https://nunflix-firebase.web.app/), [3](https://nunflix-ey9.pages.dev/), [4](https://nunflix-firebase.firebaseapp.com/) - أفلام / مسلسلات / أنمي / 4K / تشغيل تلقائي / [ديسكورد](https://discord.gg/CXVyfhgn26)
 * [AbleFlix](https://ableflix.xyz/), [2](https://ableflix.cc/) - أفلام / مسلسلات / أنمي / 4K / [ديسكورد](https://discord.gg/tDKYeh9eQn)
-* [Mokmobi](https://mokmobi.ovh/), [2](https://mokmobi.site/) - أفلام / مسلسلات / أنمي
-* [Bingeflex](https://bingeflex.vercel.app/) - أفلام / مسلسلات / [ديسكورد](https://discord.gg/ajRY6Bn3rr)
 * [Lekuluent](https://lekuluent.et/) - أفلام / مسلسلات / أنمي
-* [Autoembed](https://watch.autoembed.cc/) - أفلام / مسلسلات / أنمي / دراما / [ديسكورد](https://discord.gg/BWDSXV9aX4)
-* [ViewVault](https://viewvault.org/) - أفلام / مسلسلات / أنمي
-* [Nova](https://novastream.top/) - أفلام / مسلسلات / [ديسكورد](https://discord.gg/s9kUZw7CqP) / [github](https://github.com/ambr0sial/nova/)
-* [ZILLAXR](https://zilla-xr.xyz/) - أفلام / مسلسلات / [ديسكورد](https://discord.gg/MCt2R9gqGb) / [تليجرام](https://t.me/+MQUUqEx2WXA0ZmZk)
-* [Noxe](https://noxe.live/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي
-* [MyFlixed](https://www.myflixed.fun/) - أفلام / مسلسلات / أنمي
-* [Let's Stream](https://www.letstream.site/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.gg/SdVZGGEw)
-* [Cinema Deck](https://cinemadeck.com/), [2](https://cinemadeck.st/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://l.cinemadeck.com/discord)
-* [Soaper.TV](https://soaper.top/), [2](https://soaper.vip/), [3](https://soaper.cc/), [4](https://soaper.live/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [مرايا](https://www.soaperpage.com/)
 * [PressPlay](https://www.pressplay.top/), [2](https://pressplay.cam/) - أفلام / مسلسلات / [ديسكورد](https://discord.gg/r4QrghF4B9)
-* [watch.inzi](https://watch.inzi.dev/) - أفلام / مسلسلات / أنمي
-* [zmov](https://zmov.vercel.app/), [2](https://watch.coen.ovh/), [3](https://plexmovies.online/) - أفلام / مسلسلات / أنمي / [github](https://github.com/coen-h/zmov)
-* [catflix](https://catflix.su/) - أفلام / مسلسلات
-* [ValhallaStream](https://valhallastream.us.kg/), [2](https://valhallastream.pages.dev/) - أفلام / مسلسلات / أنمي
-* [Vidjoy](https://vidjoy.pro/), [2](https://moviekex.com/) - أفلام / مسلسلات / أنمي / [تليجرام](https://t.me/vidjoy) / [ديسكورد](https://discord.gg/4cq9vkerA3)
-* [Novafork](https://novafork.com/) - أفلام / مسلسلات / [تليجرام](https://t.me/novafork) / [ديسكورد](https://discord.gg/XbDBBmh5FY) / [github](https://github.com/fanlimgames/novafork)
 * [uFlix](https://uflix.cc/), [2](https://uflix.to/) - أفلام / مسلسلات / أنمي
 * [FilmeX](https://filmex.to/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.gg/6r5KTZgqXV)
-* [WatchHQ](https://watchhq.site/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.com/invite/YgSBsPAG)
 * [YoYoMovies](https://yoyomovies.net/), [2](https://fmovies-hd.to/) - أفلام / مسلسلات / أنمي
 
 ***
@@ -812,6 +807,33 @@
 * ⭐ **[1Shows](https://www.1shows.org/)** - أفلام / مسلسلات / أنمي / [سيرفر ديسكورد](https://discord.gg/the-one)
 * ⭐ **[Drama Day](https://dramaday.me/)** - مسلسلات دراما آسيوية وكورية كاملة
 * ⭐ **[MKVDrama](https://mkvdrama.net/)** - مسلسلات دراما آسيوية للتحميل
+* ⭐ **[OOMoye](https://www.oomoye.life/)** - أفلام / مسلسلات / أنمي / بعض المحتوى غير لائق
+* ⭐ **[RgShows](https://www.rgshows.me/)** - أفلام / مسلسلات / أنمي / [دليل](https://www.rgshows.me/guide.html) / [ديسكورد](https://discord.com/invite/rgshows)
+* [Stardima](https://www.stardima.com/) - افلام / مسلسلات / [Telegram](https://t.me/+Phq8ETiiBAIwNzJk) (موقع عربي)
+* [⁠My Cima](https://my-cima.video/) - افلام / مسلسلات / أنمي / Hard Subs (ترجمة مينفعش تشيلها) (موقع عربي)
+* [egydead](https://egydead.skin/) - افلام / مسلسلات / أنمي / Sub / 1080p / استخدم [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
+* [FilmCity](https://m.filmcity12.com/) - افلام (موقع عربي)
+* [TopCinema](https://web6.topcinema.cam/) - افلام / مسلسلات / أنمي / استخدم [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
+* [Anime3rb](https://anime3rb.com/) - أنمي / Sub / 1080p / استخدم [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking) (موقع عربي)
+* [piracy.vip](https://piracy.vip/) - أفلام / مسلسلات / أنمي / محتاج حساب / [ديسكورد](https://discord.com/invite/FKT2rMCfUW) / [تليجرام](https://t.me/+QV1PldJrE3gzYjk1)
+* [KatMovie4k](https://katworld.net/?type=Katmovie4k) - أفلام / مسلسلات / 4K
+* [SkyMovies](https://skymovieshd.li/) - أفلام / مسلسلات / أنمي / بعض المحتوى غير لائق
+* [Onkyo4k](https://onkyo4k.com/) - أفلام / مسلسلات / 4K
+* [MoviPlus](https://moviplus.net/) - أفلام / مسلسلات
+* [HDHub4u](https://hdhublist.com/?re=hollywood) - أفلام / مسلسلات / 4k / [تليجرام](https://hdhublist.com/?re=telegram)
+* [ShareSpark](https://ww1.sharespark.cfd/) - أفلام / مسلسلات
+* [Full4Movies](https://www.full4movies.cool/) - أفلام / مسلسلات / [تليجرام](https://t.me/+esNoIP2HG30yMjlk)
+* [SomosMovies](https://somosmovies.com/) - أفلام
+* [MovieSeriesTV](https://www.movieseriestv.net/) - أفلام / مسلسلات
+* [GoDrivePlayer](https://godriveplayer.com/) - أفلام / مسلسلات / أنمي / استخدم مانع النوافذ المنبثقة
+* [NetNaija](https://netnaija.xyz/) - أفلام / 480p
+* [DoraMax264](https://doramax264.com/) - دراما آسيوية / 480p
+* [Bollywood.eu](https://bollywood.eu.org/) - أفلام / محتاج تليجرام
+* [YourSerie](https://www.yourserie.com/) - أفلام / مسلسلات / 720p
+* [TwitchDL](https://dl2.twitchdl.us/) - أفلام / مسلسلات / أنمي
+* [PrivateMovieZ](https://privatemoviez.cam/) - أفلام / مسلسلات
+* [FilmDuty](https://filmduty.com/) - أفلام / مسلسلات / أنمي
+* Google Drive - [افلام](https://databasegdriveplayer.co/movie.php)، [مسلسلات](https://databasegdriveplayer.co/series.php)، [أنمي](https://databasegdriveplayer.co/anime.php)، [دراما كورية](https://databasegdriveplayer.co/drama.php) - أفلام / مسلسلات / أنمي / 720p
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - برنامج تحميل شامل / أفلام / مسلسلات / أنمي / [مجتمع ريديت](https://www.reddit.com/r/PlayTorrio/) / [ديسكورد](https://discord.gg/bbkVHRHnRk) / [جيت هاب](https://github.com/ayman708-UX/PlayTorrioV2)
 * [Cinetaro](https://cinetaro.tv/) - أفلام / مسلسلات / أنمي / [سيرفر ديسكورد](https://discord.com/invite/4yGUxdz3h9)
 * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - أفلام / مسلسلات / يفضل تشغل [مانع إعلانات](/privacy#adblocking)
@@ -880,27 +902,6 @@
 * [HDEncode](https://hdencode.org/) / [سكريبت تصفية وتحسين تصفح الموقع](https://github.com/mikeymuis/hdencode-filter-suite), [RapidMoviez](https://rmz.cr/) / [الروابط البديلة والمرايا](https://rmzmirrors.com/) أو [rlsDB](https://rlsdb.com/) - منتديات عملاقة للتحميل المباشر للأفلام والمسلسلات بجودات خارقة / بتطلب استخدام خدمات فك الروابط والـ [Debrid](/downloading#debrid-leeches)
 * [mov-cli](https://mov-cli.github.io/) - أداة للتحميل المباشر من خلال الشاشة السوداء (التيرمنال CLI) / [قائمة الإضافات المتاحة](https://github.com/topics/mov-cli-plugin) / [ديسكورد](https://discord.gg/BMzC7ePsBV) / [جيت هاب](https://github.com/mov-cli/mov-cli)
 * [Video Download CSE](https://cse.google.com/cse?cx=006516753008110874046:wevn3lkn9rr) / [CSE 2](https://cse.google.com/cse?cx=89f2dfcea452fc451) / [CSE 3](https://cse.google.com/cse?cx=aab218d0aa53e3578) - محركات بحث مخصصة ومعدلة من جوجل للتدوير على روابط تحميل الفيديو المباشرة
-* ⭐ **[OOMoye](https://www.oomoye.life/)** - أفلام / مسلسلات / أنمي / بعض المحتوى غير لائق
-* ⭐ **[RgShows](https://www.rgshows.me/)** - أفلام / مسلسلات / أنمي / [دليل](https://www.rgshows.me/guide.html) / [ديسكورد](https://discord.com/invite/rgshows)
-* [piracy.vip](https://piracy.vip/) - أفلام / مسلسلات / أنمي / محتاج حساب / [ديسكورد](https://discord.com/invite/FKT2rMCfUW) / [تليجرام](https://t.me/+QV1PldJrE3gzYjk1)
-* [KatMovie4k](https://katworld.net/?type=Katmovie4k) - أفلام / مسلسلات / 4K
-* [SkyMovies](https://skymovieshd.li/) - أفلام / مسلسلات / أنمي / بعض المحتوى غير لائق
-* [Onkyo4k](https://onkyo4k.com/) - أفلام / مسلسلات / 4K
-* [MoviPlus](https://moviplus.net/) - أفلام / مسلسلات
-* [HDHub4u](https://hdhublist.com/?re=hollywood) - أفلام / مسلسلات / 4k / [تليجرام](https://hdhublist.com/?re=telegram)
-* [ShareSpark](https://ww1.sharespark.cfd/) - أفلام / مسلسلات
-* [Full4Movies](https://www.full4movies.cool/) - أفلام / مسلسلات / [تليجرام](https://t.me/+esNoIP2HG30yMjlk)
-* [SomosMovies](https://somosmovies.com/) - أفلام
-* [MovieSeriesTV](https://www.movieseriestv.net/) - أفلام / مسلسلات
-* [GoDrivePlayer](https://godriveplayer.com/) - أفلام / مسلسلات / أنمي / استخدم مانع النوافذ المنبثقة
-* [NetNaija](https://netnaija.xyz/) - أفلام / 480p
-* [DoraMax264](https://doramax264.com/) - دراما آسيوية / 480p
-* [Bollywood.eu](https://bollywood.eu.org/) - أفلام / محتاج تليجرام
-* [YourSerie](https://www.yourserie.com/) - أفلام / مسلسلات / 720p
-* [TwitchDL](https://dl2.twitchdl.us/) - أفلام / مسلسلات / أنمي
-* [PrivateMovieZ](https://privatemoviez.cam/) - أفلام / مسلسلات
-* [FilmDuty](https://filmduty.com/) - أفلام / مسلسلات / أنمي
-* Google Drive [افلام](https://databasegdriveplayer.co/movie.php)، [مسلسلات](https://databasegdriveplayer.co/series.php)، [أنمي](https://databasegdriveplayer.co/anime.php)، [دراما كورية](https://databasegdriveplayer.co/drama.php) - أفلام / مسلسلات / أنمي / 720p
 
 ***
 
@@ -1018,6 +1019,7 @@
 * ⭐ **[Kinozal](https://kinozal.tv/)** - منتدى وموقع تورنت روسي عملاق جداً ويتميز بجودة ونظافة ملفات الأفلام والمسلسلات وجودات الـ 4K والـ Remux / بيطلب تسجيل حساب مجاني مسبقاً
 * ⭐ **[Heartive](https://heartivetv.pages.dev/)** - موقع متميز يضم روابط ماغنيت تورنت مباشرة وسريعة لكافة الأفلام والمسلسلات والأنمي
 * ⭐ **[EZTV](https://eztvx.to/)** - موقع إي زد تي في الشهير والأقدم عالمياً المتخصص بالكامل في رفع كافّة حلقات المسلسلات التلفزيونية والأنمي والبرامج اليومية فور عرضها على التلفزيون بالتورنت
+* [ArabP2P](https://www.arabp2p.net/) - فديوهات (موقع عربي)
 * [Video Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:gaoebxgop7j) أو [1Tube](https://www.1tube.org/torrent) - محركات بحث مخصصة من جوجل للتدوير على ملفات تورنت الأفلام في كذا موقع مع بعض
 * [TPB Movies](https://thepiratebay.org/search.php?q=top100:200) - قائمة أفضل 100 فيلم ومسلسل تورنت حالي من موقع خليج القراصنة (The Pirate Bay) العريق / **اوعى تنزل من الموقع برامج أو ألعاب نهائياً لسلامتك**
 * [LimeTorrents](https://www.limetorrents.fun/) - تحميل أفلام ومسلسلات تورنت

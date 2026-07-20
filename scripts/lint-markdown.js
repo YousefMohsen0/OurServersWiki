@@ -278,6 +278,7 @@ files.forEach((file) => {
           '/',
           '-',
           ',',
+          '،',
           '(',
           '&',
           '>',
@@ -295,17 +296,20 @@ files.forEach((file) => {
           '►',
           '▷'
         ]
-        if (allowedChars.includes(lastChar)) continue
+        if (allowedChars.includes(lastChar) || /[\u0600-\u06FF]/.test(lastChar))
+          continue
 
         // Check for allowed functional words (prepositions, conjunctions, determiners, etc.)
         // to avoid flagging sentences like "Try a [VPN]" or "Use [Adblock]"
         const allowedWords = [
           'or',
+          'أو',
           'and',
           'a',
           'an',
           'the',
           'use',
+          'استخدم',
           'using',
           'via',
           'with',
@@ -353,7 +357,7 @@ files.forEach((file) => {
           'chrome'
         ]
         const wordRegex = new RegExp(
-          `(^|[^a-zA-Z0-9])(${allowedWords.join('|')})$`,
+          `(^|[^a-zA-Z0-9\\u0600-\\u06FF])(${allowedWords.join('|')})$`,
           'i'
         )
         if (wordRegex.test(trimmedPreceding)) continue
