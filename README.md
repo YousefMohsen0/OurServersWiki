@@ -152,18 +152,6 @@ pnpm api:deploy
 4. حدّث إعدادات النشر بتاعتك على GitHub وCloudflare.
 5. امسح أو غيّر أي أسرار أو إعدادات مش بتاعتك.
 
-## شكل الشارات والروابط الصغيرة
-
-لو عايز نفس شكل الشارات أو الأزرار الصغيرة اللي فوق في الـ README، ده مثال بسيط:
-
-```md
-[![Stars](https://img.shields.io/github/stars/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/stargazers)
-[![Forks](https://img.shields.io/github/forks/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/network/members)
-[![Issues](https://img.shields.io/github/issues/YOUR-OWNER/YOUR-REPO?style=social&logo=github)](https://github.com/YOUR-OWNER/YOUR-REPO/issues)
-```
-
-لو عايز شارة لعدد النجوم أو الفorks، بس غيّر `YOUR-OWNER/YOUR-REPO` لاسم الريبو الحقيقي بتاعك.
-
 ## لينكات مفيدة
 
 - النسخة الإنجليزية: [README.en.md](README.en.md)
@@ -174,8 +162,16 @@ pnpm api:deploy
 
 OSW اختصار لـ Our Server Wiki، وهو تفريع/نسخة مبنية من FMHY ومتظبطة عشان تناسب احتياجنا ومحتوانا الخاص.
 
+</div>
+
 ## Star History
 
-![Star History Chart](https://api.github-star-history.rh.cloud.net/YousefMohsen0/OurServersWiki)
+<a href="https://www.star-history.com/?repos=YousefMohsen0%2FOurServersWiki&type=date&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=YousefMohsen0/OurServersWiki&type=date&theme=dark&logscale&legend=top-left&sealed_token=FIG0g-o-gc7_1IsTNsgLty8tXfwL25nbtC02lg6iBiLYHSqiwl5IR5A6hXBrUsjGR-7GG_zuU7dTSetMWIJqwrs5gXFPL56WasnCjDl4LRzLLVgBKbvMtxNu693HKscJ5xEy2sWdhrLrrhp1mkOrDE9KQtauB8cNtgjA5t05Lf-WFzmdRsFmoOVejNFI" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=YousefMohsen0/OurServersWiki&type=date&logscale&legend=top-left&sealed_token=FIG0g-o-gc7_1IsTNsgLty8tXfwL25nbtC02lg6iBiLYHSqiwl5IR5A6hXBrUsjGR-7GG_zuU7dTSetMWIJqwrs5gXFPL56WasnCjDl4LRzLLVgBKbvMtxNu693HKscJ5xEy2sWdhrLrrhp1mkOrDE9KQtauB8cNtgjA5t05Lf-WFzmdRsFmoOVejNFI" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=YousefMohsen0/OurServersWiki&type=date&logscale&legend=top-left&sealed_token=FIG0g-o-gc7_1IsTNsgLty8tXfwL25nbtC02lg6iBiLYHSqiwl5IR5A6hXBrUsjGR-7GG_zuU7dTSetMWIJqwrs5gXFPL56WasnCjDl4LRzLLVgBKbvMtxNu693HKscJ5xEy2sWdhrLrrhp1mkOrDE9KQtauB8cNtgjA5t05Lf-WFzmdRsFmoOVejNFI" />
+ </picture>
+</a>
 
-</div>
+
