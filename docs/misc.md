@@ -1365,6 +1365,7 @@
 * [CacheSleuth](https://www.cachesleuth.com/) - أدوات لحل الألغاز والمساعدة في لعبة (Geocaching) التفاعلية
 * [Parcelsapp](https://parcelsapp.com/en/)، [Informed Delivery](https://informeddelivery.usps.com/) أو [17Track](https://www.17track.net/en) - مواقع قوية لتتبع الطرود والبريد والشحنات لأغلب شركات التوصيل
 * [TemplateMaker](https://www.templatemaker.nl/) - يُولد لك قوالب (Templates) دقيقة للقص والطي لصناعة صناديق أو أغلفة بأحجام مخصصة للطباعة
+* [⁠FULU Bounties](https://bounties.fulu.org/) - اذالت إزالة حماية DRM من ألعاب الكونسول
 * [Hots&Cots](https://www.hotscots.app/) - تطبيق خاص للجنود لكتابة مراجعات لتقييم ثكنات الجيش (Barracks) والطعام (DFAC) / [X](https://x.com/hotscots_app)
 
 ***
