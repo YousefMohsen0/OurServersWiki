@@ -603,3 +603,201 @@ html.theme-view-transition .v-popper__popper.v-popper--theme-theme-selector {
 .VPFeatures {
   direction: rtl;
 }
+
+/* ============================================ */
+/* Wotaku-style: Tabs                           */
+/* ============================================ */
+
+:root {
+  --vp-plugin-tabs-tab-text-color: var(--vp-c-text-2);
+  --vp-plugin-tabs-tab-active-text-color: var(--vp-c-text-1);
+  --vp-plugin-tabs-tab-hover-text-color: var(--vp-c-text-1);
+  --vp-plugin-tabs-tab-bg: var(--vp-c-bg-soft);
+  --vp-plugin-tabs-tab-divider: var(--vp-c-divider);
+  --vp-plugin-tabs-tab-active-bar-color: var(--vp-c-brand-1);
+}
+
+/* AMOLED overrides - background becomes true black */
+.amoled {
+  --vp-plugin-tabs-tab-bg: #000000;
+  --vp-collapsible-bg: #000000;
+  --scrape-cell-active: #ff4757;
+  --scrape-cell-active-sd: #ff6b35;
+}
+
+.plugin-tabs {
+  margin: 16px 0;
+  background-color: var(--vp-plugin-tabs-tab-bg);
+  border: 2px solid #3d3d3d;
+  border-radius: 8px;
+}
+
+.plugin-tabs--tab-list {
+  position: relative;
+  padding: 0 12px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+/* RTL support for tabs */
+[dir="rtl"] .plugin-tabs--tab-list {
+  flex-direction: row-reverse;
+}
+
+[dir="rtl"] .plugin-tabs--tab {
+  text-align: right;
+}
+
+[dir="rtl"] .plugin-tabs--content {
+  text-align: right;
+}
+
+.plugin-tabs--tab-list::after {
+  content: "";
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  background-color: var(--vp-plugin-tabs-tab-divider);
+}
+
+.plugin-tabs--tab {
+  position: relative;
+  padding: 0 12px;
+  border-bottom: 2px solid transparent;
+  color: var(--vp-plugin-tabs-tab-text-color);
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 48px;
+  white-space: nowrap;
+  transition: color 0.25s;
+  background: none;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  cursor: pointer;
+}
+
+.plugin-tabs--tab[aria-selected="true"] {
+  color: var(--vp-plugin-tabs-tab-active-text-color);
+}
+
+.plugin-tabs--tab:hover {
+  color: var(--vp-plugin-tabs-tab-hover-text-color);
+}
+
+.plugin-tabs--tab::after {
+  content: "";
+  position: absolute;
+  z-index: 1;
+  right: 8px;
+  bottom: -2px;
+  left: 8px;
+  height: 2px;
+  background-color: transparent;
+  transition: background-color 0.25s;
+}
+
+.plugin-tabs--tab[aria-selected="true"]::after {
+  background-color: var(--vp-plugin-tabs-tab-active-bar-color);
+}
+
+.plugin-tabs--content {
+  padding: 16px;
+}
+
+.plugin-tabs--content[data-is-print="true"]:not(:last-child) {
+  border-bottom: 2px solid var(--vp-plugin-tabs-tab-divider);
+}
+
+.plugin-tabs--content > :first-child {
+  margin-top: 0;
+}
+
+.plugin-tabs--content > :last-child {
+  margin-bottom: 0;
+}
+
+/* Wotaku-style table overrides - minimal, clean */
+.vp-doc table tr,
+.vp-doc table td,
+.vp-doc table th {
+  border-color: #3d3d3d;
+}
+
+.vp-doc table tr:nth-child(even),
+.vp-doc table tr:nth-child(odd) {
+  background-color: transparent !important;
+}
+
+table tr:nth-child(even),
+table tr:nth-child(odd) {
+  background-color: transparent !important;
+}
+
+@media (max-width: 767px) {
+  .vp-doc table:not(.scrape-table) {
+    width: max-content;
+  }
+
+  .vp-doc table:not(.scrape-table) th,
+  .vp-doc table:not(.scrape-table) td {
+    white-space: nowrap;
+  }
+
+  .table-scroll {
+    overflow-x: auto;
+  }
+}
+
+/* Collapsible note-block overrides */
+.vp-doc .collapsible-search-heading,
+.vp-doc .tab-search-heading {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Block styling for otaku-page sections (subs, tools, etc.) */
+.otaku-block {
+  margin: 16px 0;
+  background-color: var(--vp-plugin-tabs-tab-bg, var(--vp-c-bg-soft));
+  border: 2px solid #3d3d3d;
+  border-radius: 8px;
+  padding: 16px 20px;
+}
+
+.amoled .otaku-block {
+  background-color: #000000;
+}
+
+.otaku-block > :first-child {
+  margin-top: 0;
+}
+
+.otaku-block > :last-child {
+  margin-bottom: 0;
+}
+
+/* Collapsible custom block */
+.vp-doc .custom-block-title {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+}
+
+.vp-doc .custom-block-title::before {
+  flex-shrink: 0;
+  margin-top: 3px;
+}
+
+.vp-doc .custom-block.title-only {
+  padding-bottom: 16px;
+}

@@ -34,6 +34,9 @@ import Feedback from './components/Feedback.vue'
 
 import 'floating-vue/dist/style.css'
 
+import { enhanceAppWithTabs } from './components/tabs'
+import Collapsible from './components/Collapsible.vue'
+import ScrapeTable from './components/ScrapeTable.vue'
 import GradientCard from './components/GradientCard.vue'
 import LinkCard from './components/LinkCard.vue'
 import LinkInline from './components/LinkInline.vue'
@@ -46,6 +49,9 @@ export default {
   Layout,
   enhanceApp({ router, app }) {
     app.use(FloatingVue)
+    enhanceAppWithTabs(app, { renderAll: false })
+    app.component('Collapsible', Collapsible)
+    app.component('ScrapeTable', ScrapeTable)
     app.component('GradientCard', GradientCard)
     app.component('VideoFrame', VideoFrame)
     app.component('LinkCard', LinkCard)
