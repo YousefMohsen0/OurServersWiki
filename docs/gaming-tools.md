@@ -74,7 +74,7 @@
 * ⭐ **[MSI Afterburner](https://www.msi.com/Landing/afterburner)** - أداة كسر السرعة / مراقب العتاد / تجنب Norton 360 أثناء التثبيت / ويندوز
 * ⭐ **[MSI Kombustor](https://www.geeks3d.com/furmark/kombustor/)** - اختبار قياس أداء كرت الشاشة (GPU Benchmark) / ويندوز
 * ⭐ **[DisplayMagician](https://displaymagician.littlebitbig.com/)** أو [AutoActions](https://github.com/Codectory/AutoActions) - ملفات تعريف العرض لكل لعبة / ويندوز
-* ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (بحث)، **[Magpie](https://github.com/Blinue/Magpie)** أو [OptiScaler](https://github.com/optiscaler/OptiScaler) / [المدير](https://github.com/Agustinm28/Optiscaler-Client) - ترقية دقة الألعاب (Upscaling) / ويندوز
+* ⭐ **[Lossless Scaling](https://fmhy.net/gaming#download-games)** (search) **[OptiScaler](https://github.com/optiscaler/OptiScaler)** / [Manager](https://github.com/Agustinm28/Optiscaler-Client) or **[Magpie](https://github.com/Blinue/Magpie)** - Game Upscaling / ويندوز
 * [SystemRequirementsLab](https://www.systemrequirementslab.com/cyri/) أو [PCGameBenchmark](https://www.pcgamebenchmark.com/) - اختبارات متطلبات تشغيل الألعاب
 * [SweetFX](https://sfx.thelazy.net/) أو [ENBSeries](http://enbdev.com) - أدلة إعدادات الألعاب لتحسين الرسومات
 * [TroubleChute](https://www.youtube.com/c/TroubleChute/featured) - دليل تحسين الألعاب
@@ -359,12 +359,14 @@
 * ⭐ **[Goldberg Fork](https://github.com/Detanup01/gbe_fork)** / [دليل](https://rentry.co/goldberg_emulator) أو [SmartSteamEmu](https://cs.rin.ru/forum/viewtopic.php?f=29&t=62935&sid=c6b5dadd40d56ac20a8789121bb743c5) - محاكيات Steam الأوفلاين / محاكيات الطور الجماعي
 * ⭐ **[Nemirtingas Epic Emulator](https://cs.rin.ru/forum/viewtopic.php?f=29&t=105551)** - محاكي الخدمة الأونلاين لمنصة Epic
 * ⭐ **[Steam-Auto-Crack](https://gitlab.com/steamautocracks/Steam-auto-crack)** أو [SteamAutoCracker](https://github.com/BigBoiCJ/SteamAutoCracker) / [واجهة رسومية](https://github.com/harryeffinpotter/Steam-Autocracker-GUI/) - تطبيق الكراكات تلقائيًا
+* [⁠OpenSteamTool](https://github.com/OpenSteam001/OpenSteamTool) - Steam Game + DLC Unlocker
 * [CreamInstaller Revival](https://cs.rin.ru/forum/viewtopic.php?f=20&t=154539) - أداة لفتح محتويات DLC في Steam / [GitHub](https://github.com/FroggMaster/CreamInstaller)
 * [Koalageddon](https://gitlab.com/DumbCodeGenerator/koalageddon) - فتح محتويات DLC في Steam / مشاركة العائلة
 * [DreamAPI](https://cs.rin.ru/forum/viewtopic.php?f=10&t=111520) - أداة لفتح DLC لمنصتي Origin و EA
 * [Anadius](https://rentry.co/FMHYB64#anadius) - أداة لفتح DLC لمنصة EA
 * [ScreamAPI](https://github.com/acidicoala/ScreamAPI) - أداة لفتح DLC لمنصة Epic
-* [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) - أداة لفتح DLC لمتجر Microsoft + ألعاب Xbox للكمبيوتر 
+* [⁠XStoreUnlocker](https://github.com/Zephkek/XStoreUnlocker) -  أداة لفتح DLC لمتجر Microsoft + ألعاب Xbox للكمبيوتر 
+* [⁠FULU Bounties](https://bounties.fulu.org/) - اذة إزالة حماية DRM من ألعاب الكونسول
 
 ***
 
@@ -404,6 +406,7 @@
 * ⭐ **[Nucleus Co-op](https://github.com/SplitScreen-Me/splitscreenme-nucleus)** - أداة لتقسيم الشاشة في ألعاب الكمبيوتر الجماعية محلياً (Local Split-Screen) / [Subreddit](https://www.reddit.com/r/nucleuscoop/) / [Discord](https://discord.com/invite/distro-nucleusco-op-142649962839277568)
 * [Fightcade](https://www.fightcade.com/) - أداة للعب ألعاب الريترو القتالية عبر الإنترنت (Matchmaking) / [دليل أتمتة](https://rentry.co/FMHYB64#fightcade) / [Discord](https://discord.gg/EyERRSg)
 * [⁠GameDate](https://www.gamedate.org/) / [Subreddit](https://www.reddit.com/r/GameDate/)، [NetplayFinder](https://www.netplayfinder.com/) / [Discord](https://discord.com/invite/SkRE39MGr7) أو [Broop](https://broop.id/) - جدولة جلسات الألعاب / إيجاد مجموعات للعب
+* [⁠start.gg](https://www.start.gg/) - ترتيب / متابعة الألعاب التنافسية
 * [⁠bo3.gg](https://bo3.gg/) - تتبع مباريات الرياضات الإلكترونية (ESport)، النتائج، والبثوث
 * [Liquipedia](https://liquipedia.net/) - ويكي الألعاب التنافسية / الرياضات الإلكترونية / [Discord](https://discord.com/invite/liquipedia)
 * [Tracker.gg](https://tracker.gg/) - قوائم المتصدرين للألعاب / الإحصائيات
@@ -735,6 +738,7 @@
 * [⁠FjordLauncher](https://github.com/unmojang/FjordLauncher) - نسخة مبنية من Prism / ويندوز، ماك، لينكس
 * [⁠PandoraLauncher](https://pandora.moulberry.com/) - مشغل / ويندوز، ماك، لينكس / [GitHub](https://github.com/Moulberry/PandoraLauncher)
 * [WineGDK](https://github.com/Weather-OS/WineGDK) - مشغل لنسخة Bedrock يعمل على أنظمة الماك واللينكس عبر بيئة تشغيل / ماك / لينكس / [دليل الاستخدام](https://minecraft.wiki/w/Tutorial:Playing_Minecraft_on_Linux#WineGDK)
+* [⁠BedrockOnLinux](https://github.com/Wyze3306/BedrockOnLinux) - Bedrock مشغل / لينكس
 * [Amethyst](https://github.com/AngelAuraMC/Amethyst-Android) أو [Amethyst-iOS](https://github.com/AngelAuraMC/Amethyst-iOS) - مشغل للموبايل / أندرويد، iOS / [Discord](https://discord.gg/5ptqkyZxEy)
 * [⁠MB Loader](https://play.google.com/store/apps/details?id=io.github.bambosan.mbloader) - مشغل للموبايل / أندرويد
 
@@ -744,8 +748,8 @@
 
 * 🌐 **[UsefulMods](https://github.com/TheUsefulLists/UsefulMods)** - قائمة بتعديلات تهدف لتحسين وتعزيز الأداء / [Discord](https://discord.gg/8nzHYhVUQS)
 * 🌐 **[CurseForge Modpacks](https://www.curseforge.com/minecraft/search?class=modpacks)** - تعديلات ماينكرافت / [إصلاحات وتسهيلات لتصفح الموقع](https://greasyfork.org/en/scripts/389255-curseforge-qol-fixes) / [Discord](https://discord.com/invite/curseforge)
-* 🌐 **[Not Essential](https://alternatives.microcontrollers.dev/)** - قائمة بالبدائل المتوفرة للإضافة الشهيرة (Essential) / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
-* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** - بدائل لـ OptiFine لمنصة Fabric
+* 🌐 **[Microcontrollers' Alternatives](https://alternatives.microcontrollers.dev/)** - قائمة بالبدائل المتوفرة لـ Microcontrollers' / [GitHub](https://github.com/MicrocontrollersDev/Alternatives)
+* 🌐 **[OptiFine Alternatives](https://optifine.alternatives.lambdaurora.dev/)** or [OptiFine Replacements](https://alternatives.microcontrollers.dev/latest/migrating/#optifine-replacements) - بدائل لـ OptiFine لمنصة Fabric
 * [Planet Minecraft](https://www.planetminecraft.com/) / [Discord](https://discord.com/invite/QQSWwyg)
 * [ModBay](https://modbay.org/) / [Discord](https://discord.com/invite/DpNJ5fApJM) أو [MCPEDL](https://mcpedl.com/) أو [⁠BedrockExplorer](https://www.bedrockexplorer.com/spotlight/free-content/all/addons/latest) - تعديلات / محتوى مخصص لنسخة Bedrock
 * [MC Archive](https://mcarchive.net/) - أرشيف للتعديلات (Mods) القديمة / [Discord](https://discord.com/invite/WuexGpP)
@@ -769,7 +773,8 @@
 * أدوات Worldedit - [الوثائق](https://worldedit.enginehub.org/en/latest/) / [واجهة رسومية CUI](https://modrinth.com/mod/worldedit-cui) / [Discord](https://discord.gg/enginehub) / [GitHub](https://github.com/EngineHub/WorldEdit)
 * [⁠MineGIT](https://modrinth.com/mod/minegit) - حفظ عوالم اللعبة سحابياً / مزامنة العوالم / [GitHub](https://github.com/ModMonster/MineGIT)
 * [quark](https://quarkmod.net/) - إضافة مميزات جديدة للعبة بشكل يتناسب مع طابعها الأساسي (Vanilla) وتسهيلات / [GitHub](https://github.com/VazkiiMods/Quark)
-* التعديلات الخفيفة لعرض المسافات البعيدة - [Voxy](https://modrinth.com/mod/voxy) / [GitHub](https://github.com/MCRcortex/voxy)، [DistantHorizons](https://modrinth.com/mod/distanthorizons) / [GitLab](https://gitlab.com/distant-horizons-team/distant-horizons) أو [Bobby](https://modrinth.com/mod/bobby)، [2](https://www.curseforge.com/minecraft/mc-mods/bobby) / [GitHub](https://github.com/Johni0702/bobby)
+* [Voxy](https://modrinth.com/mod/voxy) / [GitHub](https://github.com/MCRcortex/voxy), [DistantHorizons](https://modrinth.com/mod/distanthorizons) / [GitLab](https://gitlab.com/distant-horizons-team/distant-horizons) or [Bobby](https://modrinth.com/mod/bobby), [2](https://www.curseforge.com/minecraft/mc-mods/bobby) / [GitHub](https://github.com/Johni0702/bobby) - مزدات خفيفة لعرض المسافات البعيدة
+* [Sodium](https://modrinth.com/mod/sodium) / [GitHub](https://github.com/CaffeineMC/sodium) - Rendering Mod / [Forge Version](https://modrinth.com/mod/embeddium)
 * [Nvidium](https://modrinth.com/mod/nvidium) - تعديل لتحسين الأداء واستخدام كروت شاشة إنفيديا في التقديم (Rendering) باستخدام OpenGL / [GitHub](https://github.com/MCRcortex/nvidium)
 * [VulkanMod](https://modrinth.com/mod/vulkanmod) - تعديل أداء يُضيف دعم واجهة Vulkan / [Discord](https://discord.gg/FVXg7AYR2Q) / [GitHub](https://github.com/xCollateral/VulkanMod)
 * مدراء تعديلات (Mod Managers) داخل اللعبة - [ModMenu](https://modrinth.com/mod/modmenu) / [GitHub](https://github.com/TerraformersMC/ModMenu) أو [PAX](https://github.com/maradotwebp/pax) / [Discord](https://discord.com/invite/GQ4MTquzyX)
@@ -836,7 +841,7 @@
 * ⭐ **[NameMC](https://namemc.com/)** / [Discord](https://discord.gg/NameMC)، [Laby](https://laby.net/) / [Discord](https://discord.com/invite/8JBMHDfWKp) أو [Crafty](https://crafty.gg/) - أدوات تعقب توفر الأسماء وأرشيف لمظاهر الشخصيات (Skins)
 * [ShadersMods](https://shadersmods.com/) أو [MinecraftShader](https://minecraftshader.com/) - مواقع تحميل مظللات (Shaders) للعبة
 * [Iris Shaders](https://modrinth.com/mod/iris) - تعديل (Mod) لتشغيل المظللات متوافق مع بيئة Fabric
-* [MinecraftSkins](https://www.minecraftskins.com/)، [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) أو [SkinMC](https://skinmc.net/) - مواقع لتحميل المظاهر (Skins) للشخصيات
+* [MinecraftSkins](https://www.minecraftskins.com/), [MC-Skins](https://mc-skins.com/), [⁠MC Profiles](https://mcprofiles.net/), [MCSkins](https://mcskins.top/), [⁠BedrockExplorer](https://www.bedrockexplorer.com/queries/free-content/everyone/all/) أو [SkinMC](https://skinmc.net/) - مواقع لتحميل المظاهر (Skins) للشخصيات
 * [MSkins](https://mskins.net/en) - أداة للبحث والتقاط صور لحسابات وشخصيات اللعبة (Skin Grabber)
 * [Ely.by](https://ely.by/) - نظام مصادقة وتسجيل وتطبيق مظاهر بديلة للمستخدمين (Skin System / Authorization)
 * محرر المظاهر (Skin Editors) - [NeedCoolerShoes](https://needcoolershoes.com/) / [Discord](https://discord.gg/FEfbZYvQUa) / [GitHub](https://github.com/NeedCoolerShoes/needcoolershoes) أو [Nova Skin](https://minecraft.novaskin.me/)

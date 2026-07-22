@@ -59,6 +59,7 @@
 * [ScOOt3r Repacks](https://discord.gg/xe3Fys8Upy) - تحميل / تورنت / [Discord](https://discord.com/invite/WF2pqPTFBs)
 * [Glitchify Repacks](https://glitchify.org/) - تحميل / نسخ مضغوطة للرومات
 * [Spinneret Repacks](https://spinneretrepacks.qzz.io/) - تحميل ⁠/ [Discord](https://discord.gg/bkCzeZWrDt)
+* [PM2G Repacks](https://rentry.co/FMHYB64#pm2g) - تحميل / PW: `pm2g` / [Discord](https://discord.gg/38FRNdYAE)
 * [M4CKD0GE Repacks](https://m4ckd0ge-repacks.site/) - تحميل / [Discord](https://discord.gg/693hNBdymb)
 * [Dyren Repacks](https://rentry.co/FMHYB64#dyren) - تحميل / تورنت / [Discord](https://discord.com/invite/kw36u9cxd3)
 * [⁠Vanya Games](https://vanya-games.site/) - تحميل
@@ -643,6 +644,7 @@
 * [Chesses](https://pippinbarr.com/chesses/)، [TheChessDirectory](https://thechessdirectory.com/play-chess) أو [Omnichess](https://omnichess.club/) - أنماط متعددة للشطرنج
 * [Echo Chess](https://echochess.com/) - شطرنج بنمط التحول (Morph) / [Discord](https://discord.gg/echochess)
 * [The Kilobyte's Gambit](https://vole.wtf/kilobytes-gambit/) - شطرنج بنمط كلاسيكي (Retro)
+* [⁠HEARTH](https://hexhearth.lovable.app/) - شطرنج سداسي
 * [Kung Fu Chess](https://www.kfchess.com/) - شطرنج في الوقت الفعلي بدون أدوار
 * [⁠Blindfold Chess](https://www.blindfold-chess.online/) - لعب شطرنج مغمض العينين ضد محرك Stockfish
 * [Pokemon Chess](https://pokemonchess.com/) - شطرنج بأسلوب بوكيمون / [Discord](https://discord.gg/fp5bcCqg8q)
