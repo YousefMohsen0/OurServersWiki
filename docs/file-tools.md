@@ -348,7 +348,6 @@
 * [FileDitch](https://new.fileditch.com/) / [Discord](https://discord.gg/gACnap5kKx) أو [SendGB](https://www.sendgb.com/) - 25 جيجابايت / 90 يومًا
 * [hostb](https://hostb.org/) - غير محدود / 30 يومًا بعد آخر تحميل / [الكود المصدري](https://r-w-x.org/r/hostb.git)
 * [MixDrop](https://mixdrop.ag/) - غير محدود / 60 يومًا / يتطلب تسجيل
-* [Ranoz](https://ranoz.gg/) - 20 جيجابايت / 30 يومًا بعد آخر تحميل / **استخدم uBlock**
 * [Fast File](https://fast-file.com/) - 10 جيجابايت / 20 يومًا بعد آخر تحميل / [الحالة](https://status.fast-file.com/)
 * [1fichier.com](https://1fichier.com/) - 300 جيجابايت / 15 يومًا (30 يومًا مع حساب)
 * [Filebin](https://filebin.net/) - غير محدود / 6 أيام / [تحذير](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/filebin-warning.md)

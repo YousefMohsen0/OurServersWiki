@@ -289,6 +289,7 @@
 * ⭐ **[Alphacoders Avatars](https://avatars.alphacoders.com/)** - صور للملف الشخصي (PFPs) / صور رمزية (Avatars)
 * ⭐ **[Picrew](https://picrew.me/en/)** - مُنشئ لصور الأفاتار
 * [⁠Icon Gen](https://icon-gen.netlify.app/) - مولد تحويل الشعارات (Logo) لصور أفاتار / أيقونات
+* [⁠Pico](https://pico-icons.vercel.app/) - تعديل ل الايقونات / علي المتصفح
 * [PixelMe](https://xsgames.co/pixelme/) أو [Avatar Mixer](https://kenney.itch.io/avatar-mixer) - إنشاء وتوليد صور أفاتار بنمط 8-bit
 * [⁠Square Face Generator](https://squareface.app/) - توليد وجوه مربعة للصور الرمزية
 * [⁠Icon Z](https://icon-z.com/)، [Avatar Maker](https://avatarmaker.com/)، [Avataaars](https://getavataaars.com/) أو [Personas](https://personas.draftbit.com/) - مولدات بسيطة لصور وجوه أفاتار
