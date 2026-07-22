@@ -40,3 +40,6 @@ import ToggleStarred from './ToggleStarred.vue'
     </div>
   </div>
 </template>
+
+<style scoped>
+</style>
