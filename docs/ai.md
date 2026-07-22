@@ -12,8 +12,8 @@
 
 * ⭐ **[DeepSeek](https://chat.deepseek.com/)** - V4-Pro (Expert) / V4-Flash (Instant) / محتلج تسجيل / Unlimited / [Add Features](https://github.com/EdgeTypE/better-deepseek/) / [Subreddit](https://www.reddit.com/r/DeepSeek/) / [Discord](https://discord.com/invite/Tc7c45Zzu5) / [GitHub](https://github.com/deepseek-ai)
 * ⭐ **[⁠Z.ai](https://chat.z.ai/)** - GLM-5.2 / GLM-5-Turbo / Slides / محتلج تسجيل / [Discord](https://discord.gg/QR7SARHRxK) / [GitHub](https://github.com/zai-org)
-* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro / Gemini 3.5 Flash / محتلج تسجيل / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
-* ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.1 Flash / Gemini 3.5 Flash / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[Google AI Studio](https://aistudio.google.com/app/prompts/new_chat)** - Gemini 3.1 Pro Preview / Gemini 3.5 Flash-Lite / 3.6 Flash / محتلج تسجيل / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
+* ⭐ **[Gemini](https://gemini.google.com/)** - Gemini 3.1 Pro Preview (5 daily) / Gemini 3.5 Flash-Lite / 3.6 Flash / [Add Features](https://github.com/Nagi-ovo/gemini-voyager) / [Limits](https://support.google.com/gemini/answer/16275805) / [Subreddit](https://www.reddit.com/r/Bard/) / [Discord](https://discord.com/invite/gemini)
 * ⭐ **[Kimi](https://www.kimi.com/)** - Kimi K2.6 (Thinking) / Slides / محتلج تسجيل / [Subreddit](https://www.reddit.com/r/kimi/) / [Discord](https://discord.gg/TYU2fdJykW) / [GitHub](https://github.com/MoonshotAI)
 * ⭐ **[Qwen](https://chat.qwen.ai/)** - Qwen3.7-Max / Qwen3.7-Plus / Sign-Up / [Subreddit](https://www.reddit.com/r/Qwen_AI/) / [Discord](https://discord.com/invite/CV4E9rpNSD) / [GitHub](https://github.com/QwenLM)
 * [Meta AI](https://www.meta.ai/) - Muse Spark 1.1 / محتلج تسجيل / غير محدود
@@ -74,7 +74,7 @@
 * [Chatbox](https://chatboxai.app/) - برنامج للكمبيوتر (Desktop App) / [GitHub](https://github.com/chatboxai/chatbox)
 * [LobeHub](https://lobechat.com/chat) - برنامج للكمبيوتر (Desktop App) / بيحتاج تسجيل دخول / [Discord](https://discord.gg/AYFPHvv2jT) / [GitHub](https://github.com/lobehub/lobe-chat)
 * [Noi](https://noib.app/) - برنامج للكمبيوتر (Desktop App) / [Discord](https://discord.gg/kq2HXcpJSQ) / [GitHub](https://github.com/lencx/Noi)
-* [⁠Odysseus](https://pewdiepie-archdaemon.github.io/odysseus/) - Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
+* [⁠Odysseus](https://odysseus-dev.github.io/odysseus/) - Web UI / [GitHub](https://github.com/pewdiepie-archdaemon/odysseus)
 * [LibreChat](https://librechat.ai/) - Web UI / [Discord](https://discord.com/invite/CEe6vDg9Ky) / [GitHub](https://github.com/danny-avila/LibreChat)
 * [LoLLMs](https://lollms.com/) - واجهة مستخدم للويب (Web UI) / [GitHub](https://github.com/ParisNeo/lollms-webui)
 * [AnythingLLM](https://anythingllm.com/) - برنامج للكمبيوتر (Desktop App) / [Discord](https://discord.com/invite/YCtUYD5vBf) / [GitHub](https://github.com/Mintplex-Labs/anything-llm)
@@ -137,7 +137,7 @@
 * ⭐ **[Google Flow](https://labs.google/fx/tools/flow)** - موديل Nano Banana Pro / أكتر من 20 صورة في اليوم (بيتغير باستمرار) / وموديل Nano Banana 2 / غير محدود / تسجيل دخول بجوجل / [أندرويد](https://play.google.com/store/apps/details?id=com.google.android.apps.labs.whisk) / [Discord](https://discord.com/invite/googlelabs) / [أداة لإزالة العلامة المائية](https://banana.ovo.re/)
 * ⭐ **[Google AI Mode](https://google.com/aimode)** / [Discord](https://discord.com/invite/googlelabs) أو **[Gemini](https://gemini.google.com/)** / [Discord](https://discord.com/invite/gemini) - موديل Nano Banana 2 / عدد 20 صورة يومياً / تسجيل دخول بجوجل / [أداة إزالة العلامة المائية](https://banana.ovo.re/)، [بديل 2](https://greasyfork.org/en/scripts/559574) / [إضافة ميزات للخدمة](https://github.com/Nagi-ovo/gemini-voyager)
 * ⭐ **[⁠Hunyuan Image Generation](https://aistudio.tencent.com/chat/HunyuanDefault?modelId=Hunyuan-Image-3.0-Instruct)** - توليد صور / تعديل / تصميم ثلاثي الأبعاد (3D) / تسجيل دخول / غير محدود / [Discord](https://discord.com/invite/dNBrdrGGMa)
-* [⁠GeminiGen AI](https://geminigen.ai/app/imagen) - موديلات Nano Banana Pro / Nano Banana 2 / GPT IMAGE 2 / تسجيل دخول / [Discord](https://discord.com/invite/vJnYe86T8F)
+* [Snapgen AI](https://geminigen.ai/app/imagen) - Nano Banana Pro / Nano Banana 2 / GPT IMAGE 2 / محتاج تسجيل / [Discord](https://discord.com/invite/vJnYe86T8F)
 * [Arena](https://arena.ai/?mode=direct&chat-modality=image), [2](https://canaryarena.ai/image/direct) - صناعة وتعديل الصور بموديلات متعددة / تسجيل دخول / [OpenAI Bridge](https://github.com/CloudWaddie/LMArenaBridge) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Bing Create](https://www.bing.com/images/create) - غير محدود / موديل GPT Image 1 / تعديل وتوليد الصور / تسجيل دخول
 * [Design Arena](https://www.designarena.ai/) - كذا موديل لصناعة وتعديل الصور / تسجيل دخول / موديلات عشوائية / تقدر تصفر الحدود اليومية باستخدام إيميل مؤقت / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
