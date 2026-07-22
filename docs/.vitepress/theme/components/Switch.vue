@@ -36,6 +36,7 @@ const emit = defineEmits<{
     border-color 0.25s,
     background-color 0.4s ease;
   border-radius: 11px;
+  direction: ltr;
 }
 
 .switch.enabled {
@@ -77,20 +78,10 @@ const emit = defineEmits<{
   box-shadow:
     0 0 0 2px rgba(0, 0, 0, 0.08),
     var(--vp-shadow-1);
-  transform: translateX(18px);
+  transform: translateX(0);
 }
 
 .switch.enabled .thumb {
-  transform: translateX(0);
-}
-
-html[dir='rtl'] .switch.enabled .thumb,
-:where([dir='rtl']) .switch.enabled .thumb {
-  transform: translateX(0);
-}
-
-html[dir='rtl'] .switch .thumb,
-:where([dir='rtl']) .switch .thumb {
-  transform: translateX(-18px);
+  transform: translateX(18px);
 }
 </style>
