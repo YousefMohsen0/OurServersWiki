@@ -103,7 +103,7 @@
 
 * 🌐 **[جدول مقارنة بين مشغلات الواجهة (Launcher Comparison Table)](https://grabster.notion.site/6671f3b62d8043c4aaaae22a241e3f05?v=91d9b664887643298f85fe18044d3560)**
 * ⭐ **[Lawnchair](https://lawnchair.app/)** - مشغل مبني على واجهة هواتف Pixel / [خلاصة الأخبار (Feed)](https://github.com/LawnchairLauncher/lawnfeed) / [أيقونات](https://github.com/LawnchairLauncher/lawnicons) / [تليجرام](https://t.me/lawnchairci) / [Discord](https://discord.gg/3x8qNWxgGZ) / [GitHub](https://github.com/LawnchairLauncher/lawnchair)
-* ⭐ **[Niagara Launcher](/mobile#تطبيقات-معدلة-modded-apks)** (ابحث عنه هنا)، [2](https://niagaralauncher.app/) - مشغل مصمم للاستخدام بيد واحدة / [تليجرام](https://t.me/niagara_news) / [Discord](https://discord.com/invite/niagara-launcher-728630549278883950)
+* ⭐ **[Niagara Launcher](/mobile#تطبيقات-معدلة-modded-apks)** (ابحث عنه هنا)، [2](https://niagaralauncher.com/) - مشغل مصمم للاستخدام بيد واحدة / [تليجرام](https://t.me/niagara_news) / [Discord](https://discord.com/invite/niagara-launcher-728630549278883950)
 * ⭐ **[SmartLauncher](/mobile#تطبيقات-معدلة-modded-apks)** (ابحث عنه هنا)، [2](https://www.smartlauncher.net/) - مشغل قابل للتخصيص بشكل كبير / [تليجرام](https://t.me/smartlauncher)
 * ⭐ **[Kvaesitso](https://kvaesitso.mm20.de/)** - مشغل بيركز على ميزة البحث بشكل أساسي / [تليجرام](https://t.me/Kvaesitso) / [GitHub](https://github.com/MM2-0/Kvaesitso)
 * [Smart Dock](https://f-droid.org/packages/cu.axel.smartdock/) - مشغل بيدي تجربة تشبه سطح المكتب / [GitHub](https://github.com/axel358/smartdock)
@@ -358,7 +358,7 @@
 * 🌐 **[مقارنة بين رومات الأندرويد اللي بتركز على الخصوصية (Android Privacy ROM Comparisons)](https://eylenburg.github.io/android_comparison.htm)** أو [قائمة الرومات (Android ROM List)](https://github.com/musabcel/android_rom_list)
 * 🌐 **[قائمة GSI (GSI List)](https://github.com/TrebleDroid/treble_experimentations/wiki/Generic-System-Image-(GSI)-list)** - قائمة بصور النظام العامة (GSI) اللي ممكن تتثبت على أي موبايل بيدعم Project Treble
 * ⭐ **[GrapheneOS](https://grapheneos.org/)** - أفضل نظام تشغيل أندرويد معدل للخصوصية والأمان على الإطلاق / مخصص حصرياً لموبايلات Google Pixel فقط / [دليل توافق تطبيقات البنوك معاه](https://privsec.dev/posts/android/banking-applications-compatibility-with-grapheneos/) / [Matrix](https://matrix.to/#/%23community:grapheneos.org) / [Discord](https://discord.com/invite/grapheneos) / [تليجرام](https://t.me/GrapheneOS)
-* [⁠Custom ROM Hardware](https://customromhardware.miraheze.org/) - قاعدة بيانات بتوضحلك التوافق المادي والمشاكل المتوقعة لما تثبت روم معدل على جهازك 
+* [⁠Custom ROM Hardware](https://customromhardware.miraheze.org/) - قاعدة بيانات بتوضحلك التوافق المادي والمشاكل المتوقعة لما تثبت روم معدل على جهازك
 * [LineageOS](https://www.lineageos.org/) - أشهر وأكثر روم معدل مدعوم من المجتمع، خفيف وبيركز على الخصوصية ومبني على الأندرويد الخام / [Discord](https://discord.gg/gD6DMtf)
 * [⁠AsteroidOS](https://asteroidos.org/) - نظام تشغيل مبني على لينكس مخصص للساعات الذكية (Smart Watches)
 
