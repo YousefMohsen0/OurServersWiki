@@ -20,7 +20,7 @@
 * ⭐ **[PopcornMovies](https://popcornmovies.io/)** أو [BingeBox](https://bingebox.to/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.com/invite/JAxTMkmcpd)
 * ⭐ **[67Movies](https://67movies.nl/)**, [2](https://67movies.net/) أو [456movie](https://456movie.nl), [2](https://345movie.nl) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/4SJ5c9gZUQ)
 * ⭐ **[Coreflix](https://coreflix.tv/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.com/invite/FkaeFU32nr)
-* ⭐ **[FlickyStream](https://flickystream.su/)**, [MeowTV](https://meowtv.ru/) أو [CineMora](https://cinemora.ru/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [سيرفر ديسكورد للغراب](https://discord.gg/the-raven)
+* ⭐ **[MeowTV](https://meowtv.ru/)** [FlickyStream](https://flickystream.su/) أو [CineMora](https://cinemora.ru/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [سيرفر ديسكورد للغراب](https://discord.gg/the-raven)
 * ⭐ **[bCine](https://bcine.ru/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [سيرفر ديسكورد](https://discord.gg/6ZXNmPedkG)
 * ⭐ **[ShuttleTV](https://shuttletv.su/)**, [2](https://shuttletv.pk/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/wsPmVB7ZJZ)
 * ⭐ **[TouStream](https://toustream.xyz/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/us5-and-toustream-1157125685178007672)
@@ -44,6 +44,7 @@
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - All Platforms / Use Streaming Mode / [Subreddit](https://www.reddit.com/r/PlayTorrio/) / [Discord](https://discord.gg/bbkVHRHnRk) / [GitHub](https://github.com/ayman708-UX/PlayTorrioV2) (موقع عربي)
 * [ArrowTV](https://arrowtv.net/), [Cinezo](https://www.cinezo.net/) أو [Flikhub](https://www.flikhub.net/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/yWWKfMbtm3)
 * [GOATED](https://goated.cx/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / جودة 4K / [ديسكورد](https://discord.gg/goatedcx)
+* [cinrift](https://cinrift.me/) - افلام / مسلسلات / انمي / تشغيل تلقائي / [Discord](https://discord.gg/JxgRaYMVHF)
 * [dulo.tv](https://dulo.tv/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/2dZK8xGU3q)
 * [Overlook](https://overlook.cx/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.com/invite/rbe9DJNuhH)
 * [Stigstream](https://stigstream.ru/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/VjHhPyuZX)
@@ -54,7 +55,6 @@
 * [Movie Night](https://movienig.ht/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [سيرفر ديسكورد](https://discord.com/invite/movie)
 * [Official Chillflix](https://chillflix.lol/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [تليجرام](https://t.me/+jXrFnrO-TYA4ZGMy) / [ديسكورد](https://discord.gg/6r5KTZgqXV)
 * [Movish](https://movish.to/) أو [LatestMovies](https://latestmovies.net/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/FsbU2BQcjQ)
-* [cinrift](https://cinrift.me/) - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.gg/5dms6DVCd)
 * [Flixtrz](https://flixtrz.com/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي
 * [CineBolt](https://cinebolt.org/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي / [ديسكورد](https://discord.gg/7ZbCzMPt6f)
 * [ZXCSTREAM](https://zxcprime.icu/) - أفلام / مسلسلات / [قناة تليجرام](https://t.me/zxc_stream) / [ديسكورد](https://discord.gg/yv7wJV97Jd)
@@ -118,6 +118,7 @@
 * ⭐ **[Bingr](https://bingr.one/)** - أفلام / مسلسلات / أنمي (واجهة نضيفة وسريعة جداً)
 * ⭐ **[NEPU](https://nepu.to/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي / جودة 4K / [صفحة متابعة الروابط الشغالة](https://rar.to/) / [سيرفر ديسكورد](https://discord.gg/nepu)
 * ⭐ **[WatchFlux](https://watchflux.tv/)** - أفلام / مسلسلات / أنمي / تشغيل تلقائي
+* ⭐ **[Moonflix](https://moonflix.website/)** - افلام / مسلسلات / انمي / [Telegram](https://t.me/Moonflix_official_Channel)
 * ⭐ **[CineStream](https://cinestream.kje.us/)** - أفلام / مسلسلات / أنمي / [ديسكورد](https://discord.com/invite/2cG7pyvq38)
 * [Streaming Unity](https://streamingunity.dog/) - أفلام / مسلسلات / أنمي
 * [CinemaCity](https://cinemacity.cc/) - أفلام / مسلسلات / أنمي / بيطلب تسجيل حساب
@@ -836,6 +837,7 @@
 * Google Drive - [افلام](https://databasegdriveplayer.co/movie.php)، [مسلسلات](https://databasegdriveplayer.co/series.php)، [أنمي](https://databasegdriveplayer.co/anime.php)، [دراما كورية](https://databasegdriveplayer.co/drama.php) - أفلام / مسلسلات / أنمي / 720p
 * [PlayTorrio](https://playtorrio.xyz/), [2](https://playtorrio.pages.dev/) - برنامج تحميل شامل / أفلام / مسلسلات / أنمي / [مجتمع ريديت](https://www.reddit.com/r/PlayTorrio/) / [ديسكورد](https://discord.gg/bbkVHRHnRk) / [جيت هاب](https://github.com/ayman708-UX/PlayTorrioV2)
 * [Cinetaro](https://cinetaro.tv/) - أفلام / مسلسلات / أنمي / [سيرفر ديسكورد](https://discord.com/invite/4yGUxdz3h9)
+* [Cinegram](https://cinegram.tv/) - أفلام / مسلسلات / أنمي / تشغيل تلقائي
 * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - أفلام / مسلسلات / يفضل تشغل [مانع إعلانات](/privacy#adblocking)
 * [Vadapav](https://rentry.co/FMHYB64#vadapav) - أفلام ومسلسلات بروابط مباشرة نظيفة
 * [MoviesFlix](https://themoviesflix.onl/) - أفلام / مسلسلات / أنمي / [قناة تليجرام الرسمية](https://telegram.dog/TheMoviesflix_Official)
@@ -1235,7 +1237,7 @@
 * [MCU Order](https://aaronperris.com/mcu/) - الترتيب الزمني والتاريخي والقصصي المعتمد والصحيح لمشاهدة كافّة أفلام ومسلسلات وسلاسل عالم مارفل السينمائي (Marvel Cinematic Universe) بالكامل
 * [DC Media List](https://docs.google.com/spreadsheets/d/1znGm7MswCG0yuRHSvyHDUuIdeNSS7DP-yWOEqKYTAIY/) - جدول بيانات شامل وببليوجرافي يضم كافّة أعمال وقصص وميديا عالم دي سي (DC Media) من سنة 1935 لسنة 2024
 * [RunPee](https://runpee.com/) - تطبيق عبقري جداً يحدد لك بالظبط إيه أنسب وأفضل الدقائق الميتة في الفيلم بداخل قاعة السينما اللي تقدر تروح فيها الحمام (ميعاد البريك وبدون ما يفوتك أي حدث أو لقطة مهمة في حبكة الفيلم)، مع ملخص سريع للي فاتك بداخل الدقائق دي
-* [MoviePooper](https://moviepooper.com/)، [themoviespoiler](https://themoviespoiler.com/) أو [DoesTheDogDie](https://www.doesthedogdie.com/) - حراقات ومفسرات السينما: مواقع تحرق وتلخص لك نهاية ومحبكة الفيلم بالكامل لو معندكش وقت تتفرجه، أو فحص لو كان الفيلم بيحتوي على لقطات مرعبة ومؤذية نفسياً للحيوانات أو الأشخاص (Does The Dog Die) قبل مشاهدته لحماية مشاعرك
+* [MoviePooper](https://moviepooper.com/) or [themoviespoiler](https://themoviespoiler.com/) - حراقات ومفسرات السينما: مواقع تحرق وتلخص لك نهاية ومحبكة الفيلم بالكامل لو معندكش وقت تتفرجه، أو فحص لو كان الفيلم بيحتوي على لقطات مرعبة ومؤذية نفسياً للحيوانات أو الأشخاص (Does The Dog Die) قبل مشاهدته لحماية مشاعرك
 * [Behind the Voice Actors](https://www.behindthevoiceactors.com/) - الموسوعة وقاعدة البيانات الأكبر عالمياً للتعرف على كافّة تفاصيل وسير وصور مؤدي الأصوات الحقيقيين (Voice Actors) خلف شخصيات الكارتون، الأنمي، والألعاب الشهيرة
 * [Movie-Censorship](https://www.movie-censorship.com/) - موقع رائع جداً للمحترفين يقارن بالتفصيل والصور الفروقات والاختلافات واللقطات المحذوفة والمعدلة بين النسخ المختلفة لنفس الفيلم (مثلاً الفروق بين طبعة المخرج Unrated وطبعة السينما PG-13 وطبعة الرقابة لكل بلد)
 * [ShotOnWhat?](https://shotonwhat.com/) - قاعدة بيانات هندسية جبارة لعشاق السينما؛ تظهر لك بالتفصيل كافّة التفاصيل والأنواع والماركات الفنية للكاميرات، والعدسات، والقطع، ومعدات الإضاءة السينمائية اللي تم استخدامها في تصوير وإنتاج كل فيلم بالظبط
