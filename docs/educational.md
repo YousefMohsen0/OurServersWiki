@@ -464,7 +464,7 @@
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - عارض خطوط الطول والعرض للأرض / القمر
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - البث الحي للشمس
 * [⁠WikiSky](https://www.wikisky.org/)، [SkyViewer](https://skyviewer.app/) أو [100,000 Stars](https://stars.chromeexperiments.com/) - تصورات تفاعلية للنجوم
-* [⁠Space Time](https://space.pointdynamics.com/) - محاكي النظام الشمسي / النجمي ثلاثي الأبعاد
+* [⁠Space Time](https://space.pointdynamics.com/) او [⁠SpaceSim](https://spacesim.co/) - محاكي النظام الشمسي / النجمي ثلاثي الأبعاد
 * [TheSkyLive](https://theskylive.com/)، [Solar System Scope](https://www.solarsystemscope.com/) أو [Atlas of Space](https://atlasof.space/) - محاكيات / معلومات النظام الشمسي
 * [CelesTrack](https://celestrak.org/) - تصور مدار الأرض
 * [Space Object Comparison](https://mr21.github.io/space-object-comparison/) - مقارنة أحجام الأجرام السماوية
@@ -1152,7 +1152,7 @@
 * [OJAD](https://www.gavo.t.u-tokyo.ac.jp/ojad/eng/pages/home) - قاموس نبرة الصوت اليابانية
 * [DelvinLanguage](http://delvinlanguage.com/) - ملء الكلمات اليابانية المفقودة
 * [Jlpt N3](https://dethitiengnhat.com/en/) أو [JapaneseTest4You](https://japanesetest4you.com/) - أسئلة اختبار JLPT / [القواعد](https://jlptgrammarlist.neocities.org/)
-* [GetKanda](https://getkana.com/app/)، [Nihonoari](https://github.com/aeri/Nihonoari-App) أو [RealKana](https://realkana.com/) - تعلم الـ Kana
+* [GetKanda](https://getkana.com/app/)، [Nihonoari](https://github.com/aeri/Nihonoari-App), [⁠Kana](https://vedxyz.github.io/kana/) أو [RealKana](https://realkana.com/) - تعلم الـ Kana
 
 ***
 
